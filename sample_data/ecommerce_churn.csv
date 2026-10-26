@@ -1,0 +1,1543 @@
+Customer_ID,Age,Gender,Annual_Income,Spending_Score,Membership_Years,Preferred_Category,Total_Purchases,City,Last_Purchase_Date,Discount_Used,Tracking_Code,Churned
+CUST-1000,56.0,Female,63100.0,5.0,5.0,Home & Kitchen,17,Chicago,Invalid Date,Yes,Active_Batch_2024,1
+CUST-1001,69.0,Male,34600.0,4.0,10.0,fashion,18, Chicago ,2023-04-25,NO,Active_Batch_2024,1
+CUST-1002,46.0,Male,,36.0,1.0,home & kitchen,24,los angeles,"Jan 26, 2023",Yes,Active_Batch_2024,0
+CUST-1003,32.0,Female,,6.0,10.0,ELECTRONICS ,19,Los Angeles,10-09-2023,yes,Active_Batch_2024,1
+CUST-1004,60.0,Male,,21.0,7.0,Electronics,21,new york,08/09/2023,Yes,Active_Batch_2024,1
+CUST-1005,,Male,62500.0,77.0,1.0,Books,25,los angeles,2023-08-17,Yes,Active_Batch_2024,0
+CUST-1006,38.0,Female,72800.0,89.0,3.0,electronics,14,houston,"May 23, 2023",Yes,Active_Batch_2024,0
+CUST-1007,56.0,Male,64100.0,26.0,0.5,Sports,24,Los Angeles,04-15-2023,NO,Active_Batch_2024,0
+CUST-1008,36.0,Female,103600.0,55.0,7.0,ELECTRONICS ,14,new york,31/03/2023,yes,Active_Batch_2024,0
+CUST-1009,40.0,Male,46300.0,39.0,10.0,Beauty,15,Chicago,2024-03-08,yes,Active_Batch_2024,0
+CUST-1010,28.0,Female,43400.0,84.0,2.0,Sports,17,Houston,"Feb 02, 2023",yes,Active_Batch_2024,0
+CUST-1011,28.0,Male,30400.0,33.0,0.5,Books,17,new york,01-31-2023,No,Active_Batch_2024,1
+CUST-1012,41.0,Male,950000.0,14.0,0.5,ELECTRONICS ,22,houston,06/04/2023,No,Active_Batch_2024,1
+CUST-1013,53.0,Other,37700.0,56.0,1.0,Home & Kitchen,21, Chicago ,2023-08-12,yes,Active_Batch_2024,0
+CUST-1014,,Female,70500.0,100.0,3.0,home & kitchen,28,new york,"Aug 27, 2023",Yes,Active_Batch_2024,0
+CUST-1015,41.0,Female,65500.0,81.0,0.5,Electronics,30,los angeles,06-01-2024,Yes,Active_Batch_2024,0
+CUST-1016,20.0,Male,38000.0,21.0,10.0,home & kitchen,21,los angeles,28/01/2023,yes,Active_Batch_2024,0
+CUST-1017,39.0,Female,79700.0,46.0,10.0,Fashion,13, Chicago ,2023-07-23,NO,Active_Batch_2024,0
+CUST-1018,19.0,Female,102900.0,16.0,5.0,fashion,11,los angeles,"Mar 05, 2024",NO,Active_Batch_2024,0
+CUST-1019,41.0,Female,73900.0,16.0,5.0,Beauty,20,Chicago,08-14-2023,Yes,Active_Batch_2024,0
+CUST-1020,61.0,Female,1400.0,84.0,0.5,Fashion,20,houston,04/04/2024,Yes,Active_Batch_2024,0
+CUST-1021,47.0,Male,114700.0,29.0,1.0,Fashion,19,New York,2023-10-12,No,Active_Batch_2024,0
+CUST-1022,55.0,Male,83700.0,92.0,1.0,Beauty,26,New York,"Jan 07, 2023",NO,Active_Batch_2024,0
+CUST-1023,19.0,Female,113900.0,8.0,2.0,fashion,31,Houston,06-13-2023,Yes,Active_Batch_2024,0
+CUST-1024,38.0,Male,92300.0,88.0,7.0,Home & Kitchen,15,Phoenix,08/03/2024,Yes,Active_Batch_2024,0
+CUST-1025,50.0,Male,97300.0,3.0,7.0,fashion,20,Chicago,,yes,Active_Batch_2024,1
+CUST-1026,29.0,Female,70100.0,89.0,7.0,Electronics,18,Phoenix,"Dec 15, 2023",No,Active_Batch_2024,0
+CUST-1027,39.0,Female,,19.0,3.0,home & kitchen,20,New York,10-12-2023,NO,Active_Batch_2024,1
+CUST-1028,61.0,Female,74300.0,97.0,1.0,Home & Kitchen,16,new york,09/06/2023,NO,Active_Batch_2024,0
+CUST-1029,42.0,Female,,66.0,2.0,electronics,13,new york,2023-08-09,No,Active_Batch_2024,0
+CUST-1030,66.0,Female,75800.0,79.0,5.0,home & kitchen,16,new york,Invalid Date,Yes,Active_Batch_2024,0
+CUST-1031,44.0,Male,-700.0,86.0,10.0,Home & Kitchen,21,los angeles,12-11-2023,NO,Active_Batch_2024,0
+CUST-1032,59.0,Male,66100.0,74.0,7.0,fashion,16,los angeles,15/04/2023,NO,Active_Batch_2024,0
+CUST-1033,45.0,Male,98600.0,82.0,5.0,Beauty,22, New York ,2023-04-05,NO,Active_Batch_2024,0
+CUST-1034,33.0,Male,67400.0,22.0,5.0,fashion,14,new york,"Jan 25, 2024",yes,Active_Batch_2024,0
+CUST-1035,32.0,Female,108200.0,46.0,0.5,electronics,13,new york,04-10-2023,No,Active_Batch_2024,0
+CUST-1036,64.0,Male,58400.0,91.0,3.0,Home & Kitchen,14,Los Angeles,03/01/2024,NO,Active_Batch_2024,0
+CUST-1037,68.0,Male,90100.0,13.0,2.0,Electronics,17, Chicago ,2023-12-19,No,Active_Batch_2024,0
+CUST-1038,61.0,Male,43000.0,33.0,3.0,fashion,17,New York,"Sep 28, 2023",Yes,Active_Batch_2024,0
+CUST-1039,69.0,Male,89000.0,5.0,0.5,Home & Kitchen,17,los angeles,02-14-2023,No,Active_Batch_2024,0
+CUST-1040,20.0,Male,70800.0,90.0,2.0,home & kitchen,19,houston,15/04/2024,yes,Active_Batch_2024,0
+CUST-1041,54.0,Male,59500.0,77.0,2.0,electronics,13,los angeles,2023-05-08,yes,Active_Batch_2024,0
+CUST-1042,68.0,Male,700.0,27.0,1.0,Electronics,16,houston,"Jan 23, 2024",No,Active_Batch_2024,1
+CUST-1043,24.0,Male,58600.0,78.0,3.0,Home & Kitchen,21, New York ,03-22-2023,yes,Active_Batch_2024,0
+CUST-1044,38.0,Male,70300.0,24.0,3.0,ELECTRONICS ,22,houston,28/10/2023,NO,Active_Batch_2024,0
+CUST-1045,26.0,Female,85700.0,67.0,1.0,fashion,19,los angeles,2024-01-06,yes,Active_Batch_2024,0
+CUST-1046,56.0,Male,104000.0,63.0,5.0,electronics,18,Houston,"Jul 16, 2023",Yes,Active_Batch_2024,1
+CUST-1047,35.0,Male,115900.0,94.0,0.5,Electronics,18,los angeles,03-13-2023,No,Active_Batch_2024,0
+CUST-1048,21.0,Female,96200.0,99.0,3.0,Electronics,17,Chicago,16/02/2023,No,Active_Batch_2024,0
+CUST-1049,42.0,Male,50900.0,48.0,1.0,Fashion,14,Houston,2023-08-22,Yes,Active_Batch_2024,1
+CUST-1050,31.0,Female,57400.0,63.0,10.0,Sports,15,new york,,Yes,Active_Batch_2024,0
+CUST-1051,67.0,Female,83500.0,78.0,2.0,electronics,22,New York,10-24-2023,Yes,Active_Batch_2024,0
+CUST-1052,26.0,Male,78000.0,12.0,7.0,Electronics,28,houston,23/03/2023,Yes,Active_Batch_2024,1
+CUST-1053,43.0,Female,105700.0,28.0,10.0,Home & Kitchen,25,los angeles,2023-08-27,NO,Active_Batch_2024,0
+CUST-1054,19.0,Male,127000.0,44.0,1.0,Fashion,21,los angeles,"Apr 14, 2023",yes,Active_Batch_2024,0
+CUST-1055,37.0,Female,121700.0,93.0,7.0,Sports,14,houston,01-25-2024,yes,Active_Batch_2024,0
+CUST-1056,45.0,Male,102300.0,43.0,5.0,home & kitchen,21,Phoenix,12/10/2023,NO,Active_Batch_2024,1
+CUST-1057,64.0,Female,78200.0,17.0,0.5,Home & Kitchen,22,New York,2024-04-09,Yes,Active_Batch_2024,0
+CUST-1058,24.0,Male,98700.0,40.0,7.0,fashion,22,Los Angeles,"Jan 09, 2024",No,Active_Batch_2024,0
+CUST-1059,61.0,Female,106500.0,49.0,5.0,Sports,13, Chicago ,06-16-2023,No,Active_Batch_2024,0
+CUST-1060,25.0,Female,,85.0,7.0,electronics,17,new york,Invalid Date,No,Active_Batch_2024,0
+CUST-1061,64.0,Male,51700.0,57.0,2.0,fashion,22,Houston,2024-01-15,Yes,Active_Batch_2024,1
+CUST-1062,52.0,Male,45800.0,87.0,2.0,Books,16,los angeles,"Dec 30, 2023",NO,Active_Batch_2024,0
+CUST-1063,31.0,Female,43100.0,84.0,2.0,Books,15, New York ,08-03-2023,NO,Active_Batch_2024,0
+CUST-1064,34.0,Female,30500.0,64.0,2.0,electronics,22,New York,01/10/2023,NO,Active_Batch_2024,0
+CUST-1065,53.0,Male,71200.0,75.0,1.0,home & kitchen,20,houston,2023-03-15,yes,Active_Batch_2024,0
+CUST-1066,67.0,Female,40000.0,57.0,2.0,Sports,21,los angeles,"Jun 25, 2023",yes,Active_Batch_2024,0
+CUST-1067,57.0,Other,45400.0,98.0,10.0,Fashion,24,Houston,06-30-2024,yes,Active_Batch_2024,0
+CUST-1068,21.0,Female,82500.0,74.0,2.0,ELECTRONICS ,14, New York ,08/09/2023,yes,Active_Batch_2024,0
+CUST-1069,19.0,Male,69500.0,74.0,10.0,Electronics,18, Chicago ,2023-06-17,No,Active_Batch_2024,0
+CUST-1070,23.0,Female,75700.0,70.0,1.0,ELECTRONICS ,28, Chicago ,"Apr 18, 2024",No,Active_Batch_2024,0
+CUST-1071,59.0,Male,99100.0,100.0,2.0,Books,21,Houston,01-24-2024,NO,Active_Batch_2024,0
+CUST-1072,21.0,,86600.0,88.0,5.0,Books,23,New York,04/10/2023,yes,Active_Batch_2024,0
+CUST-1073,46.0,Female,103000.0,76.0,5.0,home & kitchen,14, New York ,2023-08-13,NO,Active_Batch_2024,1
+CUST-1074,35.0,Male,67000.0,43.0,3.0,ELECTRONICS ,16,houston,"Nov 29, 2023",Yes,Active_Batch_2024,0
+CUST-1075,43.0,Female,105300.0,23.0,5.0,ELECTRONICS ,19, New York ,,yes,Active_Batch_2024,1
+CUST-1076,61.0,Male,,27.0,0.5,Fashion,20,Chicago,27/02/2023,yes,Active_Batch_2024,1
+CUST-1077,51.0,,69200.0,,0.5,home & kitchen,23,houston,2023-08-23,NO,Active_Batch_2024,0
+CUST-1078,27.0,Other,101500.0,37.0,0.5,home & kitchen,24,new york,"Feb 02, 2023",NO,Active_Batch_2024,0
+CUST-1079,53.0,Female,43200.0,6.0,1.0,electronics,19,Los Angeles,11-20-2023,Yes,Active_Batch_2024,0
+CUST-1080,31.0,Male,115600.0,65.0,5.0,fashion,26,new york,15/02/2024,NO,Active_Batch_2024,0
+CUST-1081,48.0,Female,57900.0,6.0,10.0,home & kitchen,18,Los Angeles,2023-10-02,yes,Active_Batch_2024,0
+CUST-1082,65.0,Male,34500.0,50.0,0.5,home & kitchen,20,new york,"Mar 09, 2023",No,Active_Batch_2024,0
+CUST-1083,32.0,Male,81300.0,22.0,3.0,Home & Kitchen,15, New York ,08-05-2023,Yes,Active_Batch_2024,0
+CUST-1084,25.0,Female,55600.0,88.0,1.0,Sports,21,New York,19/11/2023,Yes,Active_Batch_2024,0
+CUST-1085,31.0,Male,115600.0,25.0,3.0,Sports,22,Houston,2023-08-06,yes,Active_Batch_2024,1
+CUST-1086,40.0,Male,54200.0,79.0,5.0,Beauty,27,los angeles,"May 26, 2024",No,Active_Batch_2024,0
+CUST-1087,57.0,Other,72900.0,90.0,2.0,ELECTRONICS ,12,Los Angeles,02-10-2024,NO,Active_Batch_2024,0
+CUST-1088,38.0,Male,-12000.0,72.0,3.0,Electronics,18,los angeles,14/04/2024,NO,Active_Batch_2024,0
+CUST-1089,33.0,Male,85300.0,51.0,2.0,ELECTRONICS ,10,Chicago,2023-05-27,No,Active_Batch_2024,0
+CUST-1090,,Female,45600.0,88.0,1.0,electronics,19,Chicago,Invalid Date,No,Active_Batch_2024,0
+CUST-1091,35.0,Male,82300.0,48.0,3.0,electronics,25,los angeles,09-29-2023,yes,Active_Batch_2024,1
+CUST-1092,64.0,Female,54300.0,70.0,3.0,electronics,17,Chicago,23/05/2023,NO,Active_Batch_2024,0
+CUST-1093,41.0,,13800.0,99.0,7.0,fashion,16,houston,2023-09-10,yes,Active_Batch_2024,0
+CUST-1094,43.0,Female,68300.0,65.0,1.0,Electronics,16,los angeles,"Sep 27, 2023",NO,Active_Batch_2024,0
+CUST-1095,42.0,Female,67200.0,60.0,1.0,Sports,18,Chicago,03-14-2024,NO,Active_Batch_2024,0
+CUST-1096,62.0,Male,87000.0,46.0,0.5,Fashion,9,Los Angeles,13/02/2024,No,Active_Batch_2024,0
+CUST-1097,58.0,Male,103900.0,36.0,5.0,Sports,22,New York,2024-01-06,yes,Active_Batch_2024,0
+CUST-1098,46.0,Female,112800.0,58.0,3.0,fashion,23,Chicago,"Aug 13, 2023",No,Active_Batch_2024,0
+CUST-1099,32.0,Female,86600.0,,3.0,electronics,23,los angeles,05-22-2023,yes,Active_Batch_2024,1
+CUST-1100,62.0,Female,72000.0,38.0,10.0,fashion,19,Los Angeles,,NO,Active_Batch_2024,0
+CUST-1101,18.0,Male,29300.0,11.0,1.0,Sports,10,los angeles,2024-06-05,Yes,Active_Batch_2024,1
+CUST-1102,42.0,Male,70100.0,12.0,1.0,Fashion,12, Chicago ,"May 20, 2024",Yes,Active_Batch_2024,0
+CUST-1103,24.0,Male,70400.0,42.0,5.0,Beauty,18, New York ,04-04-2023,yes,Active_Batch_2024,0
+CUST-1104,26.0,Female,60000.0,39.0,1.0,Electronics,22, New York ,18/02/2023,yes,Active_Batch_2024,0
+CUST-1105,41.0,Male,80800.0,71.0,2.0,fashion,19, New York ,2023-04-23,No,Active_Batch_2024,1
+CUST-1106,18.0,Female,93000.0,11.0,2.0,Sports,18,new york,"Jun 06, 2023",NO,Active_Batch_2024,0
+CUST-1107,61.0,Female,44500.0,36.0,7.0,Electronics,23,houston,06-13-2023,Yes,Active_Batch_2024,0
+CUST-1108,25.0,Male,44200.0,52.0,2.0,Sports,14,los angeles,08/03/2024,No,Active_Batch_2024,0
+CUST-1109,41.0,Female,61500.0,31.0,2.0,Sports,23,houston,2023-03-07,yes,Active_Batch_2024,0
+CUST-1110,28.0,Male,49600.0,33.0,5.0,Fashion,12,los angeles,"Jan 30, 2024",NO,Active_Batch_2024,1
+CUST-1111,68.0,Female,24000.0,13.0,3.0,Beauty,19, Chicago ,01-26-2024,No,Active_Batch_2024,0
+CUST-1112,34.0,Female,40100.0,18.0,2.0,Electronics,21,Chicago,24/04/2024,No,Active_Batch_2024,0
+CUST-1113,25.0,Female,34200.0,41.0,7.0,electronics,16,new york,2024-06-25,yes,Active_Batch_2024,1
+CUST-1114,52.0,Female,95200.0,58.0,1.0,Electronics,21,New York,"Sep 15, 2023",NO,Active_Batch_2024,0
+CUST-1115,52.0,Male,107600.0,56.0,2.0,home & kitchen,23,los angeles,01-12-2023,Yes,Active_Batch_2024,0
+CUST-1116,50.0,Male,37600.0,24.0,7.0,electronics,19,Los Angeles,28/04/2023,No,Active_Batch_2024,0
+CUST-1117,22.0,Female,78700.0,,5.0,Electronics,23,Chicago,2023-10-01,yes,Active_Batch_2024,0
+CUST-1118,59.0,Male,86800.0,31.0,10.0,Home & Kitchen,14,Houston,"Dec 15, 2023",No,Active_Batch_2024,0
+CUST-1119,56.0,Male,27700.0,,10.0,Home & Kitchen,17,Houston,04-25-2023,yes,Active_Batch_2024,0
+CUST-1120,58.0,Male,69000.0,10.0,10.0,Sports,25,New York,Invalid Date,yes,Active_Batch_2024,0
+CUST-1121,45.0,Female,128300.0,60.0,1.0,electronics,20,Los Angeles,2023-10-28,yes,Active_Batch_2024,1
+CUST-1122,24.0,Male,81900.0,2.0,7.0,Electronics,15, New York ,"Mar 21, 2024",NO,Active_Batch_2024,1
+CUST-1123,26.0,Female,,15.0,2.0,Sports,16,new york,06-11-2023,Yes,Active_Batch_2024,1
+CUST-1124,25.0,,51000.0,3.0,3.0,ELECTRONICS ,13,houston,09/04/2024,NO,Active_Batch_2024,1
+CUST-1125,29.0,Male,14400.0,43.0,1.0,Sports,14,Phoenix,,Yes,Active_Batch_2024,0
+CUST-1126,51.0,Male,76800.0,31.0,1.0,fashion,17,Phoenix,"Jan 04, 2023",yes,Active_Batch_2024,0
+CUST-1127,50.0,Male,113700.0,70.0,10.0,Home & Kitchen,19,new york,09-27-2023,Yes,Active_Batch_2024,0
+CUST-1128,65.0,Female,44700.0,67.0,3.0,ELECTRONICS ,16,Chicago,27/05/2024,NO,Active_Batch_2024,0
+CUST-1129,40.0,Male,16600.0,56.0,10.0,Books,18, Chicago ,2023-07-02,No,Active_Batch_2024,0
+CUST-1130,41.0,Male,48400.0,63.0,1.0,fashion,24,Chicago,"Jun 03, 2024",NO,Active_Batch_2024,0
+CUST-1131,54.0,Male,87000.0,75.0,2.0,electronics,13,Houston,04-19-2023,NO,Active_Batch_2024,0
+CUST-1132,52.0,Female,54300.0,15.0,10.0,Sports,20,houston,02/11/2023,NO,Active_Batch_2024,1
+CUST-1133,61.0,Male,44500.0,92.0,10.0,Home & Kitchen,17,Houston,2024-06-03,NO,Active_Batch_2024,0
+CUST-1134,57.0,Female,65500.0,10.0,10.0,Beauty,15,los angeles,"Jul 23, 2023",NO,Active_Batch_2024,0
+CUST-1135,39.0,Female,70700.0,38.0,1.0,Home & Kitchen,21,Houston,06-06-2023,Yes,Active_Batch_2024,0
+CUST-1136,44.0,Male,30300.0,47.0,2.0,Fashion,26,Phoenix,18/01/2024,Yes,Active_Batch_2024,0
+CUST-1137,52.0,Female,59600.0,57.0,3.0,Home & Kitchen,17,Phoenix,2023-06-15,No,Active_Batch_2024,1
+CUST-1138,18.0,Male,52600.0,50.0,0.5,Beauty,20,houston,"Jun 27, 2024",NO,Active_Batch_2024,0
+CUST-1139,52.0,Female,49000.0,71.0,3.0,Beauty,24,Houston,01-01-2023,NO,Active_Batch_2024,0
+CUST-1140,54.0,Female,39600.0,15.0,2.0,Sports,15,new york,28/11/2023,No,Active_Batch_2024,0
+CUST-1141,,Female,,18.0,5.0,electronics,7,new york,2024-05-15,No,Active_Batch_2024,0
+CUST-1142,31.0,Male,48900.0,82.0,10.0,Beauty,20,New York,"Jan 20, 2023",yes,Active_Batch_2024,0
+CUST-1143,20.0,Male,15100.0,88.0,3.0,Home & Kitchen,23, Chicago ,04-25-2023,No,Active_Batch_2024,0
+CUST-1144,18.0,Male,71600.0,2.0,5.0,electronics,24,houston,07/01/2024,No,Active_Batch_2024,1
+CUST-1145,22.0,Male,83100.0,84.0,5.0,Electronics,26,Houston,2023-11-11,No,Active_Batch_2024,0
+CUST-1146,43.0,Male,45100.0,,2.0,Home & Kitchen,15,houston,"Sep 03, 2023",yes,Active_Batch_2024,0
+CUST-1147,31.0,Male,51000.0,43.0,2.0,home & kitchen,18,Chicago,03-01-2023,Yes,Active_Batch_2024,0
+CUST-1148,56.0,Male,48800.0,26.0,10.0,Sports,19, New York ,04/09/2023,yes,Active_Batch_2024,0
+CUST-1149,44.0,Male,56300.0,71.0,0.5,fashion,20,Los Angeles,2023-03-22,Yes,Active_Batch_2024,0
+CUST-1150,26.0,Female,92700.0,38.0,7.0,Sports,18,Chicago,Invalid Date,No,Active_Batch_2024,0
+CUST-1151,32.0,Male,62100.0,94.0,1.0,Beauty,29,Chicago,03-29-2023,yes,Active_Batch_2024,0
+CUST-1152,32.0,Male,86000.0,42.0,3.0,Books,17,Houston,12/05/2024,yes,Active_Batch_2024,1
+CUST-1153,43.0,Male,40800.0,5.0,2.0,Fashion,21, New York ,2023-03-12,Yes,Active_Batch_2024,1
+CUST-1154,59.0,Male,55400.0,11.0,3.0,home & kitchen,25,new york,"Jun 29, 2024",yes,Active_Batch_2024,0
+CUST-1155,30.0,Other,88900.0,65.0,7.0,Beauty,17,new york,05-09-2023,yes,Active_Batch_2024,0
+CUST-1156,68.0,Male,44900.0,34.0,7.0,Home & Kitchen,13,Chicago,12/05/2023,NO,Active_Batch_2024,0
+CUST-1157,49.0,Female,90300.0,1.0,10.0,electronics,23, Chicago ,2024-05-01,Yes,Active_Batch_2024,1
+CUST-1158,56.0,Other,49300.0,83.0,5.0,home & kitchen,15,new york,"Jun 19, 2023",yes,Active_Batch_2024,0
+CUST-1159,66.0,Female,,2.0,10.0,Books,17,los angeles,09-29-2023,yes,Active_Batch_2024,1
+CUST-1160,69.0,Female,106800.0,,1.0,fashion,19,Chicago,24/06/2024,No,Active_Batch_2024,0
+CUST-1161,49.0,Female,54100.0,20.0,0.5,electronics,25,Los Angeles,2024-03-09,NO,Active_Batch_2024,1
+CUST-1162,21.0,,68600.0,61.0,3.0,Fashion,19, New York ,"Aug 05, 2023",NO,Active_Batch_2024,0
+CUST-1163,47.0,Female,80400.0,87.0,1.0,ELECTRONICS ,25,New York,07-25-2023,No,Active_Batch_2024,0
+CUST-1164,54.0,Female,70700.0,21.0,0.5,Fashion,16,Phoenix,16/11/2023,No,Active_Batch_2024,1
+CUST-1165,40.0,Female,71400.0,88.0,3.0,Sports,17,houston,2024-02-13,No,Active_Batch_2024,0
+CUST-1166,56.0,Female,63600.0,68.0,1.0,home & kitchen,20,Chicago,"Jan 18, 2024",No,Active_Batch_2024,0
+CUST-1167,62.0,Female,32400.0,12.0,2.0,Sports,13,new york,03-24-2024,NO,Active_Batch_2024,0
+CUST-1168,32.0,Male,73700.0,22.0,3.0,Beauty,21,houston,13/06/2024,yes,Active_Batch_2024,0
+CUST-1169,60.0,Male,46700.0,20.0,1.0,Electronics,23,Los Angeles,2024-04-07,yes,Active_Batch_2024,1
+CUST-1170,46.0,Male,84400.0,82.0,7.0,Beauty,6,Houston,"May 04, 2023",No,Active_Batch_2024,0
+CUST-1171,53.0,Male,99300.0,1.0,0.5,fashion,8,Phoenix,09-11-2023,Yes,Active_Batch_2024,0
+CUST-1172,30.0,Male,19900.0,30.0,1.0,home & kitchen,18, Chicago ,19/08/2023,No,Active_Batch_2024,0
+CUST-1173,49.0,Male,99300.0,97.0,2.0,Electronics,15,New York,2023-03-07,yes,Active_Batch_2024,0
+CUST-1174,24.0,Female,54700.0,24.0,10.0,electronics,16,Houston,"Dec 13, 2023",Yes,Active_Batch_2024,1
+CUST-1175,68.0,Male,61700.0,14.0,3.0,Electronics,15,Los Angeles,,No,Active_Batch_2024,1
+CUST-1176,39.0,Female,42200.0,36.0,3.0,fashion,17,new york,22/01/2023,Yes,Active_Batch_2024,1
+CUST-1177,45.0,Male,69700.0,69.0,3.0,Home & Kitchen,16,los angeles,2023-08-24,No,Active_Batch_2024,0
+CUST-1178,,Male,66700.0,75.0,2.0,Sports,21, New York ,"Aug 14, 2023",NO,Active_Batch_2024,0
+CUST-1179,59.0,Female,91900.0,24.0,0.5,Books,25,Houston,01-08-2023,yes,Active_Batch_2024,1
+CUST-1180,62.0,Female,46500.0,60.0,3.0,Beauty,17,Houston,Invalid Date,No,Active_Batch_2024,0
+CUST-1181,23.0,Male,106500.0,95.0,0.5,home & kitchen,18,New York,2023-03-14,Yes,Active_Batch_2024,0
+CUST-1182,45.0,Female,81600.0,55.0,1.0,fashion,15, New York ,"Mar 02, 2023",yes,Active_Batch_2024,0
+CUST-1183,45.0,Female,67300.0,77.0,7.0,ELECTRONICS ,22,Los Angeles,08-23-2023,No,Active_Batch_2024,1
+CUST-1184,61.0,Male,,80.0,7.0,Books,21,houston,11/03/2023,No,Active_Batch_2024,0
+CUST-1185,61.0,Male,57300.0,24.0,0.5,fashion,22,houston,2023-02-02,No,Active_Batch_2024,0
+CUST-1186,37.0,,59000.0,77.0,0.5,ELECTRONICS ,15, New York ,"Dec 05, 2023",No,Active_Batch_2024,1
+CUST-1187,47.0,Female,69200.0,24.0,7.0,ELECTRONICS ,20, Chicago ,03-14-2023,NO,Active_Batch_2024,0
+CUST-1188,28.0,Female,59800.0,54.0,3.0,ELECTRONICS ,19,Chicago,10/06/2024,yes,Active_Batch_2024,0
+CUST-1189,45.0,Female,49000.0,26.0,5.0,Home & Kitchen,26, Chicago ,2023-09-01,NO,Active_Batch_2024,0
+CUST-1190,42.0,Male,69400.0,66.0,5.0,Electronics,21, Chicago ,"Oct 13, 2023",yes,Active_Batch_2024,0
+CUST-1191,56.0,Male,44100.0,80.0,2.0,Fashion,21,Houston,05-12-2024,No,Active_Batch_2024,0
+CUST-1192,50.0,Male,73100.0,38.0,10.0,Beauty,16,Houston,08/08/2023,yes,Active_Batch_2024,0
+CUST-1193,18.0,Female,59400.0,65.0,7.0,ELECTRONICS ,23,Phoenix,2023-05-16,Yes,Active_Batch_2024,0
+CUST-1194,44.0,Female,82400.0,75.0,7.0,fashion,17,new york,"Apr 29, 2024",yes,Active_Batch_2024,0
+CUST-1195,69.0,Female,89700.0,51.0,2.0,electronics,22,Los Angeles,09-06-2023,Yes,Active_Batch_2024,0
+CUST-1196,30.0,Male,89700.0,35.0,5.0,electronics,16,Los Angeles,29/04/2024,Yes,Active_Batch_2024,0
+CUST-1197,58.0,Male,73000.0,,1.0,home & kitchen,19,Phoenix,2024-02-21,NO,Active_Batch_2024,0
+CUST-1198,20.0,Female,75900.0,29.0,3.0,Sports,14,Houston,"Jul 14, 2023",yes,Active_Batch_2024,0
+CUST-1199,56.0,Female,56900.0,37.0,3.0,ELECTRONICS ,18,New York,04-07-2023,No,Active_Batch_2024,0
+CUST-1200,23.0,Female,81900.0,81.0,1.0,fashion,16,New York,,yes,Active_Batch_2024,0
+CUST-1201,25.0,Male,84800.0,58.0,1.0,ELECTRONICS ,23,new york,2023-04-10,NO,Active_Batch_2024,1
+CUST-1202,44.0,Female,,54.0,5.0,Home & Kitchen,27, New York ,"Mar 17, 2024",Yes,Active_Batch_2024,1
+CUST-1203,26.0,Male,74500.0,39.0,2.0,Sports,20,Houston,12-29-2023,Yes,Active_Batch_2024,1
+CUST-1204,54.0,Other,1200000.0,42.0,1.0,ELECTRONICS ,15,houston,09/03/2024,NO,Active_Batch_2024,1
+CUST-1205,50.0,Male,56100.0,28.0,2.0,Beauty,16,houston,2024-02-25,NO,Active_Batch_2024,0
+CUST-1206,68.0,Female,,29.0,10.0,electronics,10,Houston,"Apr 23, 2024",yes,Active_Batch_2024,1
+CUST-1207,59.0,Male,54500.0,43.0,0.5,ELECTRONICS ,18,los angeles,02-25-2023,Yes,Active_Batch_2024,0
+CUST-1208,61.0,Female,27400.0,3.0,3.0,Beauty,23, New York ,11/04/2023,NO,Active_Batch_2024,1
+CUST-1209,41.0,Male,68100.0,10.0,5.0,Beauty,27,houston,2023-03-04,yes,Active_Batch_2024,1
+CUST-1210,32.0,Male,65700.0,59.0,3.0,Electronics,26,Chicago,Invalid Date,yes,Active_Batch_2024,0
+CUST-1211,,Male,69900.0,14.0,5.0,Beauty,20, Chicago ,02-17-2024,No,Active_Batch_2024,0
+CUST-1212,49.0,Male,75400.0,76.0,0.5,Sports,22,Houston,14/12/2023,Yes,Active_Batch_2024,0
+CUST-1213,41.0,Male,45100.0,47.0,3.0,electronics,11,los angeles,2023-04-22,yes,Active_Batch_2024,0
+CUST-1214,58.0,Female,71800.0,42.0,0.5,home & kitchen,15,Chicago,"Sep 12, 2023",NO,Active_Batch_2024,0
+CUST-1215,69.0,Male,76100.0,94.0,5.0,Home & Kitchen,19, Chicago ,07-16-2023,Yes,Active_Batch_2024,0
+CUST-1216,66.0,Female,52800.0,32.0,1.0,electronics,14, Chicago ,14/07/2023,NO,Active_Batch_2024,0
+CUST-1217,66.0,Female,75500.0,32.0,10.0,fashion,12,new york,2024-04-04,NO,Active_Batch_2024,1
+CUST-1218,69.0,Female,67000.0,42.0,3.0,home & kitchen,23, New York ,"May 24, 2023",yes,Active_Batch_2024,0
+CUST-1219,29.0,Male,49200.0,,0.5,Beauty,14,Houston,03-08-2024,yes,Active_Batch_2024,0
+CUST-1220,56.0,Male,72100.0,26.0,7.0,ELECTRONICS ,19,los angeles,07/07/2023,No,Active_Batch_2024,0
+CUST-1221,19.0,Female,57700.0,1.0,3.0,Electronics,24,Phoenix,2023-10-13,NO,Active_Batch_2024,1
+CUST-1222,20.0,Other,82400.0,56.0,3.0,home & kitchen,22,new york,"Apr 18, 2024",yes,Active_Batch_2024,0
+CUST-1223,66.0,Male,59000.0,2.0,3.0,fashion,13,New York,09-13-2023,No,Active_Batch_2024,1
+CUST-1224,54.0,Male,32800.0,81.0,2.0,fashion,20,Chicago,19/03/2023,Yes,Active_Batch_2024,0
+CUST-1225,66.0,Male,71700.0,30.0,0.5,home & kitchen,23,Phoenix,,No,Active_Batch_2024,0
+CUST-1226,34.0,,70700.0,71.0,0.5,Electronics,17,Chicago,"Mar 29, 2024",No,Active_Batch_2024,0
+CUST-1227,66.0,Male,38000.0,52.0,3.0,Beauty,17,Houston,04-11-2023,NO,Active_Batch_2024,1
+CUST-1228,19.0,Male,83800.0,91.0,1.0,Sports,10,los angeles,21/02/2023,Yes,Active_Batch_2024,0
+CUST-1229,19.0,Female,82500.0,9.0,3.0,fashion,17,los angeles,2023-01-16,NO,Active_Batch_2024,0
+CUST-1230,45.0,Male,43300.0,22.0,2.0,Beauty,15, Chicago ,"Apr 06, 2023",NO,Active_Batch_2024,1
+CUST-1231,40.0,Male,48500.0,34.0,5.0,Sports,22,Phoenix,08-31-2023,No,Active_Batch_2024,0
+CUST-1232,54.0,Female,61400.0,49.0,2.0,Sports,12,los angeles,20/06/2023,No,Active_Batch_2024,0
+CUST-1233,49.0,Female,46000.0,1.0,1.0,fashion,14,houston,2024-02-21,yes,Active_Batch_2024,1
+CUST-1234,50.0,Male,81000.0,73.0,3.0,home & kitchen,18,Chicago,"May 12, 2024",No,Active_Batch_2024,1
+CUST-1235,18.0,Male,68700.0,84.0,0.5,Sports,17, Chicago ,05-07-2024,yes,Active_Batch_2024,0
+CUST-1236,36.0,Male,37700.0,53.0,10.0,ELECTRONICS ,13,Houston,07/08/2023,NO,Active_Batch_2024,0
+CUST-1237,19.0,Male,44400.0,83.0,7.0,electronics,14,los angeles,2024-02-15,No,Active_Batch_2024,0
+CUST-1238,61.0,Female,94700.0,100.0,3.0,Home & Kitchen,18,Los Angeles,"Mar 02, 2023",Yes,Active_Batch_2024,0
+CUST-1239,43.0,Male,103400.0,40.0,1.0,fashion,16,Houston,06-18-2023,Yes,Active_Batch_2024,0
+CUST-1240,49.0,Male,78500.0,45.0,0.5,Books,19,Phoenix,Invalid Date,NO,Active_Batch_2024,0
+CUST-1241,23.0,Male,59700.0,68.0,2.0,Sports,16,houston,2024-01-24,NO,Active_Batch_2024,0
+CUST-1242,49.0,Female,54000.0,9.0,5.0,Fashion,24, New York ,"Jan 03, 2023",No,Active_Batch_2024,0
+CUST-1243,21.0,Female,78700.0,22.0,5.0,ELECTRONICS ,15,New York,02-04-2024,yes,Active_Batch_2024,1
+CUST-1244,28.0,Female,,18.0,10.0,Books,19,Los Angeles,29/09/2023,No,Active_Batch_2024,0
+CUST-1245,34.0,Male,24700.0,76.0,3.0,Beauty,20, Chicago ,2024-04-10,yes,Active_Batch_2024,0
+CUST-1246,55.0,Female,90800.0,43.0,2.0,Home & Kitchen,26,Chicago,"Oct 20, 2023",No,Active_Batch_2024,0
+CUST-1247,41.0,Female,98600.0,39.0,10.0,Electronics,13,Phoenix,03-09-2024,Yes,Active_Batch_2024,0
+CUST-1248,22.0,Male,,73.0,7.0,Sports,19,Phoenix,13/05/2024,Yes,Active_Batch_2024,0
+CUST-1249,69.0,Male,37700.0,6.0,7.0,Electronics,13, New York ,2023-06-08,yes,Active_Batch_2024,1
+CUST-1250,51.0,Male,49100.0,83.0,10.0,Home & Kitchen,15,Los Angeles,,No,Active_Batch_2024,0
+CUST-1251,23.0,Male,18600.0,48.0,1.0,ELECTRONICS ,22,Chicago,07-14-2023,NO,Active_Batch_2024,0
+CUST-1252,39.0,Male,104900.0,7.0,5.0,ELECTRONICS ,15,New York,31/10/2023,yes,Active_Batch_2024,0
+CUST-1253,28.0,Male,56100.0,80.0,2.0,Home & Kitchen,30,new york,2023-08-11,Yes,Active_Batch_2024,0
+CUST-1254,65.0,Male,123300.0,69.0,3.0,ELECTRONICS ,24,new york,"Mar 01, 2023",yes,Active_Batch_2024,0
+CUST-1255,33.0,Female,113900.0,16.0,0.5,Sports,27,Phoenix,03-04-2023,No,Active_Batch_2024,0
+CUST-1256,50.0,Male,42400.0,1.0,3.0,Home & Kitchen,17,Los Angeles,18/11/2023,NO,Active_Batch_2024,0
+CUST-1257,26.0,Female,47300.0,37.0,3.0,fashion,19, New York ,2023-02-28,NO,Active_Batch_2024,1
+CUST-1258,23.0,Female,76700.0,83.0,2.0,Fashion,19,Phoenix,"Feb 21, 2023",yes,Active_Batch_2024,0
+CUST-1259,33.0,Female,21100.0,37.0,5.0,Beauty,8,new york,05-03-2024,No,Active_Batch_2024,0
+CUST-1260,46.0,Female,54000.0,81.0,2.0,electronics,17,Phoenix,29/05/2024,No,Active_Batch_2024,0
+CUST-1261,20.0,Male,51500.0,64.0,0.5,home & kitchen,20,new york,2024-06-27,NO,Active_Batch_2024,1
+CUST-1262,37.0,Female,111300.0,90.0,10.0,Fashion,17,Los Angeles,"Jun 11, 2023",Yes,Active_Batch_2024,0
+CUST-1263,53.0,Male,69000.0,86.0,2.0,electronics,19,Los Angeles,02-28-2023,No,Active_Batch_2024,0
+CUST-1264,36.0,Male,57900.0,62.0,1.0,home & kitchen,28, New York ,04/06/2024,NO,Active_Batch_2024,0
+CUST-1265,43.0,Female,49200.0,72.0,3.0,Electronics,21, Chicago ,2023-03-24,NO,Active_Batch_2024,0
+CUST-1266,20.0,Male,87400.0,61.0,5.0,Fashion,12, Chicago ,"Jul 10, 2023",No,Active_Batch_2024,0
+CUST-1267,36.0,Male,52600.0,33.0,7.0,Books,19,Phoenix,03-12-2023,No,Active_Batch_2024,0
+CUST-1268,37.0,Female,63700.0,66.0,0.5,Fashion,19,Phoenix,11/03/2023,yes,Active_Batch_2024,0
+CUST-1269,49.0,Female,49000.0,30.0,7.0,ELECTRONICS ,14,Phoenix,2023-08-29,Yes,Active_Batch_2024,0
+CUST-1270,24.0,Female,27100.0,20.0,3.0,Sports,27, New York ,Invalid Date,yes,Active_Batch_2024,0
+CUST-1271,69.0,Male,40100.0,60.0,2.0,Sports,17,Houston,02-18-2024,yes,Active_Batch_2024,0
+CUST-1272,58.0,Female,52500.0,82.0,7.0,electronics,23,Phoenix,03/05/2023,NO,Active_Batch_2024,0
+CUST-1273,50.0,Male,58400.0,74.0,1.0,ELECTRONICS ,23, Chicago ,2023-09-10,NO,Active_Batch_2024,0
+CUST-1274,57.0,Female,59500.0,24.0,2.0,Electronics,24, Chicago ,"Feb 10, 2023",Yes,Active_Batch_2024,0
+CUST-1275,56.0,Other,62800.0,4.0,3.0,Sports,13,Chicago,,yes,Active_Batch_2024,0
+CUST-1276,35.0,Female,52800.0,37.0,7.0,Beauty,15,Los Angeles,25/03/2023,yes,Active_Batch_2024,0
+CUST-1277,57.0,Female,98700.0,4.0,10.0,Electronics,23,Houston,2024-03-05,NO,Active_Batch_2024,0
+CUST-1278,18.0,Male,88700.0,77.0,0.5,ELECTRONICS ,17,new york,"Jun 19, 2024",NO,Active_Batch_2024,0
+CUST-1279,28.0,Female,61600.0,89.0,7.0,ELECTRONICS ,16, Chicago ,11-20-2023,No,Active_Batch_2024,0
+CUST-1280,45.0,Female,71400.0,77.0,10.0,electronics,27,New York,25/09/2023,yes,Active_Batch_2024,0
+CUST-1281,42.0,Male,55700.0,18.0,10.0,fashion,17,New York,2023-07-29,Yes,Active_Batch_2024,0
+CUST-1282,67.0,Female,-6100.0,88.0,7.0,Sports,15, Chicago ,"Nov 18, 2023",yes,Active_Batch_2024,0
+CUST-1283,40.0,Male,65500.0,66.0,5.0,ELECTRONICS ,22,New York,09-02-2023,NO,Active_Batch_2024,0
+CUST-1284,48.0,Female,72600.0,48.0,7.0,ELECTRONICS ,21,los angeles,29/09/2023,No,Active_Batch_2024,0
+CUST-1285,47.0,Female,24700.0,33.0,3.0,Beauty,22,Houston,2024-02-10,yes,Active_Batch_2024,1
+CUST-1286,59.0,Female,77500.0,58.0,10.0,Fashion,21,Los Angeles,"May 15, 2023",Yes,Active_Batch_2024,0
+CUST-1287,52.0,Male,58000.0,83.0,0.5,Fashion,14, Chicago ,11-04-2023,NO,Active_Batch_2024,0
+CUST-1288,24.0,Female,73400.0,73.0,3.0,ELECTRONICS ,16, Chicago ,13/04/2024,No,Active_Batch_2024,0
+CUST-1289,33.0,Female,58700.0,28.0,1.0,Electronics,26,new york,2023-11-20,yes,Active_Batch_2024,0
+CUST-1290,43.0,Female,96300.0,,2.0,Beauty,22,Houston,"Mar 16, 2023",Yes,Active_Batch_2024,0
+CUST-1291,65.0,Male,70700.0,10.0,7.0,Electronics,25,Phoenix,01-10-2023,NO,Active_Batch_2024,0
+CUST-1292,69.0,Male,90100.0,65.0,5.0,home & kitchen,21,Phoenix,14/04/2024,Yes,Active_Batch_2024,0
+CUST-1293,66.0,Female,,42.0,0.5,fashion,14,houston,2023-04-13,yes,Active_Batch_2024,1
+CUST-1294,19.0,Male,37000.0,85.0,5.0,Fashion,17,Chicago,"Mar 17, 2023",NO,Active_Batch_2024,0
+CUST-1295,18.0,Female,46500.0,9.0,5.0,Fashion,19,los angeles,08-07-2023,yes,Active_Batch_2024,1
+CUST-1296,65.0,Female,76300.0,60.0,5.0,Beauty,15, New York ,02/06/2024,No,Active_Batch_2024,0
+CUST-1297,29.0,Female,55900.0,15.0,7.0,Home & Kitchen,20, New York ,2023-09-29,yes,Active_Batch_2024,1
+CUST-1298,,Female,59000.0,99.0,0.5,Electronics,22,houston,"May 16, 2023",No,Active_Batch_2024,1
+CUST-1299,54.0,Female,97200.0,57.0,0.5,Sports,22,Los Angeles,12-24-2023,yes,Active_Batch_2024,0
+CUST-1300,49.0,Male,57200.0,69.0,10.0,Beauty,16, New York ,Invalid Date,Yes,Active_Batch_2024,0
+CUST-1301,26.0,Male,40800.0,22.0,5.0,electronics,13,Phoenix,2023-03-12,Yes,Active_Batch_2024,1
+CUST-1302,58.0,Male,44200.0,64.0,10.0,Home & Kitchen,24,New York,"Sep 08, 2023",NO,Active_Batch_2024,0
+CUST-1303,52.0,Male,119600.0,41.0,10.0,Books,23,Chicago,01-14-2024,Yes,Active_Batch_2024,0
+CUST-1304,36.0,Female,60500.0,87.0,2.0,Electronics,14,Houston,19/10/2023,Yes,Active_Batch_2024,0
+CUST-1305,65.0,Female,30900.0,71.0,7.0,Home & Kitchen,18,Phoenix,2023-06-11,No,Active_Batch_2024,0
+CUST-1306,33.0,Female,20800.0,56.0,7.0,Beauty,12,new york,"Mar 24, 2024",Yes,Active_Batch_2024,0
+CUST-1307,20.0,Female,49400.0,23.0,3.0,Sports,10,Houston,11-06-2023,No,Active_Batch_2024,0
+CUST-1308,37.0,,60100.0,25.0,10.0,electronics,17, New York ,25/06/2024,No,Active_Batch_2024,0
+CUST-1309,41.0,Female,88700.0,91.0,7.0,fashion,26,new york,2023-01-09,No,Active_Batch_2024,0
+CUST-1310,50.0,Female,86300.0,6.0,5.0,Home & Kitchen,21,Houston,"Nov 03, 2023",yes,Active_Batch_2024,0
+CUST-1311,41.0,Female,64800.0,,1.0,fashion,21, Chicago ,04-17-2023,No,Active_Batch_2024,1
+CUST-1312,69.0,Male,53600.0,63.0,5.0,ELECTRONICS ,27,los angeles,18/05/2023,yes,Active_Batch_2024,0
+CUST-1313,28.0,Male,73500.0,9.0,0.5,Fashion,23,Phoenix,2023-09-28,No,Active_Batch_2024,0
+CUST-1314,66.0,Male,21300.0,60.0,7.0,home & kitchen,14,new york,"Apr 29, 2023",yes,Active_Batch_2024,0
+CUST-1315,25.0,Female,,49.0,7.0,Fashion,22,houston,04-20-2023,NO,Active_Batch_2024,0
+CUST-1316,53.0,Female,81400.0,97.0,3.0,Books,18,los angeles,09/06/2023,NO,Active_Batch_2024,0
+CUST-1317,55.0,Male,86700.0,51.0,10.0,Sports,24,Houston,2023-10-06,yes,Active_Batch_2024,0
+CUST-1318,57.0,Male,38100.0,60.0,1.0,electronics,15,Los Angeles,"Oct 16, 2023",NO,Active_Batch_2024,0
+CUST-1319,37.0,Female,97100.0,70.0,7.0,fashion,14,houston,08-04-2023,Yes,Active_Batch_2024,0
+CUST-1320,52.0,Male,53500.0,37.0,3.0,Beauty,18,Phoenix,18/12/2023,No,Active_Batch_2024,0
+CUST-1321,65.0,Male,41200.0,31.0,3.0,fashion,24, Chicago ,2023-07-28,yes,Active_Batch_2024,0
+CUST-1322,,Female,64000.0,98.0,1.0,Sports,13,new york,"Sep 28, 2023",NO,Active_Batch_2024,0
+CUST-1323,52.0,Male,63400.0,41.0,5.0,Beauty,17,New York,06-01-2024,NO,Active_Batch_2024,0
+CUST-1324,42.0,Male,38000.0,62.0,5.0,Beauty,14,new york,15/05/2024,Yes,Active_Batch_2024,0
+CUST-1325,46.0,Female,42600.0,93.0,5.0,Books,20,los angeles,,No,Active_Batch_2024,0
+CUST-1326,35.0,Female,40700.0,58.0,2.0,Sports,20,new york,"Sep 15, 2023",Yes,Active_Batch_2024,0
+CUST-1327,63.0,Female,40900.0,14.0,10.0,Home & Kitchen,12,los angeles,02-22-2023,yes,Active_Batch_2024,0
+CUST-1328,35.0,Male,55300.0,36.0,10.0,Fashion,14,houston,05/04/2023,NO,Active_Batch_2024,0
+CUST-1329,19.0,Male,30300.0,36.0,5.0,ELECTRONICS ,9,new york,2024-03-09,NO,Active_Batch_2024,0
+CUST-1330,52.0,Male,47700.0,79.0,1.0,fashion,21,houston,Invalid Date,NO,Active_Batch_2024,0
+CUST-1331,33.0,Female,91100.0,8.0,2.0,Home & Kitchen,19, Chicago ,10-11-2023,Yes,Active_Batch_2024,1
+CUST-1332,58.0,Female,85600.0,26.0,10.0,ELECTRONICS ,15, Chicago ,15/02/2023,Yes,Active_Batch_2024,0
+CUST-1333,53.0,Male,38800.0,36.0,5.0,electronics,19,los angeles,2023-01-04,No,Active_Batch_2024,0
+CUST-1334,50.0,Female,89000.0,48.0,2.0,home & kitchen,19,Houston,"Dec 08, 2023",yes,Active_Batch_2024,0
+CUST-1335,21.0,Male,15800.0,85.0,1.0,fashion,13, Chicago ,05-14-2023,No,Active_Batch_2024,0
+CUST-1336,50.0,Male,125700.0,28.0,5.0,Books,16,Chicago,26/09/2023,No,Active_Batch_2024,1
+CUST-1337,31.0,Male,97500.0,68.0,0.5,ELECTRONICS ,21,new york,2023-06-15,NO,Active_Batch_2024,0
+CUST-1338,38.0,Male,51000.0,62.0,7.0,Beauty,26,Chicago,"Mar 28, 2024",Yes,Active_Batch_2024,0
+CUST-1339,65.0,Female,74600.0,80.0,1.0,Home & Kitchen,17,new york,03-13-2024,yes,Active_Batch_2024,0
+CUST-1340,37.0,Female,30000.0,86.0,3.0,Fashion,19, New York ,10/01/2023,No,Active_Batch_2024,0
+CUST-1341,25.0,Male,66500.0,76.0,3.0,Books,9,houston,2023-04-25,yes,Active_Batch_2024,0
+CUST-1342,24.0,Female,60400.0,80.0,1.0,fashion,20,los angeles,"Mar 19, 2023",NO,Active_Batch_2024,0
+CUST-1343,20.0,Male,44100.0,51.0,3.0,Sports,18,Phoenix,06-02-2023,No,Active_Batch_2024,0
+CUST-1344,34.0,Female,53300.0,42.0,10.0,Home & Kitchen,24,Phoenix,06/02/2023,Yes,Active_Batch_2024,1
+CUST-1345,50.0,Female,50800.0,29.0,1.0,Books,16,Los Angeles,2024-01-14,No,Active_Batch_2024,1
+CUST-1346,,Male,36700.0,82.0,0.5,home & kitchen,23,Houston,"Jun 01, 2023",NO,Active_Batch_2024,0
+CUST-1347,29.0,Female,43500.0,,1.0,fashion,21,los angeles,03-16-2024,No,Active_Batch_2024,0
+CUST-1348,68.0,Male,29000.0,39.0,5.0,electronics,16, Chicago ,11/05/2023,NO,Active_Batch_2024,1
+CUST-1349,39.0,Male,86400.0,82.0,5.0,Fashion,20,New York,2023-02-12,No,Active_Batch_2024,0
+CUST-1350,39.0,Male,41700.0,1.0,2.0,electronics,14,Houston,,yes,Active_Batch_2024,0
+CUST-1351,63.0,Female,34400.0,39.0,3.0,ELECTRONICS ,19,Houston,11-12-2023,Yes,Active_Batch_2024,0
+CUST-1352,47.0,Female,86000.0,21.0,7.0,Sports,12,New York,09/01/2024,NO,Active_Batch_2024,1
+CUST-1353,55.0,Male,74200.0,65.0,3.0,ELECTRONICS ,19,houston,2023-02-10,yes,Active_Batch_2024,0
+CUST-1354,,Female,85100.0,15.0,10.0,Fashion,31,Houston,"Jan 02, 2024",NO,Active_Batch_2024,0
+CUST-1355,62.0,Female,87900.0,4.0,1.0,Home & Kitchen,24, New York ,08-04-2023,No,Active_Batch_2024,1
+CUST-1356,,Female,113400.0,60.0,7.0,ELECTRONICS ,17,Houston,13/09/2023,NO,Active_Batch_2024,0
+CUST-1357,25.0,Female,61100.0,61.0,7.0,Sports,25,Los Angeles,2023-04-16,NO,Active_Batch_2024,0
+CUST-1358,44.0,Female,28600.0,20.0,3.0,Electronics,19,Chicago,"Dec 29, 2023",Yes,Active_Batch_2024,0
+CUST-1359,44.0,Male,71800.0,10.0,7.0,Electronics,23,Phoenix,02-21-2024,yes,Active_Batch_2024,1
+CUST-1360,51.0,Male,48300.0,87.0,7.0,Books,22,houston,Invalid Date,No,Active_Batch_2024,0
+CUST-1361,38.0,Other,41100.0,34.0,5.0,Books,17,los angeles,2023-06-08,Yes,Active_Batch_2024,0
+CUST-1362,47.0,Male,67500.0,48.0,0.5,fashion,13, Chicago ,"Aug 31, 2023",NO,Active_Batch_2024,0
+CUST-1363,50.0,Other,86600.0,33.0,1.0,Books,22, New York ,06-16-2023,Yes,Active_Batch_2024,0
+CUST-1364,45.0,Female,44100.0,98.0,3.0,home & kitchen,19,houston,01/07/2023,NO,Active_Batch_2024,0
+CUST-1365,64.0,Male,96900.0,61.0,5.0,Books,17,Chicago,2024-02-27,No,Active_Batch_2024,0
+CUST-1366,50.0,Male,40300.0,10.0,10.0,home & kitchen,24,Los Angeles,"Jan 26, 2023",NO,Active_Batch_2024,0
+CUST-1367,22.0,Male,58900.0,54.0,10.0,Books,22,Chicago,07-03-2023,Yes,Active_Batch_2024,0
+CUST-1368,65.0,Female,74700.0,84.0,2.0,electronics,15,los angeles,07/12/2023,Yes,Active_Batch_2024,0
+CUST-1369,,Male,,65.0,7.0,Beauty,11,New York,2024-02-26,NO,Active_Batch_2024,0
+CUST-1370,21.0,Male,20600.0,77.0,7.0,home & kitchen,22, Chicago ,"Sep 12, 2023",yes,Active_Batch_2024,0
+CUST-1371,52.0,Male,88200.0,1.0,3.0,Home & Kitchen,20,New York,10-01-2023,Yes,Active_Batch_2024,1
+CUST-1372,66.0,Male,49400.0,5.0,0.5,fashion,12,new york,13/06/2023,yes,Active_Batch_2024,1
+CUST-1373,34.0,Female,,80.0,0.5,Fashion,24,Los Angeles,2023-04-21,yes,Active_Batch_2024,0
+CUST-1374,61.0,Male,33400.0,,3.0,home & kitchen,20, Chicago ,"Jan 27, 2024",yes,Active_Batch_2024,1
+CUST-1375,45.0,Female,37700.0,28.0,3.0,ELECTRONICS ,17,los angeles,,yes,Active_Batch_2024,0
+CUST-1376,47.0,Male,86600.0,95.0,5.0,Beauty,22,houston,09/02/2023,Yes,Active_Batch_2024,0
+CUST-1377,46.0,Male,73500.0,23.0,10.0,electronics,18,Phoenix,2024-04-26,Yes,Active_Batch_2024,1
+CUST-1378,63.0,Male,54000.0,17.0,3.0,Electronics,16, Chicago ,"Aug 16, 2023",yes,Active_Batch_2024,1
+CUST-1379,23.0,Male,73900.0,98.0,10.0,electronics,18,houston,07-24-2023,Yes,Active_Batch_2024,0
+CUST-1380,52.0,,41100.0,13.0,2.0,Books,14,houston,16/04/2024,yes,Active_Batch_2024,0
+CUST-1381,58.0,Female,67800.0,14.0,10.0,fashion,16,new york,2023-12-25,yes,Active_Batch_2024,0
+CUST-1382,54.0,Male,68200.0,,5.0,Beauty,27, New York ,"Nov 09, 2023",yes,Active_Batch_2024,0
+CUST-1383,41.0,Female,55700.0,28.0,7.0,ELECTRONICS ,16,Los Angeles,08-22-2023,NO,Active_Batch_2024,0
+CUST-1384,46.0,Male,44100.0,42.0,7.0,home & kitchen,16,Los Angeles,17/08/2023,No,Active_Batch_2024,1
+CUST-1385,66.0,Male,66800.0,96.0,10.0,electronics,25,new york,2023-01-25,Yes,Active_Batch_2024,0
+CUST-1386,63.0,Other,63600.0,99.0,7.0,Beauty,16,New York,"Jul 17, 2023",Yes,Active_Batch_2024,0
+CUST-1387,48.0,Female,53400.0,61.0,7.0,home & kitchen,25,New York,02-13-2024,yes,Active_Batch_2024,0
+CUST-1388,52.0,,39200.0,64.0,1.0,fashion,19,los angeles,03/12/2023,NO,Active_Batch_2024,0
+CUST-1389,50.0,Male,65300.0,31.0,2.0,Fashion,10, New York ,2023-10-13,NO,Active_Batch_2024,0
+CUST-1390,69.0,Female,53400.0,81.0,5.0,Electronics,12,houston,Invalid Date,Yes,Active_Batch_2024,0
+CUST-1391,38.0,Male,39100.0,73.0,5.0,fashion,21,Houston,03-13-2023,yes,Active_Batch_2024,0
+CUST-1392,49.0,Male,66100.0,10.0,7.0,Books,16,Houston,13/10/2023,Yes,Active_Batch_2024,0
+CUST-1393,40.0,Female,105200.0,8.0,0.5,Sports,16,New York,2023-12-26,yes,Active_Batch_2024,1
+CUST-1394,50.0,Male,55800.0,21.0,5.0,Fashion,19,new york,"Jun 05, 2024",yes,Active_Batch_2024,0
+CUST-1395,20.0,Female,102400.0,77.0,2.0,Books,18, New York ,02-14-2024,No,Active_Batch_2024,0
+CUST-1396,35.0,Female,117900.0,59.0,3.0,electronics,17,Chicago,06/12/2023,yes,Active_Batch_2024,0
+CUST-1397,42.0,Male,41200.0,50.0,2.0,Fashion,15,Phoenix,2023-01-29,No,Active_Batch_2024,0
+CUST-1398,59.0,Female,65200.0,69.0,7.0,Books,16, New York ,"Apr 29, 2023",Yes,Active_Batch_2024,0
+CUST-1399,48.0,Female,117600.0,70.0,7.0,Fashion,16,los angeles,09-25-2023,Yes,Active_Batch_2024,1
+CUST-1400,20.0,Male,62000.0,30.0,1.0,fashion,10,houston,,NO,Active_Batch_2024,1
+CUST-1401,57.0,Female,65900.0,95.0,10.0,Beauty,24,houston,2023-07-02,No,Active_Batch_2024,0
+CUST-1402,63.0,Female,23200.0,17.0,5.0,Electronics,16,Los Angeles,"Sep 29, 2023",Yes,Active_Batch_2024,0
+CUST-1403,41.0,Male,51700.0,75.0,10.0,Electronics,20, Chicago ,02-09-2023,No,Active_Batch_2024,1
+CUST-1404,67.0,Female,78900.0,20.0,10.0,Books,22, Chicago ,22/04/2023,Yes,Active_Batch_2024,0
+CUST-1405,49.0,,125700.0,,5.0,Books,19,Los Angeles,2024-03-20,No,Active_Batch_2024,0
+CUST-1406,64.0,Male,60100.0,73.0,5.0,Fashion,20,los angeles,"Dec 20, 2023",No,Active_Batch_2024,0
+CUST-1407,39.0,Female,23400.0,2.0,7.0,electronics,16,houston,11-18-2023,yes,Active_Batch_2024,0
+CUST-1408,,Male,29900.0,37.0,5.0,Books,7, Chicago ,22/03/2024,Yes,Active_Batch_2024,0
+CUST-1409,19.0,Female,64100.0,1.0,0.5,Fashion,15, Chicago ,2024-06-07,NO,Active_Batch_2024,1
+CUST-1410,44.0,Female,94400.0,4.0,0.5,Home & Kitchen,18,Phoenix,"Apr 29, 2023",yes,Active_Batch_2024,0
+CUST-1411,59.0,Male,80900.0,100.0,3.0,Electronics,13, Chicago ,01-30-2024,NO,Active_Batch_2024,0
+CUST-1412,19.0,Male,76500.0,54.0,5.0,Books,18,houston,14/07/2023,No,Active_Batch_2024,0
+CUST-1413,43.0,Female,,25.0,1.0,fashion,27,los angeles,2023-09-18,yes,Active_Batch_2024,0
+CUST-1414,34.0,Male,47000.0,3.0,3.0,ELECTRONICS ,16,Chicago,"Feb 15, 2023",No,Active_Batch_2024,0
+CUST-1415,57.0,Female,65500.0,9.0,7.0,Fashion,15,New York,03-22-2024,Yes,Active_Batch_2024,0
+CUST-1416,50.0,Male,52000.0,86.0,5.0,Electronics,15, New York ,02/01/2023,Yes,Active_Batch_2024,0
+CUST-1417,26.0,Female,58200.0,87.0,0.5,Books,17,new york,2024-06-16,NO,Active_Batch_2024,0
+CUST-1418,60.0,Female,39800.0,,1.0,Beauty,24,Houston,"Jul 21, 2023",Yes,Active_Batch_2024,0
+CUST-1419,65.0,Female,56400.0,74.0,3.0,Fashion,12, New York ,01-08-2024,NO,Active_Batch_2024,0
+CUST-1420,56.0,Male,64300.0,34.0,1.0,electronics,12,Phoenix,Invalid Date,No,Active_Batch_2024,0
+CUST-1421,46.0,Female,55700.0,43.0,5.0,Books,13, Chicago ,2024-03-17,yes,Active_Batch_2024,0
+CUST-1422,59.0,Female,61000.0,74.0,2.0,Fashion,16,los angeles,"Mar 13, 2023",Yes,Active_Batch_2024,0
+CUST-1423,43.0,Male,75100.0,94.0,1.0,Books,23,Chicago,12-05-2023,No,Active_Batch_2024,0
+CUST-1424,52.0,Male,96000.0,22.0,1.0,Sports,20,Houston,18/11/2023,yes,Active_Batch_2024,0
+CUST-1425,67.0,Male,97800.0,,7.0,ELECTRONICS ,14,Los Angeles,,No,Active_Batch_2024,0
+CUST-1426,42.0,Female,84000.0,2.0,0.5,home & kitchen,15,Chicago,"May 08, 2023",NO,Active_Batch_2024,1
+CUST-1427,41.0,Female,33500.0,94.0,5.0,home & kitchen,18,New York,11-04-2023,No,Active_Batch_2024,0
+CUST-1428,30.0,Male,56000.0,66.0,1.0,Sports,19, Chicago ,03/06/2024,NO,Active_Batch_2024,1
+CUST-1429,24.0,Female,58100.0,32.0,5.0,Fashion,14,new york,2023-11-13,NO,Active_Batch_2024,0
+CUST-1430,53.0,Male,48600.0,16.0,0.5,electronics,12,Houston,"Feb 23, 2024",Yes,Active_Batch_2024,1
+CUST-1431,62.0,Male,73600.0,76.0,7.0,Books,21, Chicago ,12-01-2023,NO,Active_Batch_2024,0
+CUST-1432,37.0,Other,25100.0,1.0,5.0,Fashion,15,Houston,17/02/2024,NO,Active_Batch_2024,1
+CUST-1433,18.0,Female,107300.0,72.0,10.0,Beauty,17,new york,2023-10-30,No,Active_Batch_2024,0
+CUST-1434,25.0,Female,94900.0,48.0,0.5,electronics,20,New York,"May 11, 2023",NO,Active_Batch_2024,0
+CUST-1435,63.0,Male,77000.0,50.0,0.5,Beauty,21,Los Angeles,07-16-2023,NO,Active_Batch_2024,0
+CUST-1436,33.0,Female,63400.0,13.0,3.0,Sports,16,houston,06/03/2024,No,Active_Batch_2024,1
+CUST-1437,31.0,Female,95700.0,15.0,7.0,fashion,22,los angeles,2024-01-24,yes,Active_Batch_2024,0
+CUST-1438,29.0,Male,82200.0,53.0,7.0,home & kitchen,14,Chicago,"Jun 28, 2023",Yes,Active_Batch_2024,1
+CUST-1439,68.0,Female,92700.0,44.0,10.0,home & kitchen,18, New York ,11-05-2023,No,Active_Batch_2024,1
+CUST-1440,40.0,Female,63500.0,8.0,5.0,Books,21,Los Angeles,20/02/2024,NO,Active_Batch_2024,1
+CUST-1441,32.0,Female,109700.0,74.0,2.0,ELECTRONICS ,17,Los Angeles,2023-01-01,No,Active_Batch_2024,0
+CUST-1442,45.0,Male,94200.0,46.0,10.0,Sports,25,Phoenix,"Nov 08, 2023",yes,Active_Batch_2024,1
+CUST-1443,51.0,Female,,69.0,3.0,Fashion,20,Houston,10-21-2023,No,Active_Batch_2024,0
+CUST-1444,19.0,Female,96400.0,19.0,7.0,Sports,19,Houston,04/08/2023,No,Active_Batch_2024,1
+CUST-1445,49.0,Male,54500.0,38.0,0.5,Fashion,17,Phoenix,2024-03-16,No,Active_Batch_2024,0
+CUST-1446,40.0,Female,35800.0,11.0,7.0,Sports,15,Chicago,"Nov 26, 2023",No,Active_Batch_2024,1
+CUST-1447,39.0,Female,73000.0,43.0,10.0,fashion,14,Houston,04-21-2024,NO,Active_Batch_2024,0
+CUST-1448,68.0,Male,63600.0,20.0,2.0,Home & Kitchen,12,houston,28/03/2024,No,Active_Batch_2024,1
+CUST-1449,42.0,Male,60100.0,20.0,1.0,ELECTRONICS ,23,los angeles,2024-03-28,yes,Active_Batch_2024,0
+CUST-1450,39.0,Female,95400.0,21.0,1.0,Fashion,15, New York ,Invalid Date,No,Active_Batch_2024,0
+CUST-1451,39.0,Female,69200.0,82.0,7.0,ELECTRONICS ,21, New York ,08-07-2023,No,Active_Batch_2024,0
+CUST-1452,66.0,Female,71600.0,57.0,7.0,electronics,24,new york,07/06/2024,NO,Active_Batch_2024,0
+CUST-1453,69.0,Male,56800.0,50.0,3.0,Sports,17,new york,2024-04-29,NO,Active_Batch_2024,0
+CUST-1454,59.0,,87000.0,74.0,7.0,Books,22,los angeles,"Jun 23, 2023",No,Active_Batch_2024,0
+CUST-1455,23.0,Male,82500.0,98.0,2.0,Electronics,18, Chicago ,03-28-2023,NO,Active_Batch_2024,0
+CUST-1456,32.0,Male,86800.0,26.0,7.0,electronics,14, Chicago ,18/10/2023,NO,Active_Batch_2024,0
+CUST-1457,60.0,Female,52600.0,30.0,5.0,Beauty,12,Los Angeles,2024-06-11,No,Active_Batch_2024,0
+CUST-1458,54.0,Male,,73.0,10.0,home & kitchen,13,Los Angeles,"Dec 10, 2023",NO,Active_Batch_2024,0
+CUST-1459,50.0,Male,111000.0,31.0,2.0,Electronics,21,Phoenix,04-06-2023,Yes,Active_Batch_2024,0
+CUST-1460,,Male,86100.0,42.0,3.0,fashion,14,New York,29/08/2023,Yes,Active_Batch_2024,0
+CUST-1461,61.0,Male,44800.0,68.0,5.0,Sports,14,new york,2023-11-14,Yes,Active_Batch_2024,1
+CUST-1462,61.0,Male,44900.0,61.0,5.0,Home & Kitchen,19,New York,"Aug 19, 2023",NO,Active_Batch_2024,0
+CUST-1463,22.0,Other,55600.0,61.0,10.0,fashion,21,Houston,07-23-2023,Yes,Active_Batch_2024,0
+CUST-1464,,Male,50900.0,70.0,1.0,Fashion,25, New York ,31/05/2023,yes,Active_Batch_2024,0
+CUST-1465,21.0,Female,63200.0,78.0,2.0,Electronics,17,Los Angeles,2023-01-26,Yes,Active_Batch_2024,0
+CUST-1466,23.0,Female,80800.0,68.0,10.0,home & kitchen,22, Chicago ,"Feb 17, 2023",yes,Active_Batch_2024,0
+CUST-1467,62.0,Female,72200.0,90.0,5.0,Books,16,los angeles,09-08-2023,NO,Active_Batch_2024,0
+CUST-1468,49.0,Male,70100.0,17.0,3.0,Home & Kitchen,13,new york,01/05/2024,Yes,Active_Batch_2024,0
+CUST-1469,69.0,Female,59000.0,19.0,10.0,ELECTRONICS ,17, New York ,2023-03-16,yes,Active_Batch_2024,1
+CUST-1470,47.0,Female,63200.0,51.0,1.0,Sports,18,Chicago,"Apr 11, 2024",NO,Active_Batch_2024,0
+CUST-1471,64.0,Female,84900.0,70.0,5.0,Fashion,19,los angeles,02-29-2024,Yes,Active_Batch_2024,1
+CUST-1472,52.0,Female,14700.0,63.0,10.0,Sports,11,New York,19/07/2023,No,Active_Batch_2024,0
+CUST-1473,57.0,Female,64700.0,93.0,2.0,fashion,24,houston,2024-01-29,Yes,Active_Batch_2024,0
+CUST-1474,69.0,Male,72200.0,75.0,1.0,Electronics,15,New York,"May 21, 2024",Yes,Active_Batch_2024,0
+CUST-1475,33.0,Female,84600.0,80.0,2.0,fashion,19,new york,,Yes,Active_Batch_2024,0
+CUST-1476,30.0,Female,39700.0,30.0,2.0,Electronics,18,los angeles,14/02/2024,No,Active_Batch_2024,0
+CUST-1477,67.0,Female,38400.0,25.0,2.0,Books,25,houston,2023-09-07,yes,Active_Batch_2024,0
+CUST-1478,59.0,,79600.0,75.0,10.0,home & kitchen,22,Houston,"Jun 01, 2023",yes,Active_Batch_2024,0
+CUST-1479,47.0,Male,17400.0,71.0,1.0,ELECTRONICS ,11,Chicago,01-06-2023,No,Active_Batch_2024,0
+CUST-1480,36.0,,98300.0,26.0,10.0,Books,20,New York,Invalid Date,Yes,Active_Batch_2024,0
+CUST-1481,34.0,Male,70700.0,56.0,10.0,electronics,16,Chicago,2023-04-20,Yes,Active_Batch_2024,0
+CUST-1482,36.0,Male,104000.0,22.0,10.0,home & kitchen,22,los angeles,"Mar 11, 2024",Yes,Active_Batch_2024,0
+CUST-1483,45.0,Male,37800.0,89.0,5.0,Books,18, New York ,08-13-2023,yes,Active_Batch_2024,0
+CUST-1484,43.0,Male,54100.0,19.0,7.0,Home & Kitchen,13,los angeles,30/06/2023,yes,Active_Batch_2024,0
+CUST-1485,54.0,Female,4800.0,31.0,0.5,Sports,21, Chicago ,2024-06-14,No,Active_Batch_2024,0
+CUST-1486,,Male,45100.0,26.0,5.0,fashion,14,houston,"Apr 20, 2024",NO,Active_Batch_2024,1
+CUST-1487,,Male,60400.0,42.0,1.0,home & kitchen,19, New York ,02-21-2023,No,Active_Batch_2024,0
+CUST-1488,26.0,Female,15900.0,41.0,0.5,Home & Kitchen,20,New York,13/09/2023,yes,Active_Batch_2024,0
+CUST-1489,29.0,Female,55100.0,100.0,0.5,fashion,12,Houston,2023-05-05,Yes,Active_Batch_2024,0
+CUST-1490,18.0,Female,15300.0,23.0,0.5,electronics,16,Chicago,"Apr 12, 2024",Yes,Active_Batch_2024,0
+CUST-1491,18.0,Female,58600.0,47.0,7.0,Beauty,20,los angeles,05-17-2023,Yes,Active_Batch_2024,0
+CUST-1492,64.0,Female,93700.0,13.0,10.0,home & kitchen,20,Phoenix,20/04/2024,Yes,Active_Batch_2024,0
+CUST-1493,51.0,Male,64100.0,89.0,3.0,Home & Kitchen,21,new york,2024-06-27,NO,Active_Batch_2024,0
+CUST-1494,49.0,Male,106500.0,66.0,1.0,fashion,22,New York,"Nov 21, 2023",No,Active_Batch_2024,0
+CUST-1495,65.0,Female,84700.0,66.0,7.0,fashion,17,new york,03-29-2024,No,Active_Batch_2024,0
+CUST-1496,42.0,Male,98700.0,16.0,7.0,Books,26, New York ,31/05/2024,yes,Active_Batch_2024,0
+CUST-1497,57.0,Female,45900.0,73.0,3.0,Electronics,23, Chicago ,2024-03-12,No,Active_Batch_2024,0
+CUST-1498,62.0,Male,45300.0,28.0,0.5,Books,15,New York,"Apr 01, 2024",NO,Active_Batch_2024,0
+CUST-1499,18.0,Male,73600.0,,10.0,Home & Kitchen,17, Chicago ,06-12-2023,NO,Active_Batch_2024,0
+CUST-1500,33.0,Female,25600.0,35.0,3.0,Fashion,20, Chicago ,,NO,Active_Batch_2024,0
+CUST-1501,56.0,Female,76800.0,41.0,3.0,Sports,10,Houston,2024-05-01,Yes,Active_Batch_2024,1
+CUST-1502,,Female,56900.0,77.0,7.0,home & kitchen,16, New York ,"Apr 05, 2024",yes,Active_Batch_2024,0
+CUST-1503,39.0,Female,98200.0,31.0,1.0,Books,22,los angeles,09-23-2023,NO,Active_Batch_2024,0
+CUST-1504,46.0,Male,82000.0,85.0,2.0,fashion,11,Phoenix,11/09/2023,No,Active_Batch_2024,0
+CUST-1505,20.0,Male,92400.0,32.0,10.0,fashion,11,houston,2023-10-11,No,Active_Batch_2024,0
+CUST-1506,29.0,Female,46100.0,54.0,3.0,Beauty,25, Chicago ,"Jun 17, 2024",No,Active_Batch_2024,0
+CUST-1507,43.0,Female,91200.0,98.0,10.0,home & kitchen,16, New York ,05-11-2024,NO,Active_Batch_2024,0
+CUST-1508,33.0,Male,101100.0,72.0,3.0,Beauty,19,Houston,02/09/2023,NO,Active_Batch_2024,0
+CUST-1509,68.0,Female,64000.0,59.0,0.5,Sports,18,New York,2023-10-09,No,Active_Batch_2024,1
+CUST-1510,54.0,Male,46500.0,41.0,10.0,electronics,15,Los Angeles,Invalid Date,NO,Active_Batch_2024,0
+CUST-1511,39.0,Male,47000.0,66.0,0.5,Books,19,Los Angeles,03-26-2024,No,Active_Batch_2024,0
+CUST-1512,46.0,Male,96000.0,96.0,7.0,ELECTRONICS ,24,Phoenix,21/03/2023,Yes,Active_Batch_2024,1
+CUST-1513,,Female,132100.0,54.0,0.5,Home & Kitchen,15,Houston,2023-10-20,NO,Active_Batch_2024,0
+CUST-1514,45.0,Female,40500.0,40.0,10.0,Home & Kitchen,11, New York ,"Aug 29, 2023",Yes,Active_Batch_2024,1
+CUST-1515,22.0,Male,38500.0,28.0,5.0,electronics,16,Houston,10-06-2023,Yes,Active_Batch_2024,0
+CUST-1516,64.0,Female,88000.0,37.0,10.0,home & kitchen,17,houston,10/12/2023,NO,Active_Batch_2024,1
+CUST-1517,66.0,Male,46200.0,65.0,3.0,Books,18,houston,2023-11-24,No,Active_Batch_2024,1
+CUST-1518,47.0,Male,90500.0,74.0,0.5,Sports,13,los angeles,"Mar 24, 2023",yes,Active_Batch_2024,0
+CUST-1519,63.0,Male,76600.0,55.0,1.0,Electronics,18,Los Angeles,05-22-2023,Yes,Active_Batch_2024,0
+CUST-1520,69.0,Male,64400.0,4.0,5.0,Beauty,17,Los Angeles,04/06/2023,NO,Active_Batch_2024,1
+CUST-1521,,Male,76000.0,99.0,7.0,electronics,15,houston,2023-08-25,Yes,Active_Batch_2024,0
+CUST-1522,29.0,Female,74500.0,10.0,2.0,Electronics,11,Houston,"Jan 28, 2024",No,Active_Batch_2024,0
+CUST-1523,33.0,Female,60500.0,47.0,3.0,Beauty,29,Phoenix,06-06-2023,NO,Active_Batch_2024,0
+CUST-1524,43.0,Female,21100.0,75.0,3.0,electronics,33,Phoenix,08/08/2023,yes,Active_Batch_2024,0
+CUST-1525,43.0,Male,69500.0,14.0,1.0,Home & Kitchen,24, Chicago ,,NO,Active_Batch_2024,0
+CUST-1526,65.0,Male,104300.0,38.0,2.0,Home & Kitchen,26,New York,"Mar 07, 2023",Yes,Active_Batch_2024,0
+CUST-1527,38.0,Male,24800.0,12.0,2.0,fashion,20,Los Angeles,02-29-2024,NO,Active_Batch_2024,0
+CUST-1528,56.0,Male,40900.0,45.0,7.0,Beauty,14,houston,22/02/2024,NO,Active_Batch_2024,0
+CUST-1529,53.0,Female,75700.0,17.0,7.0,ELECTRONICS ,18,Houston,2023-12-05,Yes,Active_Batch_2024,1
+CUST-1530,50.0,Male,66000.0,80.0,5.0,Sports,17, New York ,"Apr 22, 2024",yes,Active_Batch_2024,0
+CUST-1531,47.0,Female,75300.0,35.0,3.0,Fashion,29,New York,03-01-2024,No,Active_Batch_2024,0
+CUST-1532,,Female,47500.0,66.0,0.5,home & kitchen,14,Phoenix,05/03/2023,NO,Active_Batch_2024,0
+CUST-1533,40.0,Male,94100.0,75.0,7.0,home & kitchen,13,new york,2023-07-31,yes,Active_Batch_2024,0
+CUST-1534,27.0,Female,66200.0,41.0,1.0,Beauty,17,new york,"Mar 06, 2024",No,Active_Batch_2024,0
+CUST-1535,22.0,Female,82400.0,67.0,1.0,electronics,17,Houston,02-03-2024,Yes,Active_Batch_2024,0
+CUST-1536,53.0,Female,73000.0,29.0,1.0,electronics,21,Chicago,21/01/2023,yes,Active_Batch_2024,0
+CUST-1537,51.0,Female,69400.0,18.0,10.0,Fashion,17,Chicago,2024-01-25,yes,Active_Batch_2024,0
+CUST-1538,69.0,Male,80700.0,20.0,7.0,Sports,18,Los Angeles,"May 03, 2024",NO,Active_Batch_2024,1
+CUST-1539,,Male,69700.0,14.0,7.0,Books,21, New York ,01-07-2023,Yes,Active_Batch_2024,0
+CUST-1540,27.0,Male,35200.0,34.0,1.0,Sports,24, Chicago ,Invalid Date,NO,Active_Batch_2024,0
+CUST-1541,36.0,Male,92200.0,49.0,7.0,Books,19,Houston,2023-12-27,Yes,Active_Batch_2024,1
+CUST-1542,49.0,Female,85500.0,54.0,10.0,Fashion,20,new york,"Nov 02, 2023",No,Active_Batch_2024,0
+CUST-1543,18.0,Male,12300.0,31.0,0.5,Books,23,new york,02-04-2024,NO,Active_Batch_2024,0
+CUST-1544,22.0,Female,48600.0,58.0,0.5,ELECTRONICS ,21, New York ,05/03/2024,Yes,Active_Batch_2024,0
+CUST-1545,62.0,Female,91100.0,42.0,5.0,fashion,22,Los Angeles,2023-08-14,Yes,Active_Batch_2024,1
+CUST-1546,21.0,Male,19300.0,58.0,3.0,Sports,15,Chicago,"May 14, 2024",yes,Active_Batch_2024,0
+CUST-1547,33.0,Male,88600.0,82.0,0.5,Books,20,los angeles,08-13-2023,NO,Active_Batch_2024,0
+CUST-1548,41.0,Female,61500.0,30.0,5.0,Home & Kitchen,21,Los Angeles,07/10/2023,NO,Active_Batch_2024,0
+CUST-1549,33.0,Female,98500.0,25.0,2.0,ELECTRONICS ,22,Los Angeles,2024-03-22,No,Active_Batch_2024,0
+CUST-1550,,Female,65000.0,63.0,3.0,Sports,12,Phoenix,,Yes,Active_Batch_2024,0
+CUST-1551,66.0,Male,46900.0,19.0,0.5,Books,19, Chicago ,05-12-2024,yes,Active_Batch_2024,0
+CUST-1552,45.0,Male,72700.0,72.0,10.0,Home & Kitchen,26, Chicago ,30/01/2023,Yes,Active_Batch_2024,0
+CUST-1553,49.0,Male,64200.0,92.0,2.0,Fashion,23,new york,2024-02-03,Yes,Active_Batch_2024,0
+CUST-1554,44.0,Male,44700.0,8.0,5.0,Fashion,17, Chicago ,"Dec 11, 2023",Yes,Active_Batch_2024,0
+CUST-1555,37.0,Female,120500.0,95.0,0.5,Beauty,17,new york,02-19-2024,NO,Active_Batch_2024,0
+CUST-1556,41.0,Female,40700.0,3.0,0.5,home & kitchen,14,Los Angeles,19/06/2023,Yes,Active_Batch_2024,1
+CUST-1557,29.0,Female,8900.0,67.0,7.0,Electronics,19, New York ,2024-04-23,No,Active_Batch_2024,0
+CUST-1558,67.0,Female,104500.0,86.0,2.0,Home & Kitchen,9,los angeles,"May 11, 2023",yes,Active_Batch_2024,0
+CUST-1559,52.0,Female,50400.0,81.0,0.5,Beauty,10, New York ,06-30-2024,yes,Active_Batch_2024,0
+CUST-1560,50.0,Male,57600.0,100.0,1.0,ELECTRONICS ,20,Los Angeles,28/01/2023,Yes,Active_Batch_2024,0
+CUST-1561,50.0,Male,56100.0,17.0,10.0,Books,19,houston,2024-02-08,yes,Active_Batch_2024,0
+CUST-1562,,Female,50800.0,14.0,7.0,Sports,15,Houston,"Jan 28, 2023",Yes,Active_Batch_2024,0
+CUST-1563,60.0,Male,45800.0,9.0,7.0,electronics,19,Chicago,03-27-2023,NO,Active_Batch_2024,0
+CUST-1564,54.0,Female,40100.0,62.0,0.5,Home & Kitchen,21,Houston,14/03/2024,yes,Active_Batch_2024,0
+CUST-1565,29.0,Female,66600.0,94.0,10.0,Electronics,17,los angeles,2023-05-19,NO,Active_Batch_2024,0
+CUST-1566,20.0,Male,55000.0,21.0,7.0,electronics,15, Chicago ,"Apr 17, 2024",NO,Active_Batch_2024,1
+CUST-1567,18.0,Female,83300.0,76.0,3.0,fashion,21,Houston,07-06-2023,No,Active_Batch_2024,0
+CUST-1568,50.0,Female,77100.0,37.0,2.0,Electronics,17, Chicago ,21/02/2023,No,Active_Batch_2024,1
+CUST-1569,57.0,Female,41800.0,96.0,3.0,Beauty,12,Los Angeles,2023-09-24,yes,Active_Batch_2024,0
+CUST-1570,27.0,Female,67700.0,11.0,5.0,Electronics,15,los angeles,Invalid Date,Yes,Active_Batch_2024,0
+CUST-1571,60.0,Female,54600.0,20.0,3.0,Books,18,Phoenix,01-24-2024,Yes,Active_Batch_2024,0
+CUST-1572,61.0,Male,40200.0,35.0,10.0,Sports,16,Chicago,02/12/2023,Yes,Active_Batch_2024,1
+CUST-1573,46.0,Male,,,1.0,ELECTRONICS ,16,Chicago,2023-08-05,Yes,Active_Batch_2024,1
+CUST-1574,30.0,Female,62000.0,47.0,7.0,electronics,20,houston,"Apr 10, 2024",No,Active_Batch_2024,0
+CUST-1575,29.0,Female,54800.0,75.0,10.0,Electronics,19,Phoenix,,Yes,Active_Batch_2024,0
+CUST-1576,48.0,Male,43600.0,,7.0,Books,15,new york,01/12/2023,Yes,Active_Batch_2024,1
+CUST-1577,63.0,Male,39300.0,8.0,1.0,Fashion,12,Chicago,2023-12-12,NO,Active_Batch_2024,0
+CUST-1578,19.0,Female,114700.0,4.0,7.0,Electronics,22,New York,"Jan 24, 2024",Yes,Active_Batch_2024,0
+CUST-1579,68.0,Female,73400.0,27.0,3.0,Electronics,12,new york,10-12-2023,Yes,Active_Batch_2024,0
+CUST-1580,67.0,Female,37700.0,44.0,5.0,home & kitchen,20,Chicago,07/03/2024,No,Active_Batch_2024,0
+CUST-1581,52.0,Female,,40.0,0.5,electronics,18,Los Angeles,2023-09-16,yes,Active_Batch_2024,0
+CUST-1582,40.0,Male,91600.0,47.0,1.0,home & kitchen,5,los angeles,"Mar 25, 2023",NO,Active_Batch_2024,1
+CUST-1583,34.0,Male,69200.0,94.0,3.0,home & kitchen,12,los angeles,04-26-2024,NO,Active_Batch_2024,0
+CUST-1584,43.0,Female,99400.0,44.0,10.0,Sports,17,New York,20/01/2023,yes,Active_Batch_2024,0
+CUST-1585,25.0,Male,26400.0,,3.0,Books,12,Los Angeles,2023-02-23,NO,Active_Batch_2024,0
+CUST-1586,46.0,Male,15200.0,91.0,3.0,home & kitchen,19,New York,"Dec 25, 2023",Yes,Active_Batch_2024,0
+CUST-1587,43.0,Male,71500.0,85.0,0.5,Electronics,17, Chicago ,08-18-2023,Yes,Active_Batch_2024,0
+CUST-1588,27.0,Female,71900.0,52.0,2.0,Beauty,16, New York ,12/03/2023,yes,Active_Batch_2024,1
+CUST-1589,43.0,Female,-18500.0,84.0,7.0,Beauty,19,Chicago,2023-02-11,No,Active_Batch_2024,0
+CUST-1590,51.0,Male,49400.0,68.0,7.0,Fashion,16,Los Angeles,"Feb 01, 2023",No,Active_Batch_2024,0
+CUST-1591,68.0,Male,39800.0,11.0,10.0,Beauty,23, New York ,09-11-2023,NO,Active_Batch_2024,1
+CUST-1592,58.0,Female,30200.0,77.0,5.0,Fashion,19, New York ,24/07/2023,No,Active_Batch_2024,0
+CUST-1593,24.0,,39700.0,73.0,10.0,Beauty,16,los angeles,2023-01-21,No,Active_Batch_2024,0
+CUST-1594,21.0,Male,79900.0,4.0,2.0,fashion,20,los angeles,"Jun 06, 2023",No,Active_Batch_2024,1
+CUST-1595,67.0,Female,39600.0,76.0,7.0,Fashion,18,Phoenix,09-02-2023,No,Active_Batch_2024,1
+CUST-1596,62.0,Male,40400.0,73.0,5.0,Home & Kitchen,15, Chicago ,10/05/2023,No,Active_Batch_2024,0
+CUST-1597,28.0,Female,24500.0,77.0,10.0,electronics,19,Los Angeles,2024-04-29,No,Active_Batch_2024,0
+CUST-1598,46.0,Male,96700.0,48.0,5.0,electronics,21,houston,"Apr 28, 2023",No,Active_Batch_2024,0
+CUST-1599,53.0,Male,75900.0,26.0,3.0,electronics,18,Los Angeles,08-12-2023,NO,Active_Batch_2024,0
+CUST-1600,42.0,Female,2700.0,77.0,1.0,Books,19, Chicago ,Invalid Date,Yes,Active_Batch_2024,0
+CUST-1601,38.0,Female,40400.0,39.0,3.0,Sports,27,los angeles,2024-04-21,No,Active_Batch_2024,0
+CUST-1602,53.0,Male,78200.0,92.0,0.5,ELECTRONICS ,15,los angeles,"Sep 20, 2023",Yes,Active_Batch_2024,0
+CUST-1603,27.0,Female,97000.0,58.0,7.0,Sports,22,Chicago,01-13-2024,yes,Active_Batch_2024,0
+CUST-1604,54.0,Male,86000.0,19.0,5.0,Fashion,15,Houston,21/06/2023,Yes,Active_Batch_2024,1
+CUST-1605,26.0,Female,56100.0,88.0,10.0,Sports,16,los angeles,2023-04-28,yes,Active_Batch_2024,1
+CUST-1606,41.0,Male,,83.0,1.0,Beauty,10,New York,"Jun 17, 2023",NO,Active_Batch_2024,1
+CUST-1607,52.0,Female,86800.0,77.0,10.0,Fashion,24,Chicago,11-15-2023,Yes,Active_Batch_2024,0
+CUST-1608,66.0,Male,57600.0,77.0,7.0,Sports,16,new york,21/04/2023,yes,Active_Batch_2024,0
+CUST-1609,52.0,Female,66700.0,58.0,5.0,Sports,19,Houston,2023-01-27,Yes,Active_Batch_2024,0
+CUST-1610,65.0,Female,60600.0,28.0,5.0,home & kitchen,20,Houston,"Nov 16, 2023",NO,Active_Batch_2024,1
+CUST-1611,53.0,Female,31100.0,66.0,3.0,fashion,18,New York,01-20-2024,Yes,Active_Batch_2024,0
+CUST-1612,35.0,Female,74100.0,10.0,1.0,Books,11,Houston,11/02/2024,yes,Active_Batch_2024,1
+CUST-1613,66.0,Female,70700.0,,1.0,Fashion,10,houston,2023-07-23,No,Active_Batch_2024,1
+CUST-1614,56.0,Male,54400.0,77.0,7.0,ELECTRONICS ,14,los angeles,"Mar 19, 2023",No,Active_Batch_2024,0
+CUST-1615,49.0,Male,76800.0,58.0,5.0,electronics,22,los angeles,09-06-2023,No,Active_Batch_2024,0
+CUST-1616,41.0,Female,30700.0,73.0,1.0,Electronics,16,Chicago,15/04/2023,NO,Active_Batch_2024,0
+CUST-1617,40.0,Male,58300.0,97.0,1.0,Home & Kitchen,19, Chicago ,2023-11-05,No,Active_Batch_2024,0
+CUST-1618,49.0,Female,65700.0,14.0,10.0,Sports,12,New York,"May 04, 2023",NO,Active_Batch_2024,1
+CUST-1619,54.0,Other,21600.0,84.0,7.0,electronics,12,los angeles,02-12-2023,No,Active_Batch_2024,0
+CUST-1620,29.0,Male,63600.0,15.0,3.0,Beauty,11, New York ,22/12/2023,NO,Active_Batch_2024,0
+CUST-1621,66.0,Female,83300.0,96.0,10.0,Home & Kitchen,6,Phoenix,2024-06-29,NO,Active_Batch_2024,0
+CUST-1622,30.0,Male,57400.0,33.0,10.0,fashion,20,los angeles,"Mar 14, 2024",Yes,Active_Batch_2024,0
+CUST-1623,,Female,64100.0,17.0,2.0,electronics,22,Los Angeles,01-15-2024,No,Active_Batch_2024,0
+CUST-1624,42.0,Male,79100.0,24.0,0.5,home & kitchen,22, New York ,12/03/2023,Yes,Active_Batch_2024,1
+CUST-1625,52.0,Male,55300.0,30.0,2.0,electronics,15, Chicago ,,yes,Active_Batch_2024,0
+CUST-1626,58.0,Female,57600.0,62.0,1.0,fashion,18, New York ,"Jun 02, 2024",No,Active_Batch_2024,1
+CUST-1627,47.0,Female,35600.0,13.0,5.0,electronics,22,Houston,12-16-2023,No,Active_Batch_2024,0
+CUST-1628,34.0,Female,64600.0,62.0,0.5,Sports,22,Phoenix,13/01/2023,No,Active_Batch_2024,0
+CUST-1629,66.0,Female,56600.0,47.0,0.5,electronics,19,new york,2024-03-06,No,Active_Batch_2024,0
+CUST-1630,37.0,Male,77500.0,16.0,5.0,home & kitchen,25,Phoenix,Invalid Date,Yes,Active_Batch_2024,1
+CUST-1631,65.0,Female,79100.0,66.0,0.5,Books,26,los angeles,05-16-2024,Yes,Active_Batch_2024,0
+CUST-1632,42.0,Male,84800.0,81.0,5.0,fashion,16,Chicago,19/04/2023,NO,Active_Batch_2024,0
+CUST-1633,39.0,Female,52300.0,96.0,0.5,home & kitchen,21,houston,2024-03-19,Yes,Active_Batch_2024,0
+CUST-1634,30.0,Female,10600.0,43.0,10.0,Fashion,20, Chicago ,"Jan 06, 2024",NO,Active_Batch_2024,0
+CUST-1635,36.0,Female,83500.0,8.0,7.0,electronics,14,Chicago,04-15-2024,yes,Active_Batch_2024,0
+CUST-1636,66.0,Female,75800.0,3.0,7.0,ELECTRONICS ,15,los angeles,06/06/2023,Yes,Active_Batch_2024,1
+CUST-1637,53.0,Male,49100.0,12.0,2.0,electronics,22,Chicago,2024-03-21,NO,Active_Batch_2024,1
+CUST-1638,29.0,Female,78900.0,84.0,10.0,fashion,11,Los Angeles,"Jun 30, 2023",No,Active_Batch_2024,0
+CUST-1639,58.0,Male,28800.0,16.0,0.5,Home & Kitchen,17, New York ,06-18-2024,yes,Active_Batch_2024,0
+CUST-1640,36.0,Female,,78.0,3.0,home & kitchen,15,houston,04/10/2023,NO,Active_Batch_2024,0
+CUST-1641,29.0,Male,56700.0,80.0,5.0,ELECTRONICS ,18,los angeles,2024-05-10,yes,Active_Batch_2024,0
+CUST-1642,26.0,Female,44300.0,59.0,10.0,Fashion,11,Houston,"Apr 21, 2024",No,Active_Batch_2024,0
+CUST-1643,24.0,Female,49500.0,49.0,0.5,Beauty,27, Chicago ,03-22-2024,No,Active_Batch_2024,1
+CUST-1644,45.0,Male,59200.0,63.0,7.0,Fashion,16,Houston,02/10/2023,NO,Active_Batch_2024,0
+CUST-1645,31.0,Male,64700.0,62.0,7.0,home & kitchen,25, New York ,2023-11-27,NO,Active_Batch_2024,0
+CUST-1646,48.0,Female,66200.0,49.0,5.0,Home & Kitchen,13,houston,"Sep 09, 2023",No,Active_Batch_2024,0
+CUST-1647,69.0,Male,54300.0,51.0,3.0,home & kitchen,19, New York ,03-30-2023,NO,Active_Batch_2024,0
+CUST-1648,36.0,Male,70000.0,33.0,0.5,Electronics,16,New York,13/10/2023,No,Active_Batch_2024,1
+CUST-1649,64.0,Male,65200.0,30.0,0.5,ELECTRONICS ,20,Houston,2024-04-06,Yes,Active_Batch_2024,1
+CUST-1650,33.0,Male,48800.0,59.0,3.0,Home & Kitchen,17, New York ,,NO,Active_Batch_2024,0
+CUST-1651,22.0,Female,45000.0,76.0,3.0,ELECTRONICS ,13, New York ,09-07-2023,yes,Active_Batch_2024,0
+CUST-1652,52.0,Female,80200.0,15.0,3.0,home & kitchen,14,Chicago,20/04/2024,No,Active_Batch_2024,1
+CUST-1653,29.0,Male,78100.0,82.0,7.0,Books,22,los angeles,2024-01-24,Yes,Active_Batch_2024,0
+CUST-1654,42.0,Male,66400.0,92.0,5.0,ELECTRONICS ,25,Chicago,"Dec 11, 2023",NO,Active_Batch_2024,0
+CUST-1655,69.0,Male,88100.0,23.0,10.0,Electronics,16,New York,01-30-2023,No,Active_Batch_2024,0
+CUST-1656,38.0,Male,16000.0,78.0,3.0,Sports,14,Phoenix,21/05/2024,Yes,Active_Batch_2024,0
+CUST-1657,53.0,Male,50900.0,94.0,5.0,Home & Kitchen,22,Phoenix,2023-11-29,NO,Active_Batch_2024,0
+CUST-1658,40.0,Male,36100.0,97.0,2.0,Electronics,20,Chicago,"Jul 06, 2023",No,Active_Batch_2024,1
+CUST-1659,33.0,Male,121400.0,45.0,0.5,Electronics,16,new york,05-14-2024,No,Active_Batch_2024,0
+CUST-1660,56.0,Female,82800.0,62.0,0.5,Beauty,18,Houston,Invalid Date,No,Active_Batch_2024,0
+CUST-1661,62.0,Male,63000.0,79.0,1.0,Books,13,Chicago,2023-08-06,NO,Active_Batch_2024,1
+CUST-1662,59.0,Female,84600.0,71.0,2.0,electronics,10,Los Angeles,"Dec 30, 2023",Yes,Active_Batch_2024,0
+CUST-1663,56.0,Female,92900.0,15.0,10.0,Books,20,Los Angeles,09-22-2023,No,Active_Batch_2024,0
+CUST-1664,31.0,Female,92600.0,46.0,3.0,fashion,15, Chicago ,15/12/2023,Yes,Active_Batch_2024,1
+CUST-1665,48.0,Female,88000.0,64.0,3.0,Beauty,18,New York,2023-10-14,Yes,Active_Batch_2024,0
+CUST-1666,22.0,Female,,46.0,10.0,home & kitchen,22,New York,"Oct 10, 2023",yes,Active_Batch_2024,1
+CUST-1667,52.0,Female,52500.0,56.0,7.0,home & kitchen,13,Chicago,01-11-2023,Yes,Active_Batch_2024,0
+CUST-1668,40.0,Female,40900.0,44.0,2.0,Fashion,22,houston,13/06/2024,Yes,Active_Batch_2024,0
+CUST-1669,46.0,Female,77600.0,75.0,3.0,electronics,20, New York ,2023-07-15,Yes,Active_Batch_2024,0
+CUST-1670,60.0,Female,61000.0,29.0,1.0,fashion,19,los angeles,"Mar 29, 2023",Yes,Active_Batch_2024,1
+CUST-1671,28.0,Female,54500.0,95.0,5.0,ELECTRONICS ,23, New York ,09-05-2023,Yes,Active_Batch_2024,1
+CUST-1672,35.0,Male,53200.0,62.0,0.5,Books,15, New York ,21/02/2024,NO,Active_Batch_2024,1
+CUST-1673,64.0,Male,,,2.0,Home & Kitchen,9,New York,2024-05-15,yes,Active_Batch_2024,1
+CUST-1674,29.0,Male,88800.0,52.0,0.5,Electronics,16,New York,"Sep 04, 2023",No,Active_Batch_2024,0
+CUST-1675,26.0,Female,110800.0,54.0,5.0,ELECTRONICS ,25,Los Angeles,,yes,Active_Batch_2024,0
+CUST-1676,,Female,78200.0,88.0,2.0,Fashion,10,New York,02/05/2024,yes,Active_Batch_2024,0
+CUST-1677,61.0,Female,66400.0,57.0,5.0,Books,18,Chicago,2024-05-17,No,Active_Batch_2024,0
+CUST-1678,34.0,Female,,83.0,3.0,Home & Kitchen,15,Los Angeles,"Apr 03, 2024",Yes,Active_Batch_2024,0
+CUST-1679,55.0,Male,39500.0,66.0,10.0,Fashion,18,Houston,01-18-2023,No,Active_Batch_2024,0
+CUST-1680,24.0,Male,33500.0,22.0,3.0,Electronics,17, New York ,06/04/2023,Yes,Active_Batch_2024,1
+CUST-1681,63.0,Female,77700.0,20.0,10.0,Beauty,21,Houston,2023-10-29,No,Active_Batch_2024,0
+CUST-1682,30.0,Female,41600.0,33.0,3.0,electronics,28, New York ,"Aug 15, 2023",NO,Active_Batch_2024,1
+CUST-1683,57.0,,70300.0,72.0,5.0,Beauty,23, New York ,02-19-2024,yes,Active_Batch_2024,0
+CUST-1684,59.0,Male,92900.0,25.0,5.0,Home & Kitchen,19, Chicago ,07/09/2023,Yes,Active_Batch_2024,0
+CUST-1685,26.0,Female,48400.0,,5.0,Beauty,18, New York ,2023-11-10,yes,Active_Batch_2024,0
+CUST-1686,67.0,Female,115300.0,73.0,0.5,Home & Kitchen,21,houston,"Jan 13, 2024",Yes,Active_Batch_2024,0
+CUST-1687,44.0,Female,40200.0,98.0,5.0,fashion,17,Houston,04-29-2024,No,Active_Batch_2024,0
+CUST-1688,19.0,Female,89800.0,57.0,3.0,fashion,8, New York ,27/06/2024,No,Active_Batch_2024,1
+CUST-1689,22.0,Female,75600.0,87.0,1.0,Sports,13,new york,2023-12-19,No,Active_Batch_2024,0
+CUST-1690,46.0,Male,94900.0,5.0,5.0,Sports,12,new york,Invalid Date,NO,Active_Batch_2024,0
+CUST-1691,54.0,Female,37100.0,55.0,1.0,Beauty,22,new york,03-11-2024,No,Active_Batch_2024,1
+CUST-1692,55.0,Female,122700.0,61.0,10.0,home & kitchen,13,Chicago,05/12/2023,No,Active_Batch_2024,0
+CUST-1693,36.0,Female,60500.0,89.0,3.0,Beauty,20,Los Angeles,2023-12-27,NO,Active_Batch_2024,0
+CUST-1694,25.0,Female,81900.0,8.0,5.0,Beauty,17,Houston,"Apr 09, 2024",yes,Active_Batch_2024,1
+CUST-1695,65.0,Male,101100.0,16.0,0.5,home & kitchen,15, New York ,10-05-2023,yes,Active_Batch_2024,0
+CUST-1696,62.0,Male,49900.0,48.0,0.5,electronics,24,Phoenix,10/11/2023,Yes,Active_Batch_2024,0
+CUST-1697,18.0,,85600.0,61.0,10.0,Books,18,Los Angeles,2023-09-15,yes,Active_Batch_2024,0
+CUST-1698,39.0,Female,45700.0,15.0,1.0,home & kitchen,13,Phoenix,"Aug 25, 2023",Yes,Active_Batch_2024,0
+CUST-1699,69.0,Female,99900.0,65.0,7.0,Home & Kitchen,23,los angeles,05-04-2023,Yes,Active_Batch_2024,0
+CUST-1700,,Male,46000.0,22.0,0.5,Books,25,houston,,yes,Active_Batch_2024,0
+CUST-1701,24.0,Female,66000.0,3.0,0.5,Electronics,12,los angeles,2023-07-17,yes,Active_Batch_2024,1
+CUST-1702,42.0,Female,72700.0,54.0,0.5,electronics,20,New York,"Nov 20, 2023",NO,Active_Batch_2024,1
+CUST-1703,62.0,Female,84600.0,14.0,3.0,Electronics,15,Los Angeles,05-03-2023,Yes,Active_Batch_2024,1
+CUST-1704,21.0,Male,114200.0,36.0,0.5,Sports,14,Phoenix,09/07/2023,yes,Active_Batch_2024,1
+CUST-1705,53.0,Female,53700.0,82.0,2.0,ELECTRONICS ,17, Chicago ,2023-07-16,yes,Active_Batch_2024,0
+CUST-1706,23.0,Female,93500.0,82.0,5.0,fashion,13, New York ,"Aug 10, 2023",NO,Active_Batch_2024,0
+CUST-1707,48.0,Male,114300.0,67.0,10.0,Electronics,15,Chicago,05-10-2024,yes,Active_Batch_2024,0
+CUST-1708,36.0,Female,69100.0,10.0,0.5,Fashion,14,Houston,11/10/2023,No,Active_Batch_2024,1
+CUST-1709,61.0,Female,51200.0,49.0,7.0,Beauty,19, New York ,2024-06-21,No,Active_Batch_2024,1
+CUST-1710,56.0,Female,21700.0,65.0,7.0,Home & Kitchen,21,Houston,"Oct 17, 2023",Yes,Active_Batch_2024,1
+CUST-1711,44.0,Female,112100.0,91.0,0.5,Electronics,15, Chicago ,04-13-2023,NO,Active_Batch_2024,0
+CUST-1712,27.0,Male,58900.0,57.0,0.5,Electronics,20, New York ,18/07/2023,yes,Active_Batch_2024,1
+CUST-1713,43.0,Male,40000.0,27.0,2.0,ELECTRONICS ,14,houston,2023-10-31,Yes,Active_Batch_2024,0
+CUST-1714,36.0,Male,31000.0,75.0,0.5,Sports,15,New York,"Aug 21, 2023",yes,Active_Batch_2024,0
+CUST-1715,56.0,Male,39900.0,5.0,0.5,Beauty,14,new york,01-05-2024,No,Active_Batch_2024,0
+CUST-1716,20.0,Female,88000.0,71.0,5.0,Beauty,21, Chicago ,03/07/2023,yes,Active_Batch_2024,0
+CUST-1717,62.0,Male,,83.0,7.0,ELECTRONICS ,17,New York,2023-11-06,yes,Active_Batch_2024,0
+CUST-1718,30.0,Female,81300.0,57.0,2.0,home & kitchen,14, New York ,"Jan 15, 2023",yes,Active_Batch_2024,0
+CUST-1719,67.0,Other,68300.0,93.0,7.0,ELECTRONICS ,22,Phoenix,06-30-2024,No,Active_Batch_2024,0
+CUST-1720,45.0,Female,33900.0,15.0,2.0,Fashion,16,New York,Invalid Date,No,Active_Batch_2024,1
+CUST-1721,37.0,Female,46800.0,99.0,7.0,Books,20,Chicago,2023-05-10,NO,Active_Batch_2024,0
+CUST-1722,45.0,Female,37300.0,76.0,0.5,Fashion,22,New York,"Oct 08, 2023",No,Active_Batch_2024,0
+CUST-1723,25.0,Female,79300.0,30.0,7.0,ELECTRONICS ,14,los angeles,02-16-2023,Yes,Active_Batch_2024,1
+CUST-1724,58.0,Male,38400.0,20.0,7.0,fashion,14,houston,25/02/2023,yes,Active_Batch_2024,0
+CUST-1725,56.0,Male,47100.0,37.0,2.0,home & kitchen,13, Chicago ,,No,Active_Batch_2024,1
+CUST-1726,18.0,Female,60400.0,3.0,10.0,fashion,22,new york,"Oct 27, 2023",Yes,Active_Batch_2024,0
+CUST-1727,20.0,Female,23300.0,73.0,1.0,Fashion,17, New York ,05-10-2023,No,Active_Batch_2024,0
+CUST-1728,30.0,Female,66200.0,41.0,2.0,Beauty,20, Chicago ,17/05/2024,yes,Active_Batch_2024,0
+CUST-1729,45.0,Female,62300.0,39.0,2.0,Fashion,19,Los Angeles,2023-04-16,Yes,Active_Batch_2024,0
+CUST-1730,66.0,Female,94600.0,26.0,2.0,electronics,14, Chicago ,"Jan 13, 2023",No,Active_Batch_2024,0
+CUST-1731,42.0,Male,44500.0,2.0,3.0,Sports,9,Chicago,10-19-2023,No,Active_Batch_2024,0
+CUST-1732,50.0,,32500.0,23.0,10.0,Home & Kitchen,13, Chicago ,25/04/2024,Yes,Active_Batch_2024,0
+CUST-1733,55.0,Female,55600.0,23.0,3.0,electronics,20,Los Angeles,2024-05-05,NO,Active_Batch_2024,1
+CUST-1734,23.0,Male,37500.0,85.0,3.0,ELECTRONICS ,15,New York,"Mar 27, 2024",Yes,Active_Batch_2024,0
+CUST-1735,61.0,Female,66000.0,16.0,2.0,Electronics,11,los angeles,12-15-2023,Yes,Active_Batch_2024,1
+CUST-1736,62.0,Male,18500.0,9.0,1.0,fashion,27,New York,08/07/2023,Yes,Active_Batch_2024,0
+CUST-1737,49.0,Female,49900.0,13.0,2.0,Books,15,New York,2023-02-22,Yes,Active_Batch_2024,0
+CUST-1738,62.0,Female,41800.0,28.0,0.5,electronics,19,Los Angeles,"Sep 16, 2023",No,Active_Batch_2024,1
+CUST-1739,64.0,Male,79200.0,27.0,1.0,home & kitchen,18,Houston,05-04-2024,Yes,Active_Batch_2024,1
+CUST-1740,38.0,Other,,51.0,3.0,fashion,15,new york,27/04/2023,Yes,Active_Batch_2024,1
+CUST-1741,33.0,Female,21600.0,64.0,7.0,electronics,19,Los Angeles,2023-03-08,yes,Active_Batch_2024,0
+CUST-1742,38.0,Male,60000.0,52.0,7.0,Beauty,20,New York,"Feb 15, 2024",No,Active_Batch_2024,0
+CUST-1743,28.0,Male,,81.0,10.0,Home & Kitchen,24, Chicago ,05-18-2024,yes,Active_Batch_2024,0
+CUST-1744,,Female,58200.0,38.0,5.0,Fashion,22,new york,17/03/2023,No,Active_Batch_2024,0
+CUST-1745,53.0,Male,49700.0,100.0,10.0,Fashion,16, New York ,2023-02-24,NO,Active_Batch_2024,0
+CUST-1746,52.0,Male,48200.0,65.0,1.0,electronics,21,Phoenix,"Jun 05, 2023",NO,Active_Batch_2024,1
+CUST-1747,36.0,Male,67800.0,18.0,3.0,ELECTRONICS ,19, New York ,06-02-2023,No,Active_Batch_2024,1
+CUST-1748,37.0,Male,42800.0,63.0,1.0,home & kitchen,12,Chicago,08/11/2023,NO,Active_Batch_2024,0
+CUST-1749,35.0,Female,56800.0,51.0,1.0,ELECTRONICS ,19,New York,2023-03-29,NO,Active_Batch_2024,1
+CUST-1750,64.0,Female,83800.0,9.0,7.0,fashion,16, Chicago ,Invalid Date,No,Active_Batch_2024,1
+CUST-1751,58.0,Male,32500.0,13.0,2.0,Sports,21,Houston,09-12-2023,Yes,Active_Batch_2024,0
+CUST-1752,66.0,Female,63900.0,40.0,0.5,Home & Kitchen,14,los angeles,02/05/2023,yes,Active_Batch_2024,0
+CUST-1753,31.0,Male,20300.0,55.0,5.0,Home & Kitchen,14,los angeles,2024-03-02,No,Active_Batch_2024,0
+CUST-1754,32.0,Other,70700.0,79.0,3.0,Fashion,27,new york,"Aug 20, 2023",No,Active_Batch_2024,0
+CUST-1755,48.0,Other,40500.0,43.0,1.0,Home & Kitchen,24,Houston,06-19-2024,No,Active_Batch_2024,0
+CUST-1756,18.0,Male,90500.0,44.0,5.0,ELECTRONICS ,16,Phoenix,25/01/2024,yes,Active_Batch_2024,0
+CUST-1757,20.0,Female,28100.0,68.0,1.0,home & kitchen,10, New York ,2024-04-06,No,Active_Batch_2024,0
+CUST-1758,33.0,Female,76100.0,33.0,7.0,home & kitchen,21,Phoenix,"Mar 29, 2024",yes,Active_Batch_2024,1
+CUST-1759,40.0,Male,95500.0,24.0,0.5,Fashion,19,houston,11-01-2023,yes,Active_Batch_2024,0
+CUST-1760,28.0,Male,39200.0,36.0,7.0,electronics,15, New York ,15/03/2024,NO,Active_Batch_2024,1
+CUST-1761,29.0,Male,43500.0,10.0,5.0,home & kitchen,18, New York ,2023-11-09,Yes,Active_Batch_2024,1
+CUST-1762,27.0,Female,41400.0,100.0,3.0,ELECTRONICS ,22, New York ,"Mar 03, 2023",NO,Active_Batch_2024,0
+CUST-1763,,Other,52900.0,20.0,1.0,Electronics,19, Chicago ,04-12-2023,No,Active_Batch_2024,1
+CUST-1764,33.0,Female,77900.0,75.0,0.5,electronics,15,Los Angeles,01/08/2023,No,Active_Batch_2024,0
+CUST-1765,25.0,Female,50800.0,12.0,7.0,Sports,15, Chicago ,2023-08-05,yes,Active_Batch_2024,0
+CUST-1766,55.0,Female,37000.0,62.0,5.0,Books,25,los angeles,"Sep 28, 2023",NO,Active_Batch_2024,0
+CUST-1767,29.0,Female,14500.0,18.0,7.0,Beauty,11, Chicago ,03-25-2023,yes,Active_Batch_2024,1
+CUST-1768,41.0,Female,105000.0,94.0,1.0,Home & Kitchen,13,Phoenix,10/06/2023,NO,Active_Batch_2024,0
+CUST-1769,45.0,Male,107000.0,63.0,1.0,Home & Kitchen,26, Chicago ,2023-09-03,NO,Active_Batch_2024,0
+CUST-1770,25.0,Female,79000.0,84.0,3.0,Electronics,15,Los Angeles,"Jun 27, 2023",NO,Active_Batch_2024,0
+CUST-1771,45.0,Female,44700.0,25.0,0.5,electronics,16,new york,03-18-2023,NO,Active_Batch_2024,0
+CUST-1772,53.0,Male,83700.0,12.0,2.0,Fashion,19,Houston,10/06/2023,NO,Active_Batch_2024,0
+CUST-1773,43.0,Female,88700.0,21.0,7.0,ELECTRONICS ,18,new york,2023-01-03,Yes,Active_Batch_2024,0
+CUST-1774,25.0,Male,58600.0,25.0,1.0,Electronics,10,houston,"Feb 23, 2024",No,Active_Batch_2024,0
+CUST-1775,67.0,Female,66000.0,11.0,5.0,Beauty,21,los angeles,,NO,Active_Batch_2024,1
+CUST-1776,45.0,Female,95800.0,64.0,7.0,home & kitchen,17,houston,06/04/2024,NO,Active_Batch_2024,0
+CUST-1777,45.0,Male,24000.0,73.0,3.0,Fashion,17,houston,2024-04-26,yes,Active_Batch_2024,0
+CUST-1778,54.0,Male,90000.0,50.0,3.0,Books,16,Houston,"Oct 26, 2023",No,Active_Batch_2024,0
+CUST-1779,58.0,Male,57300.0,62.0,1.0,Fashion,13,Houston,02-03-2023,No,Active_Batch_2024,0
+CUST-1780,53.0,Female,37200.0,89.0,1.0,Electronics,17,Los Angeles,Invalid Date,No,Active_Batch_2024,0
+CUST-1781,44.0,Male,39200.0,99.0,1.0,Sports,15,Los Angeles,2023-08-26,NO,Active_Batch_2024,0
+CUST-1782,,Female,43400.0,96.0,10.0,Electronics,15,new york,"Oct 23, 2023",yes,Active_Batch_2024,0
+CUST-1783,26.0,Male,34700.0,49.0,2.0,Electronics,21,Los Angeles,10-17-2023,No,Active_Batch_2024,0
+CUST-1784,50.0,,109300.0,14.0,1.0,Electronics,18,Los Angeles,09/04/2024,yes,Active_Batch_2024,1
+CUST-1785,37.0,Other,77300.0,1.0,7.0,Fashion,15,Chicago,2023-03-14,Yes,Active_Batch_2024,1
+CUST-1786,,Female,91600.0,81.0,7.0,Electronics,20,New York,"Aug 28, 2023",Yes,Active_Batch_2024,0
+CUST-1787,45.0,Female,79100.0,25.0,10.0,electronics,17,new york,09-28-2023,yes,Active_Batch_2024,1
+CUST-1788,65.0,Female,66500.0,59.0,10.0,Fashion,16,Houston,22/07/2023,NO,Active_Batch_2024,0
+CUST-1789,,Female,66900.0,72.0,0.5,home & kitchen,10,new york,2024-03-11,No,Active_Batch_2024,0
+CUST-1790,30.0,Male,55100.0,69.0,5.0,electronics,19,Houston,"Apr 28, 2023",Yes,Active_Batch_2024,0
+CUST-1791,63.0,Male,57100.0,5.0,1.0,Beauty,16, Chicago ,08-19-2023,Yes,Active_Batch_2024,1
+CUST-1792,52.0,Male,29800.0,99.0,7.0,home & kitchen,15,New York,02/06/2023,yes,Active_Batch_2024,0
+CUST-1793,23.0,Male,92000.0,19.0,10.0,Books,21,Chicago,2023-09-30,NO,Active_Batch_2024,1
+CUST-1794,35.0,Male,19700.0,23.0,7.0,Home & Kitchen,21,Chicago,"May 26, 2023",yes,Active_Batch_2024,1
+CUST-1795,68.0,Female,38500.0,9.0,7.0,Fashion,17,Phoenix,03-15-2023,yes,Active_Batch_2024,1
+CUST-1796,22.0,,115300.0,94.0,10.0,Home & Kitchen,18,los angeles,03/03/2023,yes,Active_Batch_2024,0
+CUST-1797,64.0,Male,68400.0,50.0,2.0,Fashion,20,Houston,2023-06-19,yes,Active_Batch_2024,0
+CUST-1798,42.0,Female,69400.0,16.0,10.0,home & kitchen,20,los angeles,"Nov 11, 2023",yes,Active_Batch_2024,1
+CUST-1799,19.0,Male,,33.0,10.0,Books,19, Chicago ,10-23-2023,NO,Active_Batch_2024,1
+CUST-1800,27.0,Female,26500.0,2.0,5.0,ELECTRONICS ,18,Chicago,,yes,Active_Batch_2024,0
+CUST-1801,47.0,Female,30200.0,14.0,10.0,ELECTRONICS ,21, Chicago ,2024-03-25,NO,Active_Batch_2024,0
+CUST-1802,67.0,Female,53900.0,1.0,3.0,electronics,13,houston,"May 08, 2023",No,Active_Batch_2024,1
+CUST-1803,62.0,Other,42400.0,90.0,10.0,Electronics,26,New York,04-24-2024,No,Active_Batch_2024,0
+CUST-1804,22.0,Male,63100.0,58.0,7.0,Electronics,18,Phoenix,08/11/2023,No,Active_Batch_2024,0
+CUST-1805,,Female,77100.0,89.0,1.0,ELECTRONICS ,21, Chicago ,2024-02-17,No,Active_Batch_2024,0
+CUST-1806,18.0,Female,99700.0,16.0,7.0,home & kitchen,13,Phoenix,"Oct 06, 2023",Yes,Active_Batch_2024,0
+CUST-1807,35.0,Male,85300.0,79.0,5.0,Books,17,New York,05-27-2024,NO,Active_Batch_2024,0
+CUST-1808,49.0,Other,40100.0,90.0,3.0,electronics,13,new york,20/05/2024,No,Active_Batch_2024,0
+CUST-1809,64.0,Male,55600.0,47.0,10.0,home & kitchen,20, Chicago ,2024-03-24,Yes,Active_Batch_2024,0
+CUST-1810,66.0,Female,48800.0,44.0,2.0,Electronics,12,Los Angeles,Invalid Date,NO,Active_Batch_2024,0
+CUST-1811,28.0,Male,39600.0,80.0,0.5,electronics,21, New York ,03-24-2023,Yes,Active_Batch_2024,0
+CUST-1812,38.0,Male,33900.0,14.0,10.0,Home & Kitchen,19,Chicago,10/02/2023,Yes,Active_Batch_2024,1
+CUST-1813,43.0,Female,106600.0,93.0,1.0,fashion,19,Chicago,2024-03-18,yes,Active_Batch_2024,0
+CUST-1814,42.0,Female,65300.0,24.0,0.5,Beauty,14,Chicago,"Nov 27, 2023",Yes,Active_Batch_2024,1
+CUST-1815,39.0,Male,59400.0,55.0,2.0,electronics,20,new york,09-14-2023,Yes,Active_Batch_2024,0
+CUST-1816,44.0,Male,77100.0,15.0,5.0,Electronics,15, New York ,27/01/2023,NO,Active_Batch_2024,1
+CUST-1817,66.0,Female,78300.0,83.0,5.0,home & kitchen,14,New York,2023-04-04,Yes,Active_Batch_2024,1
+CUST-1818,30.0,Male,93000.0,72.0,2.0,Home & Kitchen,25,new york,"Aug 23, 2023",yes,Active_Batch_2024,0
+CUST-1819,50.0,Male,46400.0,34.0,7.0,Beauty,20,Chicago,01-22-2023,No,Active_Batch_2024,0
+CUST-1820,51.0,Female,75100.0,2.0,2.0,Beauty,18,Chicago,03/10/2023,No,Active_Batch_2024,1
+CUST-1821,,Female,42200.0,27.0,10.0,electronics,24,los angeles,2023-02-11,NO,Active_Batch_2024,1
+CUST-1822,52.0,Male,60200.0,74.0,1.0,Beauty,11,Phoenix,"Jun 29, 2023",NO,Active_Batch_2024,0
+CUST-1823,18.0,Female,66400.0,99.0,3.0,Home & Kitchen,13,Phoenix,04-26-2024,Yes,Active_Batch_2024,0
+CUST-1824,38.0,Female,68900.0,87.0,10.0,Books,13,los angeles,15/06/2024,NO,Active_Batch_2024,0
+CUST-1825,65.0,Female,67800.0,72.0,10.0,home & kitchen,20,houston,,Yes,Active_Batch_2024,0
+CUST-1826,23.0,Female,85000.0,92.0,10.0,electronics,16,los angeles,"Mar 28, 2024",NO,Active_Batch_2024,0
+CUST-1827,45.0,Male,50100.0,23.0,0.5,Beauty,14,Phoenix,10-12-2023,No,Active_Batch_2024,1
+CUST-1828,34.0,Male,69500.0,68.0,0.5,Books,13,Chicago,05/07/2023,No,Active_Batch_2024,0
+CUST-1829,22.0,Male,46000.0,14.0,5.0,home & kitchen,17,Los Angeles,2024-03-22,No,Active_Batch_2024,0
+CUST-1830,48.0,Female,138000.0,63.0,10.0,Fashion,21,Phoenix,"May 18, 2024",No,Active_Batch_2024,0
+CUST-1831,22.0,Male,42200.0,93.0,7.0,Books,15, New York ,04-04-2023,Yes,Active_Batch_2024,0
+CUST-1832,55.0,Female,47500.0,65.0,5.0,Fashion,21,Los Angeles,26/04/2024,Yes,Active_Batch_2024,0
+CUST-1833,,Male,87100.0,68.0,1.0,Fashion,13,new york,2023-12-23,Yes,Active_Batch_2024,0
+CUST-1834,40.0,Male,54300.0,63.0,2.0,Books,18,Phoenix,"Feb 23, 2024",No,Active_Batch_2024,0
+CUST-1835,54.0,Female,87100.0,96.0,0.5,Beauty,21,New York,12-08-2023,yes,Active_Batch_2024,0
+CUST-1836,54.0,Male,68800.0,97.0,10.0,Fashion,12, Chicago ,25/11/2023,No,Active_Batch_2024,1
+CUST-1837,27.0,Male,54900.0,90.0,1.0,Beauty,18, Chicago ,2023-04-18,No,Active_Batch_2024,0
+CUST-1838,27.0,Female,46200.0,81.0,5.0,Beauty,17, New York ,"Jun 14, 2023",yes,Active_Batch_2024,0
+CUST-1839,36.0,Male,45300.0,87.0,5.0,home & kitchen,15,Houston,12-04-2023,yes,Active_Batch_2024,0
+CUST-1840,34.0,Female,55200.0,64.0,0.5,Sports,17, Chicago ,Invalid Date,NO,Active_Batch_2024,0
+CUST-1841,38.0,Female,60600.0,32.0,5.0,Home & Kitchen,23, New York ,2024-02-26,No,Active_Batch_2024,0
+CUST-1842,31.0,Male,44200.0,79.0,7.0,Beauty,20,Houston,"May 22, 2024",yes,Active_Batch_2024,0
+CUST-1843,26.0,Female,62300.0,13.0,5.0,home & kitchen,19,new york,10-23-2023,NO,Active_Batch_2024,1
+CUST-1844,63.0,Female,37600.0,66.0,3.0,fashion,21,Houston,15/02/2024,yes,Active_Batch_2024,0
+CUST-1845,18.0,Male,83900.0,19.0,2.0,Fashion,14,New York,2023-02-07,yes,Active_Batch_2024,0
+CUST-1846,68.0,Male,88700.0,24.0,5.0,electronics,18,Phoenix,"Apr 10, 2024",NO,Active_Batch_2024,0
+CUST-1847,62.0,Male,47400.0,88.0,3.0,Beauty,15, Chicago ,04-01-2023,No,Active_Batch_2024,0
+CUST-1848,30.0,Female,,11.0,1.0,Books,15,Chicago,19/11/2023,NO,Active_Batch_2024,0
+CUST-1849,21.0,Male,69400.0,59.0,5.0,Fashion,17,los angeles,2023-09-16,No,Active_Batch_2024,0
+CUST-1850,18.0,Female,96600.0,86.0,7.0,Fashion,13,Phoenix,,yes,Active_Batch_2024,0
+CUST-1851,66.0,Female,102200.0,15.0,1.0,fashion,13,new york,11-28-2023,NO,Active_Batch_2024,1
+CUST-1852,57.0,Female,29900.0,,10.0,electronics,26,new york,29/04/2023,Yes,Active_Batch_2024,0
+CUST-1853,49.0,Male,90200.0,41.0,5.0,home & kitchen,22, New York ,2024-02-18,yes,Active_Batch_2024,1
+CUST-1854,,Male,63500.0,27.0,0.5,fashion,16,houston,"Jun 10, 2024",NO,Active_Batch_2024,1
+CUST-1855,45.0,Female,63900.0,60.0,3.0,Home & Kitchen,16,Houston,01-02-2023,yes,Active_Batch_2024,0
+CUST-1856,48.0,Male,77600.0,73.0,3.0,Fashion,16,Houston,18/04/2024,NO,Active_Batch_2024,0
+CUST-1857,25.0,Male,53000.0,52.0,0.5,Beauty,15, New York ,2024-02-28,No,Active_Batch_2024,1
+CUST-1858,56.0,Male,92400.0,28.0,2.0,Beauty,25,los angeles,"Feb 25, 2023",Yes,Active_Batch_2024,1
+CUST-1859,43.0,Male,100600.0,65.0,10.0,fashion,14,Chicago,07-12-2023,yes,Active_Batch_2024,0
+CUST-1860,51.0,Female,101500.0,17.0,7.0,Home & Kitchen,23,new york,14/06/2024,Yes,Active_Batch_2024,0
+CUST-1861,20.0,Male,18900.0,95.0,3.0,ELECTRONICS ,17,Phoenix,2024-01-06,No,Active_Batch_2024,0
+CUST-1862,67.0,Male,59300.0,44.0,1.0,Electronics,17,los angeles,"May 25, 2024",NO,Active_Batch_2024,0
+CUST-1863,29.0,Male,16600.0,10.0,7.0,Books,11,Chicago,03-28-2024,Yes,Active_Batch_2024,0
+CUST-1864,18.0,Female,45900.0,63.0,3.0,Books,14,houston,22/02/2023,NO,Active_Batch_2024,0
+CUST-1865,61.0,Female,5100.0,93.0,10.0,ELECTRONICS ,24,Phoenix,2023-07-28,No,Active_Batch_2024,0
+CUST-1866,22.0,Male,,82.0,2.0,Fashion,16, New York ,"Oct 01, 2023",yes,Active_Batch_2024,0
+CUST-1867,47.0,Female,70500.0,47.0,10.0,home & kitchen,22,Phoenix,05-15-2023,No,Active_Batch_2024,0
+CUST-1868,47.0,Female,54200.0,38.0,1.0,electronics,18,New York,22/10/2023,Yes,Active_Batch_2024,1
+CUST-1869,34.0,Female,,70.0,10.0,ELECTRONICS ,16,houston,2024-03-24,Yes,Active_Batch_2024,0
+CUST-1870,65.0,Female,72900.0,76.0,7.0,Home & Kitchen,18, New York ,Invalid Date,Yes,Active_Batch_2024,0
+CUST-1871,64.0,Male,39700.0,53.0,1.0,Beauty,18, New York ,05-11-2024,NO,Active_Batch_2024,1
+CUST-1872,40.0,Male,38000.0,78.0,0.5,Electronics,16, New York ,05/05/2023,yes,Active_Batch_2024,0
+CUST-1873,32.0,Male,34900.0,44.0,5.0,Fashion,19, Chicago ,2023-01-30,Yes,Active_Batch_2024,0
+CUST-1874,54.0,Male,59900.0,74.0,0.5,Electronics,16,los angeles,"Sep 03, 2023",Yes,Active_Batch_2024,0
+CUST-1875,38.0,,,54.0,7.0,electronics,28,Chicago,,Yes,Active_Batch_2024,0
+CUST-1876,31.0,Male,55400.0,20.0,5.0,Beauty,20,Houston,12/06/2023,No,Active_Batch_2024,1
+CUST-1877,19.0,Male,78000.0,79.0,0.5,Home & Kitchen,19,new york,2023-11-15,Yes,Active_Batch_2024,0
+CUST-1878,28.0,Female,89100.0,31.0,5.0,Books,21,new york,"Jan 15, 2023",No,Active_Batch_2024,1
+CUST-1879,68.0,Female,101300.0,7.0,3.0,electronics,19,New York,02-22-2024,Yes,Active_Batch_2024,0
+CUST-1880,56.0,Male,66500.0,58.0,10.0,ELECTRONICS ,12,New York,06/04/2023,No,Active_Batch_2024,0
+CUST-1881,55.0,Male,73700.0,10.0,1.0,Books,16,New York,2023-08-19,NO,Active_Batch_2024,0
+CUST-1882,51.0,Male,69700.0,10.0,5.0,Books,20,Los Angeles,"Apr 27, 2023",NO,Active_Batch_2024,0
+CUST-1883,55.0,Female,23100.0,39.0,3.0,Home & Kitchen,16,New York,04-17-2024,No,Active_Batch_2024,1
+CUST-1884,67.0,Male,55800.0,28.0,10.0,ELECTRONICS ,18,new york,01/05/2023,yes,Active_Batch_2024,1
+CUST-1885,51.0,Male,55900.0,30.0,10.0,fashion,24,houston,2023-06-07,yes,Active_Batch_2024,1
+CUST-1886,35.0,Female,52200.0,37.0,2.0,electronics,24,Chicago,"May 25, 2024",No,Active_Batch_2024,0
+CUST-1887,47.0,Male,64000.0,67.0,0.5,home & kitchen,23,New York,10-26-2023,NO,Active_Batch_2024,0
+CUST-1888,32.0,Female,59500.0,43.0,2.0,Sports,19,houston,05/06/2024,No,Active_Batch_2024,0
+CUST-1889,44.0,Female,40300.0,79.0,7.0,Beauty,23,Los Angeles,2023-10-07,yes,Active_Batch_2024,0
+CUST-1890,68.0,Male,61200.0,,3.0,Home & Kitchen,16,Los Angeles,"Mar 01, 2024",No,Active_Batch_2024,0
+CUST-1891,,Female,49000.0,52.0,2.0,Beauty,9,Houston,05-09-2024,NO,Active_Batch_2024,0
+CUST-1892,69.0,Female,-500.0,56.0,2.0,electronics,24, Chicago ,28/04/2024,yes,Active_Batch_2024,0
+CUST-1893,55.0,Male,30100.0,76.0,10.0,ELECTRONICS ,17, Chicago ,2023-09-07,yes,Active_Batch_2024,0
+CUST-1894,50.0,Female,67200.0,,3.0,home & kitchen,17,Phoenix,"Apr 12, 2024",Yes,Active_Batch_2024,0
+CUST-1895,41.0,Female,92300.0,9.0,10.0,Sports,17, Chicago ,05-29-2023,Yes,Active_Batch_2024,1
+CUST-1896,32.0,Female,4300.0,92.0,1.0,Electronics,20,Phoenix,28/01/2024,yes,Active_Batch_2024,0
+CUST-1897,47.0,Male,43200.0,23.0,5.0,home & kitchen,17,los angeles,2023-07-15,yes,Active_Batch_2024,1
+CUST-1898,59.0,Other,,63.0,7.0,Home & Kitchen,18, Chicago ,"Jun 04, 2024",No,Active_Batch_2024,1
+CUST-1899,68.0,Male,87000.0,61.0,7.0,Beauty,20,Los Angeles,05-20-2023,NO,Active_Batch_2024,0
+CUST-1900,34.0,Male,54500.0,40.0,0.5,home & kitchen,19,Houston,Invalid Date,yes,Active_Batch_2024,1
+CUST-1901,22.0,Male,47900.0,44.0,10.0,Fashion,13,houston,2023-03-13,NO,Active_Batch_2024,0
+CUST-1902,46.0,Male,95500.0,86.0,5.0,ELECTRONICS ,15,New York,"Oct 10, 2023",yes,Active_Batch_2024,0
+CUST-1903,21.0,Female,84900.0,24.0,0.5,ELECTRONICS ,15, Chicago ,02-29-2024,NO,Active_Batch_2024,0
+CUST-1904,27.0,Male,86500.0,51.0,7.0,Fashion,18,Phoenix,15/12/2023,Yes,Active_Batch_2024,0
+CUST-1905,34.0,Male,53300.0,58.0,5.0,Books,24,houston,2024-06-03,yes,Active_Batch_2024,0
+CUST-1906,27.0,Female,92800.0,90.0,2.0,Books,17, New York ,"Oct 01, 2023",No,Active_Batch_2024,0
+CUST-1907,34.0,Male,16400.0,94.0,1.0,electronics,19,new york,01-03-2023,NO,Active_Batch_2024,1
+CUST-1908,37.0,Male,93300.0,33.0,2.0,fashion,17, Chicago ,17/10/2023,yes,Active_Batch_2024,0
+CUST-1909,41.0,Male,63300.0,16.0,1.0,Electronics,23,new york,2023-11-02,Yes,Active_Batch_2024,1
+CUST-1910,22.0,Male,68200.0,22.0,10.0,Fashion,9, Chicago ,"May 16, 2024",Yes,Active_Batch_2024,0
+CUST-1911,51.0,Male,41400.0,57.0,3.0,electronics,17, New York ,06-02-2023,Yes,Active_Batch_2024,0
+CUST-1912,23.0,Female,,62.0,0.5,Beauty,20,New York,02/04/2024,Yes,Active_Batch_2024,0
+CUST-1913,19.0,Male,67700.0,82.0,0.5,Fashion,18,los angeles,2024-05-10,yes,Active_Batch_2024,0
+CUST-1914,30.0,Male,78800.0,71.0,3.0,fashion,22,Chicago,"Dec 20, 2023",No,Active_Batch_2024,0
+CUST-1915,60.0,Female,82600.0,90.0,5.0,Fashion,10,houston,12-07-2023,NO,Active_Batch_2024,0
+CUST-1916,60.0,Female,79900.0,72.0,3.0,fashion,13,houston,22/01/2024,No,Active_Batch_2024,0
+CUST-1917,65.0,Male,74200.0,70.0,10.0,fashion,13,New York,2024-04-11,NO,Active_Batch_2024,0
+CUST-1918,28.0,Female,41900.0,30.0,7.0,fashion,16,Houston,"Nov 26, 2023",No,Active_Batch_2024,0
+CUST-1919,68.0,Male,,23.0,3.0,ELECTRONICS ,27,Los Angeles,07-13-2023,yes,Active_Batch_2024,1
+CUST-1920,64.0,Female,39100.0,32.0,1.0,home & kitchen,17, Chicago ,02/09/2023,yes,Active_Batch_2024,0
+CUST-1921,40.0,Female,92700.0,86.0,7.0,ELECTRONICS ,25,Chicago,2024-01-28,NO,Active_Batch_2024,0
+CUST-1922,33.0,Male,62900.0,57.0,3.0,electronics,10,Houston,"Aug 28, 2023",yes,Active_Batch_2024,1
+CUST-1923,48.0,Female,63700.0,9.0,0.5,ELECTRONICS ,20,Chicago,02-25-2024,NO,Active_Batch_2024,0
+CUST-1924,28.0,Male,86600.0,31.0,2.0,ELECTRONICS ,16,Los Angeles,14/02/2023,No,Active_Batch_2024,1
+CUST-1925,33.0,Female,90000.0,71.0,1.0,Beauty,32,new york,,yes,Active_Batch_2024,0
+CUST-1926,25.0,Male,84300.0,9.0,10.0,Fashion,27, Chicago ,"Nov 22, 2023",yes,Active_Batch_2024,0
+CUST-1927,21.0,Female,44500.0,13.0,1.0,ELECTRONICS ,13,Los Angeles,04-29-2024,NO,Active_Batch_2024,0
+CUST-1928,,Female,84100.0,58.0,5.0,Sports,19,houston,26/01/2024,NO,Active_Batch_2024,0
+CUST-1929,21.0,Female,44600.0,3.0,2.0,fashion,21,houston,2024-01-31,NO,Active_Batch_2024,0
+CUST-1930,42.0,Male,84700.0,35.0,1.0,Fashion,28, Chicago ,Invalid Date,NO,Active_Batch_2024,0
+CUST-1931,20.0,Female,29400.0,97.0,3.0,Books,23,los angeles,06-05-2023,Yes,Active_Batch_2024,0
+CUST-1932,49.0,Female,,21.0,1.0,Beauty,19,New York,22/05/2024,NO,Active_Batch_2024,1
+CUST-1933,20.0,Female,44500.0,64.0,1.0,home & kitchen,19,New York,2023-02-07,Yes,Active_Batch_2024,0
+CUST-1934,44.0,Female,86700.0,95.0,1.0,Beauty,7,houston,"May 10, 2023",No,Active_Batch_2024,0
+CUST-1935,46.0,Female,92900.0,52.0,5.0,fashion,13,houston,05-29-2024,NO,Active_Batch_2024,0
+CUST-1936,49.0,Male,70000.0,34.0,1.0,Fashion,15,Los Angeles,06/12/2023,Yes,Active_Batch_2024,1
+CUST-1937,67.0,Male,69200.0,96.0,1.0,home & kitchen,17, New York ,2023-04-13,Yes,Active_Batch_2024,0
+CUST-1938,68.0,Female,82600.0,35.0,5.0,Electronics,18,Phoenix,"Mar 26, 2024",Yes,Active_Batch_2024,1
+CUST-1939,36.0,Male,93000.0,15.0,7.0,Home & Kitchen,20,los angeles,04-13-2023,yes,Active_Batch_2024,1
+CUST-1940,38.0,Other,65900.0,96.0,2.0,Beauty,17,Houston,22/06/2024,Yes,Active_Batch_2024,1
+CUST-1941,22.0,Female,52500.0,6.0,10.0,home & kitchen,17,Phoenix,2024-04-12,NO,Active_Batch_2024,0
+CUST-1942,35.0,Other,,85.0,7.0,electronics,13,Los Angeles,"Jan 16, 2023",NO,Active_Batch_2024,0
+CUST-1943,45.0,Male,18500.0,97.0,0.5,home & kitchen,26,Phoenix,05-28-2023,NO,Active_Batch_2024,0
+CUST-1944,59.0,Female,87700.0,32.0,5.0,Home & Kitchen,15,Phoenix,24/02/2024,Yes,Active_Batch_2024,1
+CUST-1945,39.0,Female,47200.0,52.0,5.0,fashion,22,Los Angeles,2023-06-08,Yes,Active_Batch_2024,0
+CUST-1946,38.0,Female,59000.0,83.0,1.0,Fashion,22,houston,"Mar 18, 2023",yes,Active_Batch_2024,0
+CUST-1947,23.0,Female,87900.0,,1.0,Electronics,16,houston,04-25-2024,No,Active_Batch_2024,0
+CUST-1948,18.0,Male,54600.0,28.0,10.0,electronics,19, Chicago ,29/09/2023,yes,Active_Batch_2024,0
+CUST-1949,22.0,Female,81200.0,95.0,0.5,home & kitchen,25,Phoenix,2023-12-13,NO,Active_Batch_2024,0
+CUST-1950,58.0,Female,93500.0,85.0,1.0,Sports,17,Houston,,NO,Active_Batch_2024,0
+CUST-1951,29.0,Male,67800.0,98.0,3.0,ELECTRONICS ,13,Los Angeles,02-12-2024,NO,Active_Batch_2024,0
+CUST-1952,43.0,Male,72800.0,64.0,1.0,fashion,27,Houston,24/03/2023,yes,Active_Batch_2024,0
+CUST-1953,63.0,Female,62000.0,79.0,1.0,Beauty,22,Chicago,2023-12-03,NO,Active_Batch_2024,0
+CUST-1954,51.0,Female,67900.0,78.0,3.0,Beauty,15,New York,"Jun 30, 2024",NO,Active_Batch_2024,0
+CUST-1955,66.0,,37100.0,19.0,0.5,Home & Kitchen,18, Chicago ,01-25-2024,NO,Active_Batch_2024,0
+CUST-1956,31.0,Female,57700.0,15.0,3.0,fashion,14,New York,21/11/2023,Yes,Active_Batch_2024,0
+CUST-1957,43.0,Male,32800.0,6.0,5.0,electronics,20, Chicago ,2024-05-14,No,Active_Batch_2024,0
+CUST-1958,62.0,Male,,73.0,3.0,Books,14,los angeles,"Feb 06, 2023",Yes,Active_Batch_2024,0
+CUST-1959,44.0,Male,14900.0,84.0,2.0,Electronics,13,Los Angeles,03-12-2023,Yes,Active_Batch_2024,0
+CUST-1960,,Male,71600.0,98.0,5.0,electronics,13,New York,Invalid Date,No,Active_Batch_2024,0
+CUST-1961,43.0,Male,107300.0,38.0,1.0,Electronics,16,Houston,2023-08-29,No,Active_Batch_2024,1
+CUST-1962,64.0,Male,,26.0,10.0,Fashion,14,Los Angeles,"Oct 22, 2023",yes,Active_Batch_2024,0
+CUST-1963,39.0,Male,89100.0,82.0,5.0,Fashion,14,Houston,08-21-2023,No,Active_Batch_2024,0
+CUST-1964,64.0,Female,93100.0,92.0,0.5,fashion,21,Phoenix,03/04/2023,yes,Active_Batch_2024,0
+CUST-1965,47.0,Male,35000.0,51.0,0.5,fashion,16,New York,2024-03-20,yes,Active_Batch_2024,1
+CUST-1966,60.0,Female,40400.0,73.0,3.0,Beauty,31,Phoenix,"Apr 11, 2023",Yes,Active_Batch_2024,1
+CUST-1967,65.0,Female,89800.0,96.0,5.0,ELECTRONICS ,14,houston,04-13-2023,NO,Active_Batch_2024,1
+CUST-1968,34.0,Male,62700.0,53.0,1.0,Home & Kitchen,11,Chicago,30/03/2024,Yes,Active_Batch_2024,1
+CUST-1969,43.0,Male,32700.0,56.0,0.5,ELECTRONICS ,19,los angeles,2023-06-20,Yes,Active_Batch_2024,1
+CUST-1970,53.0,Male,,59.0,7.0,electronics,16,los angeles,"Nov 03, 2023",No,Active_Batch_2024,0
+CUST-1971,18.0,Male,75500.0,70.0,1.0,Beauty,28,New York,01-30-2023,No,Active_Batch_2024,0
+CUST-1972,25.0,Female,45200.0,78.0,7.0,Electronics,20,new york,17/02/2023,yes,Active_Batch_2024,0
+CUST-1973,66.0,Male,-4400.0,92.0,2.0,Books,10,Chicago,2023-11-29,yes,Active_Batch_2024,0
+CUST-1974,52.0,Male,56900.0,58.0,7.0,home & kitchen,12, New York ,"Feb 27, 2023",yes,Active_Batch_2024,1
+CUST-1975,69.0,Male,59000.0,88.0,0.5,Sports,13, Chicago ,,No,Active_Batch_2024,0
+CUST-1976,32.0,,65200.0,13.0,3.0,Fashion,21,los angeles,28/10/2023,yes,Active_Batch_2024,0
+CUST-1977,64.0,Female,96500.0,43.0,2.0,ELECTRONICS ,20,Los Angeles,2024-01-03,yes,Active_Batch_2024,0
+CUST-1978,,Female,66300.0,76.0,5.0,Home & Kitchen,19,houston,"Jan 19, 2024",No,Active_Batch_2024,0
+CUST-1979,31.0,Male,,51.0,1.0,Books,26,Phoenix,03-17-2024,NO,Active_Batch_2024,1
+CUST-1980,43.0,Female,91400.0,19.0,0.5,Books,24, New York ,30/05/2023,Yes,Active_Batch_2024,1
+CUST-1981,45.0,Female,65300.0,21.0,2.0,Fashion,28,Los Angeles,2023-09-08,No,Active_Batch_2024,1
+CUST-1982,40.0,Female,118400.0,91.0,2.0,Sports,16,New York,"Jun 27, 2024",yes,Active_Batch_2024,0
+CUST-1983,31.0,,33400.0,83.0,0.5,fashion,12,Chicago,02-26-2024,Yes,Active_Batch_2024,1
+CUST-1984,41.0,Male,41600.0,24.0,5.0,Books,27,los angeles,04/07/2023,No,Active_Batch_2024,0
+CUST-1985,19.0,Female,80300.0,26.0,5.0,electronics,21, Chicago ,2023-06-24,Yes,Active_Batch_2024,1
+CUST-1986,62.0,Female,96400.0,45.0,3.0,electronics,15, New York ,"Jun 29, 2023",Yes,Active_Batch_2024,0
+CUST-1987,43.0,Male,60000.0,28.0,10.0,fashion,14,los angeles,03-22-2023,NO,Active_Batch_2024,1
+CUST-1988,31.0,Male,39700.0,82.0,7.0,Electronics,13,new york,27/01/2024,yes,Active_Batch_2024,0
+CUST-1989,68.0,Other,109000.0,100.0,5.0,Beauty,25,new york,2023-09-04,No,Active_Batch_2024,0
+CUST-1990,24.0,Male,45200.0,29.0,3.0,fashion,18,new york,Invalid Date,yes,Active_Batch_2024,0
+CUST-1991,20.0,Female,73500.0,17.0,7.0,Sports,18,houston,05-24-2024,NO,Active_Batch_2024,1
+CUST-1992,64.0,Other,97900.0,68.0,2.0,electronics,16,Phoenix,27/05/2023,NO,Active_Batch_2024,0
+CUST-1993,40.0,Female,54000.0,44.0,0.5,Books,17,New York,2023-08-26,No,Active_Batch_2024,1
+CUST-1994,63.0,Male,49400.0,61.0,5.0,electronics,19,Los Angeles,"Apr 17, 2024",No,Active_Batch_2024,0
+CUST-1995,60.0,Female,51200.0,93.0,3.0,home & kitchen,18,los angeles,09-18-2023,NO,Active_Batch_2024,0
+CUST-1996,64.0,Male,87500.0,68.0,2.0,Beauty,16,Los Angeles,15/04/2024,No,Active_Batch_2024,0
+CUST-1997,62.0,Female,91500.0,74.0,5.0,Home & Kitchen,14,Los Angeles,2023-09-19,Yes,Active_Batch_2024,0
+CUST-1998,35.0,Male,65800.0,25.0,1.0,home & kitchen,21,los angeles,"Jan 10, 2023",Yes,Active_Batch_2024,0
+CUST-1999,55.0,Female,112100.0,,10.0,Electronics,15,Phoenix,04-21-2024,NO,Active_Batch_2024,1
+CUST-2000,52.0,Female,65800.0,67.0,2.0,Fashion,11,houston,,yes,Active_Batch_2024,0
+CUST-2001,68.0,Female,97300.0,2.0,5.0,home & kitchen,12,houston,2023-10-22,No,Active_Batch_2024,0
+CUST-2002,32.0,Female,54200.0,89.0,2.0,Electronics,18,Chicago,"Jun 11, 2023",No,Active_Batch_2024,0
+CUST-2003,42.0,Female,123300.0,49.0,0.5,Electronics,23,New York,03-17-2023,Yes,Active_Batch_2024,0
+CUST-2004,54.0,Female,104300.0,70.0,0.5,Home & Kitchen,10,Chicago,28/03/2024,No,Active_Batch_2024,0
+CUST-2005,45.0,Male,61800.0,26.0,10.0,Fashion,19,Phoenix,2023-12-20,yes,Active_Batch_2024,0
+CUST-2006,,Female,100900.0,72.0,0.5,ELECTRONICS ,16,Los Angeles,"Nov 03, 2023",No,Active_Batch_2024,0
+CUST-2007,56.0,Male,99600.0,99.0,7.0,fashion,19,New York,03-10-2024,No,Active_Batch_2024,0
+CUST-2008,34.0,Female,103800.0,27.0,1.0,Books,18,Chicago,14/09/2023,Yes,Active_Batch_2024,1
+CUST-2009,56.0,Male,3000.0,,0.5,Sports,20,Chicago,2024-04-12,No,Active_Batch_2024,0
+CUST-2010,39.0,Male,,18.0,1.0,Sports,13,new york,"Nov 06, 2023",NO,Active_Batch_2024,1
+CUST-2011,43.0,Female,78600.0,54.0,0.5,Sports,20,houston,07-23-2023,NO,Active_Batch_2024,0
+CUST-2012,61.0,Male,76800.0,1.0,7.0,ELECTRONICS ,14,Houston,29/01/2024,yes,Active_Batch_2024,0
+CUST-2013,42.0,Male,70500.0,61.0,2.0,fashion,15,Chicago,2024-05-09,yes,Active_Batch_2024,0
+CUST-2014,34.0,Female,71200.0,3.0,5.0,Sports,23, New York ,"Apr 20, 2023",yes,Active_Batch_2024,1
+CUST-2015,30.0,Female,97100.0,68.0,5.0,fashion,17,new york,08-31-2023,yes,Active_Batch_2024,0
+CUST-2016,37.0,Female,78500.0,41.0,0.5,Books,17,Los Angeles,26/01/2024,Yes,Active_Batch_2024,1
+CUST-2017,42.0,Male,70400.0,37.0,5.0,Sports,12, Chicago ,2024-01-03,No,Active_Batch_2024,0
+CUST-2018,21.0,Female,93500.0,51.0,0.5,Fashion,23,houston,"Oct 30, 2023",Yes,Active_Batch_2024,0
+CUST-2019,27.0,Male,75500.0,15.0,0.5,Electronics,14,Phoenix,10-30-2023,yes,Active_Batch_2024,0
+CUST-2020,20.0,Female,77800.0,8.0,10.0,Sports,14,los angeles,Invalid Date,No,Active_Batch_2024,1
+CUST-2021,58.0,Female,111700.0,38.0,3.0,fashion,13,Phoenix,2023-01-23,NO,Active_Batch_2024,0
+CUST-2022,62.0,Female,54100.0,83.0,3.0,Electronics,21,new york,"Feb 10, 2024",Yes,Active_Batch_2024,0
+CUST-2023,35.0,Male,27100.0,56.0,10.0,Home & Kitchen,16, New York ,10-09-2023,No,Active_Batch_2024,1
+CUST-2024,64.0,Male,66800.0,47.0,3.0,Sports,19,Phoenix,09/01/2023,NO,Active_Batch_2024,0
+CUST-2025,53.0,Male,70400.0,90.0,1.0,Sports,21, New York ,,NO,Active_Batch_2024,0
+CUST-2026,64.0,Male,83000.0,10.0,3.0,home & kitchen,16,los angeles,"Feb 20, 2023",yes,Active_Batch_2024,1
+CUST-2027,39.0,Male,67700.0,78.0,0.5,Electronics,14, Chicago ,05-23-2024,NO,Active_Batch_2024,0
+CUST-2028,51.0,Female,83900.0,49.0,7.0,Sports,11,houston,21/10/2023,NO,Active_Batch_2024,1
+CUST-2029,64.0,Male,127600.0,41.0,7.0,Fashion,7,houston,2023-08-24,yes,Active_Batch_2024,0
+CUST-2030,25.0,Female,85000.0,83.0,2.0,Books,21,Houston,"Dec 27, 2023",No,Active_Batch_2024,1
+CUST-2031,57.0,Male,89400.0,30.0,3.0,Electronics,20, New York ,08-13-2023,No,Active_Batch_2024,0
+CUST-2032,66.0,Female,61800.0,5.0,7.0,Books,13,los angeles,14/07/2023,yes,Active_Batch_2024,0
+CUST-2033,61.0,Female,30400.0,95.0,3.0,Beauty,13,Chicago,2023-09-14,Yes,Active_Batch_2024,0
+CUST-2034,36.0,Male,7500.0,71.0,2.0,fashion,21,Chicago,"May 21, 2023",yes,Active_Batch_2024,0
+CUST-2035,59.0,Male,52000.0,83.0,7.0,Home & Kitchen,18,Los Angeles,04-10-2023,No,Active_Batch_2024,0
+CUST-2036,58.0,Female,500.0,31.0,0.5,home & kitchen,17, New York ,10/02/2023,Yes,Active_Batch_2024,1
+CUST-2037,54.0,Male,77800.0,52.0,1.0,Fashion,22,New York,2023-11-13,yes,Active_Batch_2024,0
+CUST-2038,23.0,Female,55400.0,88.0,10.0,Home & Kitchen,19,Phoenix,"Mar 27, 2024",No,Active_Batch_2024,0
+CUST-2039,69.0,Female,32200.0,98.0,10.0,home & kitchen,24,Los Angeles,02-04-2023,No,Active_Batch_2024,0
+CUST-2040,43.0,Female,68300.0,23.0,10.0,Home & Kitchen,15,Los Angeles,09/01/2024,No,Active_Batch_2024,0
+CUST-2041,51.0,Male,,48.0,3.0,Home & Kitchen,18,Los Angeles,2023-05-15,NO,Active_Batch_2024,0
+CUST-2042,62.0,Female,76300.0,40.0,7.0,electronics,19,los angeles,"Apr 03, 2023",NO,Active_Batch_2024,0
+CUST-2043,23.0,Female,82700.0,6.0,7.0,fashion,16,houston,10-30-2023,Yes,Active_Batch_2024,0
+CUST-2044,,Female,47500.0,38.0,2.0,ELECTRONICS ,16,Los Angeles,01/12/2023,Yes,Active_Batch_2024,0
+CUST-2045,50.0,Male,59100.0,41.0,0.5,home & kitchen,18,houston,2024-03-01,Yes,Active_Batch_2024,0
+CUST-2046,39.0,Female,70400.0,100.0,5.0,Fashion,18,houston,"Jun 29, 2023",NO,Active_Batch_2024,0
+CUST-2047,38.0,Female,29800.0,27.0,7.0,Electronics,19, New York ,07-25-2023,Yes,Active_Batch_2024,0
+CUST-2048,23.0,Female,70400.0,75.0,1.0,Home & Kitchen,18,los angeles,16/05/2023,No,Active_Batch_2024,0
+CUST-2049,23.0,Male,29200.0,69.0,2.0,Home & Kitchen,26,houston,2024-01-10,No,Active_Batch_2024,0
+CUST-2050,65.0,Female,79100.0,57.0,7.0,home & kitchen,15,Los Angeles,Invalid Date,Yes,Active_Batch_2024,0
+CUST-2051,21.0,Male,54100.0,17.0,7.0,Beauty,13,los angeles,06-27-2024,Yes,Active_Batch_2024,1
+CUST-2052,47.0,Female,29100.0,71.0,2.0,ELECTRONICS ,18,Los Angeles,28/05/2024,NO,Active_Batch_2024,1
+CUST-2053,28.0,Female,,91.0,2.0,Home & Kitchen,14,new york,2023-10-07,No,Active_Batch_2024,0
+CUST-2054,47.0,Female,51600.0,47.0,3.0,Sports,24,Phoenix,"Jun 18, 2023",yes,Active_Batch_2024,0
+CUST-2055,48.0,Female,91700.0,79.0,7.0,electronics,20,new york,09-21-2023,yes,Active_Batch_2024,0
+CUST-2056,41.0,Male,69300.0,13.0,5.0,Books,19,new york,08/05/2024,NO,Active_Batch_2024,0
+CUST-2057,26.0,,41100.0,11.0,1.0,electronics,20, New York ,2023-10-30,NO,Active_Batch_2024,0
+CUST-2058,20.0,Male,106200.0,90.0,0.5,ELECTRONICS ,18,New York,"Dec 13, 2023",NO,Active_Batch_2024,0
+CUST-2059,68.0,Female,80700.0,86.0,0.5,Sports,16,Phoenix,04-28-2023,No,Active_Batch_2024,0
+CUST-2060,48.0,Female,56600.0,92.0,5.0,electronics,13, New York ,24/04/2024,Yes,Active_Batch_2024,0
+CUST-2061,57.0,Female,26200.0,24.0,2.0,Books,18,Los Angeles,2023-03-19,Yes,Active_Batch_2024,0
+CUST-2062,54.0,Male,54400.0,93.0,2.0,Electronics,17, New York ,"May 25, 2023",NO,Active_Batch_2024,0
+CUST-2063,53.0,Female,59500.0,73.0,2.0,fashion,23,Los Angeles,08-20-2023,No,Active_Batch_2024,0
+CUST-2064,41.0,Female,74200.0,4.0,7.0,Electronics,17,New York,11/02/2024,yes,Active_Batch_2024,1
+CUST-2065,48.0,Male,80200.0,46.0,2.0,fashion,23,houston,2024-01-10,NO,Active_Batch_2024,1
+CUST-2066,23.0,Female,85200.0,18.0,2.0,Beauty,15, New York ,"Apr 03, 2023",No,Active_Batch_2024,0
+CUST-2067,19.0,Male,24700.0,43.0,7.0,Beauty,19,Houston,02-09-2024,NO,Active_Batch_2024,0
+CUST-2068,37.0,Male,70200.0,80.0,7.0,Beauty,18,houston,15/01/2023,No,Active_Batch_2024,0
+CUST-2069,45.0,Male,61000.0,33.0,5.0,electronics,17, Chicago ,2023-09-28,No,Active_Batch_2024,0
+CUST-2070,28.0,Male,131900.0,93.0,3.0,Beauty,24, New York ,"May 07, 2023",NO,Active_Batch_2024,0
+CUST-2071,21.0,Female,66600.0,10.0,7.0,fashion,24,Los Angeles,04-10-2024,Yes,Active_Batch_2024,1
+CUST-2072,32.0,Male,49400.0,73.0,1.0,Electronics,24,Phoenix,13/01/2024,NO,Active_Batch_2024,1
+CUST-2073,23.0,Male,67800.0,59.0,2.0,home & kitchen,15, New York ,2023-09-26,Yes,Active_Batch_2024,0
+CUST-2074,66.0,Male,64800.0,31.0,3.0,Home & Kitchen,16,Los Angeles,"Jan 26, 2024",Yes,Active_Batch_2024,0
+CUST-2075,47.0,Female,15300.0,28.0,0.5,fashion,16,New York,,yes,Active_Batch_2024,0
+CUST-2076,55.0,Female,75200.0,60.0,5.0,Electronics,22,new york,16/01/2024,No,Active_Batch_2024,1
+CUST-2077,68.0,Male,57200.0,3.0,3.0,Electronics,23, New York ,2023-04-21,NO,Active_Batch_2024,1
+CUST-2078,19.0,Male,64300.0,55.0,7.0,Home & Kitchen,17,Chicago,"Aug 28, 2023",No,Active_Batch_2024,0
+CUST-2079,32.0,Female,43200.0,14.0,2.0,Sports,20, Chicago ,04-27-2024,yes,Active_Batch_2024,0
+CUST-2080,28.0,Male,37700.0,58.0,2.0,home & kitchen,11,Chicago,Invalid Date,Yes,Active_Batch_2024,0
+CUST-2081,25.0,Female,87000.0,,2.0,Sports,21,houston,2023-01-26,NO,Active_Batch_2024,0
+CUST-2082,43.0,Male,92700.0,15.0,3.0,Sports,17,houston,"Dec 02, 2023",No,Active_Batch_2024,0
+CUST-2083,68.0,Female,75500.0,2.0,2.0,Electronics,19,new york,08-15-2023,yes,Active_Batch_2024,0
+CUST-2084,62.0,Male,19700.0,24.0,7.0,Books,20,new york,06/03/2023,Yes,Active_Batch_2024,0
+CUST-2085,61.0,Female,77100.0,78.0,3.0,Fashion,10,houston,2024-04-20,Yes,Active_Batch_2024,0
+CUST-2086,22.0,Male,20100.0,64.0,2.0,fashion,9, New York ,"Nov 06, 2023",No,Active_Batch_2024,0
+CUST-2087,23.0,,48500.0,71.0,0.5,electronics,19,los angeles,02-23-2024,Yes,Active_Batch_2024,0
+CUST-2088,43.0,Male,86600.0,100.0,0.5,Sports,8, New York ,30/04/2023,yes,Active_Batch_2024,0
+CUST-2089,21.0,Female,81400.0,24.0,1.0,Beauty,16, Chicago ,2023-05-24,Yes,Active_Batch_2024,0
+CUST-2090,36.0,Male,76400.0,27.0,2.0,electronics,15,houston,"Feb 16, 2023",NO,Active_Batch_2024,1
+CUST-2091,37.0,Male,,37.0,2.0,ELECTRONICS ,12,Chicago,02-08-2023,NO,Active_Batch_2024,0
+CUST-2092,50.0,Female,79000.0,94.0,3.0,Books,7,new york,08/11/2023,No,Active_Batch_2024,0
+CUST-2093,37.0,Male,14500.0,91.0,3.0,electronics,25,Chicago,2024-05-19,yes,Active_Batch_2024,0
+CUST-2094,66.0,Female,55800.0,39.0,10.0,Home & Kitchen,26,houston,"Apr 29, 2023",Yes,Active_Batch_2024,1
+CUST-2095,29.0,Female,64000.0,63.0,2.0,Fashion,23,New York,04-10-2023,Yes,Active_Batch_2024,1
+CUST-2096,64.0,Female,61000.0,79.0,1.0,home & kitchen,16,houston,29/08/2023,Yes,Active_Batch_2024,0
+CUST-2097,18.0,Male,49600.0,26.0,2.0,Home & Kitchen,15,Houston,2023-05-19,NO,Active_Batch_2024,0
+CUST-2098,43.0,Female,39200.0,65.0,7.0,Sports,15, Chicago ,"Feb 02, 2024",yes,Active_Batch_2024,0
+CUST-2099,31.0,Male,125000.0,4.0,3.0,Books,17,Houston,04-09-2024,Yes,Active_Batch_2024,0
+CUST-2100,55.0,Female,55300.0,29.0,2.0,Books,16,Phoenix,,No,Active_Batch_2024,0
+CUST-2101,54.0,Female,123800.0,1.0,3.0,Sports,23,Chicago,2024-01-15,yes,Active_Batch_2024,0
+CUST-2102,28.0,Female,,50.0,2.0,Fashion,16,New York,"Mar 05, 2024",yes,Active_Batch_2024,0
+CUST-2103,53.0,Female,,86.0,5.0,Electronics,25, Chicago ,06-08-2023,Yes,Active_Batch_2024,0
+CUST-2104,30.0,Female,70700.0,11.0,3.0,electronics,16,Los Angeles,29/02/2024,NO,Active_Batch_2024,0
+CUST-2105,60.0,Male,42000.0,74.0,1.0,Beauty,23,Phoenix,2023-04-12,yes,Active_Batch_2024,0
+CUST-2106,20.0,Female,53300.0,59.0,5.0,Sports,22,los angeles,"May 16, 2024",No,Active_Batch_2024,0
+CUST-2107,50.0,Male,64600.0,62.0,7.0,Beauty,24,Houston,02-22-2024,yes,Active_Batch_2024,0
+CUST-2108,23.0,Female,43900.0,81.0,2.0,electronics,17, Chicago ,14/10/2023,NO,Active_Batch_2024,0
+CUST-2109,67.0,Female,58600.0,36.0,10.0,Fashion,32, Chicago ,2023-02-03,No,Active_Batch_2024,0
+CUST-2110,,Female,5900.0,56.0,7.0,Electronics,16,Houston,Invalid Date,NO,Active_Batch_2024,1
+CUST-2111,22.0,Male,82800.0,90.0,3.0,home & kitchen,20,Phoenix,01-15-2024,Yes,Active_Batch_2024,0
+CUST-2112,40.0,Female,95700.0,21.0,5.0,Fashion,18,New York,11/08/2023,yes,Active_Batch_2024,0
+CUST-2113,27.0,Male,76400.0,13.0,7.0,Beauty,14,New York,2024-03-30,No,Active_Batch_2024,0
+CUST-2114,61.0,Male,121600.0,9.0,1.0,Books,13,new york,"Mar 31, 2024",NO,Active_Batch_2024,1
+CUST-2115,19.0,Male,82100.0,11.0,10.0,Books,15, New York ,08-30-2023,Yes,Active_Batch_2024,1
+CUST-2116,30.0,Male,93600.0,75.0,3.0,ELECTRONICS ,18,Phoenix,07/01/2024,No,Active_Batch_2024,0
+CUST-2117,57.0,Male,96000.0,70.0,5.0,fashion,11,Chicago,2023-04-12,yes,Active_Batch_2024,0
+CUST-2118,19.0,Female,-3800.0,1.0,7.0,Home & Kitchen,17,Chicago,"Jan 12, 2024",yes,Active_Batch_2024,1
+CUST-2119,37.0,Male,75600.0,70.0,5.0,Home & Kitchen,20,Phoenix,01-03-2024,NO,Active_Batch_2024,1
+CUST-2120,18.0,Male,30400.0,77.0,5.0,Sports,19,Houston,04/03/2023,No,Active_Batch_2024,0
+CUST-2121,54.0,Female,35500.0,86.0,7.0,Beauty,18,Chicago,2024-02-12,Yes,Active_Batch_2024,0
+CUST-2122,26.0,Male,39800.0,56.0,0.5,Home & Kitchen,14,Chicago,"Oct 10, 2023",Yes,Active_Batch_2024,0
+CUST-2123,34.0,Female,57200.0,31.0,2.0,Home & Kitchen,23, New York ,07-14-2023,Yes,Active_Batch_2024,1
+CUST-2124,26.0,Female,81300.0,86.0,3.0,Fashion,15, Chicago ,06/05/2023,NO,Active_Batch_2024,0
+CUST-2125,28.0,Female,75800.0,37.0,3.0,home & kitchen,21, Chicago ,,Yes,Active_Batch_2024,0
+CUST-2126,32.0,Female,64700.0,47.0,10.0,Beauty,26,Phoenix,"Apr 10, 2024",No,Active_Batch_2024,0
+CUST-2127,41.0,Female,83100.0,91.0,10.0,ELECTRONICS ,16,houston,04-04-2023,NO,Active_Batch_2024,0
+CUST-2128,55.0,Female,84600.0,78.0,10.0,home & kitchen,14, Chicago ,06/08/2023,yes,Active_Batch_2024,0
+CUST-2129,52.0,Male,76100.0,47.0,3.0,ELECTRONICS ,13,Houston,2023-01-22,NO,Active_Batch_2024,0
+CUST-2130,47.0,Female,21900.0,69.0,5.0,Beauty,19,Los Angeles,"Feb 21, 2023",NO,Active_Batch_2024,0
+CUST-2131,48.0,Male,46500.0,58.0,10.0,Electronics,16,houston,12-08-2023,NO,Active_Batch_2024,0
+CUST-2132,66.0,Female,65700.0,36.0,7.0,Electronics,21, New York ,07/09/2023,No,Active_Batch_2024,0
+CUST-2133,22.0,Male,83300.0,32.0,2.0,Home & Kitchen,18,Houston,2023-05-09,yes,Active_Batch_2024,1
+CUST-2134,61.0,Female,31800.0,98.0,1.0,Sports,15,New York,"Jul 30, 2023",yes,Active_Batch_2024,0
+CUST-2135,67.0,Male,64700.0,64.0,3.0,Books,17, New York ,03-12-2023,NO,Active_Batch_2024,0
+CUST-2136,31.0,Female,25900.0,71.0,7.0,Fashion,19,new york,01/08/2023,NO,Active_Batch_2024,0
+CUST-2137,28.0,Male,90600.0,42.0,2.0,Home & Kitchen,23,Chicago,2023-08-10,NO,Active_Batch_2024,0
+CUST-2138,26.0,Female,71100.0,48.0,2.0,fashion,19,los angeles,"Aug 27, 2023",No,Active_Batch_2024,0
+CUST-2139,51.0,Female,31300.0,74.0,0.5,Electronics,25,New York,12-03-2023,No,Active_Batch_2024,0
+CUST-2140,29.0,Male,31200.0,81.0,7.0,Home & Kitchen,17,houston,Invalid Date,Yes,Active_Batch_2024,0
+CUST-2141,52.0,Female,74700.0,30.0,3.0,Books,17,Houston,2023-06-01,yes,Active_Batch_2024,1
+CUST-2142,52.0,Female,99400.0,21.0,10.0,ELECTRONICS ,16,New York,"Jan 03, 2023",Yes,Active_Batch_2024,0
+CUST-2143,18.0,Female,37600.0,60.0,5.0,ELECTRONICS ,23,new york,10-11-2023,Yes,Active_Batch_2024,1
+CUST-2144,57.0,Male,84700.0,13.0,10.0,electronics,18,Houston,29/05/2023,NO,Active_Batch_2024,0
+CUST-2145,39.0,Male,51400.0,1.0,2.0,Fashion,14,los angeles,2023-05-14,No,Active_Batch_2024,1
+CUST-2146,46.0,Male,85600.0,65.0,2.0,Sports,19,houston,"Sep 14, 2023",Yes,Active_Batch_2024,0
+CUST-2147,25.0,Male,82100.0,33.0,1.0,ELECTRONICS ,23, New York ,06-28-2023,Yes,Active_Batch_2024,0
+CUST-2148,28.0,Female,68900.0,38.0,10.0,electronics,16,Phoenix,23/04/2023,Yes,Active_Batch_2024,1
+CUST-2149,58.0,Male,19100.0,25.0,0.5,Electronics,22,New York,2023-01-27,NO,Active_Batch_2024,1
+CUST-2150,54.0,Female,82000.0,26.0,2.0,ELECTRONICS ,22,los angeles,,NO,Active_Batch_2024,0
+CUST-2151,31.0,Male,77600.0,77.0,2.0,Sports,14,new york,05-15-2023,No,Active_Batch_2024,0
+CUST-2152,47.0,Female,75300.0,59.0,5.0,Home & Kitchen,11,New York,16/01/2023,Yes,Active_Batch_2024,0
+CUST-2153,52.0,Female,69900.0,92.0,5.0,Books,10,Los Angeles,2024-01-02,Yes,Active_Batch_2024,0
+CUST-2154,38.0,Female,43000.0,33.0,1.0,fashion,19,Los Angeles,"Sep 01, 2023",No,Active_Batch_2024,0
+CUST-2155,54.0,Male,92100.0,41.0,7.0,ELECTRONICS ,17,houston,11-28-2023,No,Active_Batch_2024,0
+CUST-2156,22.0,Male,87500.0,30.0,1.0,fashion,14, New York ,17/01/2023,No,Active_Batch_2024,1
+CUST-2157,36.0,Male,38100.0,57.0,1.0,fashion,13,houston,2023-06-28,yes,Active_Batch_2024,0
+CUST-2158,31.0,Male,97900.0,,5.0,fashion,26,houston,"Sep 29, 2023",No,Active_Batch_2024,1
+CUST-2159,43.0,Male,68300.0,48.0,10.0,home & kitchen,18,Chicago,02-23-2023,NO,Active_Batch_2024,0
+CUST-2160,21.0,Male,68200.0,72.0,10.0,fashion,15, New York ,10/05/2023,yes,Active_Batch_2024,0
+CUST-2161,42.0,Male,60600.0,49.0,10.0,home & kitchen,13,Chicago,2024-03-07,No,Active_Batch_2024,0
+CUST-2162,62.0,Female,63100.0,47.0,7.0,Books,14,Houston,"Jun 22, 2024",NO,Active_Batch_2024,0
+CUST-2163,59.0,Male,99300.0,56.0,5.0,fashion,15,los angeles,04-27-2023,No,Active_Batch_2024,0
+CUST-2164,42.0,Female,90800.0,65.0,0.5,electronics,27,los angeles,07/03/2023,No,Active_Batch_2024,0
+CUST-2165,35.0,Male,90300.0,12.0,3.0,fashion,14, New York ,2024-05-02,yes,Active_Batch_2024,0
+CUST-2166,57.0,Female,69600.0,69.0,3.0,Beauty,25, New York ,"Apr 04, 2024",NO,Active_Batch_2024,0
+CUST-2167,,Female,87200.0,88.0,0.5,Fashion,17,Houston,01-06-2024,Yes,Active_Batch_2024,0
+CUST-2168,56.0,Female,44100.0,6.0,10.0,electronics,19,los angeles,09/06/2024,No,Active_Batch_2024,1
+CUST-2169,57.0,Female,79600.0,89.0,3.0,Sports,14,Houston,2023-04-22,yes,Active_Batch_2024,0
+CUST-2170,31.0,Male,61200.0,65.0,7.0,ELECTRONICS ,18,Phoenix,Invalid Date,NO,Active_Batch_2024,0
+CUST-2171,49.0,Female,13500.0,25.0,5.0,Books,16,new york,04-07-2024,No,Active_Batch_2024,0
+CUST-2172,68.0,Male,25300.0,1.0,3.0,Books,14,Los Angeles,30/05/2024,Yes,Active_Batch_2024,0
+CUST-2173,55.0,Male,48400.0,32.0,7.0,Beauty,19,Phoenix,2023-08-15,NO,Active_Batch_2024,1
+CUST-2174,50.0,Female,75400.0,3.0,5.0,Beauty,16,houston,"Feb 14, 2023",NO,Active_Batch_2024,0
+CUST-2175,40.0,Female,48400.0,49.0,7.0,Beauty,18,New York,,yes,Active_Batch_2024,1
+CUST-2176,32.0,Male,50200.0,19.0,0.5,Beauty,12,Chicago,17/06/2024,No,Active_Batch_2024,1
+CUST-2177,50.0,Female,84100.0,60.0,1.0,Beauty,18, Chicago ,2023-11-05,No,Active_Batch_2024,0
+CUST-2178,42.0,Female,51100.0,29.0,0.5,Electronics,23,New York,"Apr 14, 2024",NO,Active_Batch_2024,1
+CUST-2179,34.0,Male,98300.0,50.0,3.0,Home & Kitchen,17, New York ,02-01-2023,No,Active_Batch_2024,0
+CUST-2180,50.0,Male,94100.0,2.0,5.0,Books,18,new york,04/03/2023,NO,Active_Batch_2024,0
+CUST-2181,64.0,Male,65500.0,73.0,7.0,Beauty,13,Phoenix,2024-05-05,Yes,Active_Batch_2024,0
+CUST-2182,19.0,Male,83800.0,56.0,3.0,ELECTRONICS ,13, Chicago ,"Feb 16, 2024",yes,Active_Batch_2024,0
+CUST-2183,31.0,Male,80400.0,17.0,3.0,Electronics,20, Chicago ,03-12-2024,No,Active_Batch_2024,0
+CUST-2184,57.0,Male,58900.0,60.0,1.0,electronics,21, New York ,21/04/2023,No,Active_Batch_2024,0
+CUST-2185,57.0,Male,86500.0,36.0,10.0,electronics,19,Phoenix,2024-05-17,yes,Active_Batch_2024,0
+CUST-2186,68.0,Female,90200.0,61.0,3.0,home & kitchen,18, Chicago ,"Mar 30, 2024",Yes,Active_Batch_2024,0
+CUST-2187,56.0,Female,41200.0,17.0,1.0,Home & Kitchen,20,Phoenix,03-17-2023,Yes,Active_Batch_2024,0
+CUST-2188,68.0,,68800.0,49.0,5.0,electronics,20,Chicago,24/03/2023,Yes,Active_Batch_2024,1
+CUST-2189,23.0,Male,68600.0,,5.0,Beauty,21,Chicago,2023-11-26,Yes,Active_Batch_2024,0
+CUST-2190,23.0,Female,86200.0,60.0,7.0,Books,18, Chicago ,"Jun 01, 2023",Yes,Active_Batch_2024,0
+CUST-2191,20.0,Female,53900.0,,10.0,home & kitchen,17, Chicago ,03-09-2023,NO,Active_Batch_2024,0
+CUST-2192,24.0,Female,50100.0,50.0,1.0,Fashion,16, New York ,10/05/2023,No,Active_Batch_2024,0
+CUST-2193,68.0,Male,69200.0,3.0,0.5,Electronics,14,Phoenix,2023-10-09,No,Active_Batch_2024,0
+CUST-2194,25.0,Female,94500.0,43.0,5.0,Fashion,22,los angeles,"Nov 29, 2023",No,Active_Batch_2024,0
+CUST-2195,59.0,Male,35000.0,57.0,10.0,Fashion,19,Houston,01-26-2024,NO,Active_Batch_2024,0
+CUST-2196,69.0,Male,39400.0,50.0,7.0,Beauty,18,Houston,27/06/2024,yes,Active_Batch_2024,0
+CUST-2197,32.0,Female,52000.0,68.0,0.5,Fashion,17,New York,2023-10-29,Yes,Active_Batch_2024,1
+CUST-2198,64.0,Female,56400.0,81.0,5.0,Fashion,13,New York,"Apr 09, 2024",yes,Active_Batch_2024,0
+CUST-2199,46.0,Male,20900.0,50.0,5.0,electronics,11, Chicago ,06-01-2024,Yes,Active_Batch_2024,0
+CUST-2200,50.0,Female,102500.0,37.0,7.0,Sports,16,Los Angeles,Invalid Date,Yes,Active_Batch_2024,0
+CUST-2201,69.0,Female,61700.0,46.0,7.0,home & kitchen,17,Chicago,2024-03-16,yes,Active_Batch_2024,0
+CUST-2202,47.0,Female,58000.0,42.0,2.0,Fashion,23,houston,"Apr 12, 2023",No,Active_Batch_2024,1
+CUST-2203,56.0,Female,105600.0,15.0,3.0,Home & Kitchen,22,Phoenix,04-28-2023,NO,Active_Batch_2024,0
+CUST-2204,44.0,Male,82900.0,33.0,3.0,ELECTRONICS ,15,new york,09/08/2023,yes,Active_Batch_2024,1
+CUST-2205,53.0,,51600.0,80.0,0.5,home & kitchen,18,new york,2024-03-16,No,Active_Batch_2024,0
+CUST-2206,46.0,Female,69100.0,11.0,3.0,Home & Kitchen,22,Chicago,"Apr 07, 2024",Yes,Active_Batch_2024,1
+CUST-2207,55.0,Male,64000.0,20.0,0.5,ELECTRONICS ,20,New York,08-22-2023,No,Active_Batch_2024,0
+CUST-2208,50.0,Female,101200.0,24.0,10.0,Fashion,27, New York ,28/02/2024,Yes,Active_Batch_2024,0
+CUST-2209,54.0,Female,60800.0,64.0,5.0,Sports,14,new york,2023-12-14,Yes,Active_Batch_2024,0
+CUST-2210,44.0,Female,28900.0,80.0,2.0,fashion,27, Chicago ,"Apr 09, 2024",No,Active_Batch_2024,0
+CUST-2211,50.0,Other,18100.0,94.0,2.0,Books,21,Los Angeles,02-13-2024,Yes,Active_Batch_2024,0
+CUST-2212,21.0,Female,101900.0,98.0,5.0,Home & Kitchen,18,new york,01/03/2024,NO,Active_Batch_2024,0
+CUST-2213,39.0,Female,45300.0,65.0,7.0,Fashion,19,Houston,2023-04-08,No,Active_Batch_2024,0
+CUST-2214,19.0,Female,81800.0,88.0,1.0,home & kitchen,17,Los Angeles,"Nov 17, 2023",yes,Active_Batch_2024,0
+CUST-2215,27.0,Female,66800.0,88.0,1.0,electronics,22,Los Angeles,03-13-2024,Yes,Active_Batch_2024,1
+CUST-2216,22.0,Male,54600.0,73.0,3.0,Fashion,14,new york,17/11/2023,Yes,Active_Batch_2024,0
+CUST-2217,27.0,Female,58500.0,86.0,7.0,fashion,19, New York ,2023-09-19,NO,Active_Batch_2024,0
+CUST-2218,50.0,Male,104600.0,76.0,0.5,Fashion,15, New York ,"Jan 19, 2024",NO,Active_Batch_2024,0
+CUST-2219,55.0,Female,28800.0,17.0,10.0,Fashion,17,New York,06-06-2023,yes,Active_Batch_2024,1
+CUST-2220,30.0,Female,55300.0,89.0,2.0,Books,14,Chicago,30/04/2024,Yes,Active_Batch_2024,0
+CUST-2221,48.0,Female,87700.0,92.0,3.0,electronics,14, Chicago ,2023-03-10,yes,Active_Batch_2024,0
+CUST-2222,64.0,Female,32900.0,61.0,5.0,Home & Kitchen,16,houston,"Apr 04, 2023",yes,Active_Batch_2024,0
+CUST-2223,53.0,Female,97900.0,15.0,7.0,Beauty,21,los angeles,03-29-2023,Yes,Active_Batch_2024,0
+CUST-2224,62.0,Male,87300.0,94.0,2.0,Beauty,15,houston,06/04/2023,yes,Active_Batch_2024,0
+CUST-2225,41.0,Female,,51.0,0.5,home & kitchen,20,Houston,,yes,Active_Batch_2024,1
+CUST-2226,69.0,Male,52400.0,27.0,0.5,Sports,11, New York ,"Mar 18, 2024",NO,Active_Batch_2024,1
+CUST-2227,32.0,Male,29700.0,86.0,1.0,Fashion,21,New York,04-09-2023,NO,Active_Batch_2024,0
+CUST-2228,46.0,Male,82700.0,74.0,3.0,home & kitchen,11,Houston,17/01/2024,yes,Active_Batch_2024,0
+CUST-2229,25.0,Female,133700.0,61.0,5.0,Sports,15,houston,2023-05-14,Yes,Active_Batch_2024,0
+CUST-2230,22.0,Female,68600.0,58.0,2.0,Home & Kitchen,14,Los Angeles,Invalid Date,NO,Active_Batch_2024,0
+CUST-2231,46.0,Female,19300.0,31.0,10.0,Home & Kitchen,16,Chicago,03-03-2023,yes,Active_Batch_2024,1
+CUST-2232,64.0,Male,76400.0,91.0,0.5,electronics,13,Los Angeles,04/12/2023,No,Active_Batch_2024,0
+CUST-2233,21.0,Female,86500.0,12.0,2.0,Beauty,22,houston,2023-05-06,No,Active_Batch_2024,0
+CUST-2234,29.0,Male,42100.0,46.0,5.0,Beauty,11,new york,"Feb 25, 2024",yes,Active_Batch_2024,0
+CUST-2235,62.0,Male,48900.0,31.0,2.0,home & kitchen,21,Chicago,12-29-2023,No,Active_Batch_2024,0
+CUST-2236,19.0,Female,46300.0,32.0,3.0,Books,19,New York,09/03/2024,NO,Active_Batch_2024,1
+CUST-2237,44.0,Male,51700.0,32.0,1.0,Beauty,17,Phoenix,2023-02-22,Yes,Active_Batch_2024,0
+CUST-2238,48.0,Male,60700.0,99.0,2.0,Books,22,Los Angeles,"Oct 22, 2023",yes,Active_Batch_2024,0
+CUST-2239,68.0,Male,43500.0,53.0,7.0,Books,16,new york,11-16-2023,NO,Active_Batch_2024,1
+CUST-2240,68.0,Male,34100.0,61.0,1.0,Home & Kitchen,15,Houston,27/12/2023,Yes,Active_Batch_2024,0
+CUST-2241,53.0,Male,69400.0,46.0,5.0,electronics,21,Phoenix,2023-04-17,No,Active_Batch_2024,0
+CUST-2242,53.0,Male,60400.0,85.0,1.0,home & kitchen,21,Houston,"Jun 03, 2024",No,Active_Batch_2024,0
+CUST-2243,43.0,Female,54100.0,74.0,2.0,ELECTRONICS ,15, New York ,08-06-2023,No,Active_Batch_2024,0
+CUST-2244,60.0,Female,67100.0,80.0,2.0,home & kitchen,20,Phoenix,08/06/2023,No,Active_Batch_2024,0
+CUST-2245,44.0,Female,27000.0,,7.0,Books,29,Chicago,2024-05-08,NO,Active_Batch_2024,0
+CUST-2246,22.0,,71600.0,4.0,0.5,Sports,24, New York ,"Aug 18, 2023",NO,Active_Batch_2024,1
+CUST-2247,37.0,Male,54600.0,91.0,7.0,Sports,22,Chicago,04-21-2023,Yes,Active_Batch_2024,1
+CUST-2248,28.0,Female,71000.0,52.0,2.0,electronics,17, Chicago ,25/12/2023,yes,Active_Batch_2024,0
+CUST-2249,27.0,,75000.0,89.0,10.0,Home & Kitchen,15,new york,2024-01-12,Yes,Active_Batch_2024,1
+CUST-2250,57.0,Male,93300.0,31.0,1.0,Home & Kitchen,22,houston,,yes,Active_Batch_2024,1
+CUST-2251,55.0,Female,67600.0,75.0,7.0,Books,15,Houston,04-28-2023,No,Active_Batch_2024,0
+CUST-2252,23.0,Male,91700.0,84.0,7.0,Books,19,houston,13/10/2023,No,Active_Batch_2024,0
+CUST-2253,25.0,Male,57000.0,36.0,10.0,fashion,15,Phoenix,2023-08-20,No,Active_Batch_2024,0
+CUST-2254,40.0,Male,58100.0,54.0,10.0,fashion,20,Los Angeles,"Mar 15, 2024",No,Active_Batch_2024,1
+CUST-2255,64.0,Female,62700.0,54.0,10.0,Books,13,Los Angeles,01-27-2023,NO,Active_Batch_2024,0
+CUST-2256,,Female,84400.0,17.0,0.5,Beauty,19,Houston,01/10/2023,Yes,Active_Batch_2024,0
+CUST-2257,63.0,Female,80800.0,75.0,2.0,home & kitchen,18, New York ,2023-01-30,yes,Active_Batch_2024,0
+CUST-2258,,Male,68400.0,30.0,2.0,Beauty,17,Houston,"Jul 04, 2023",yes,Active_Batch_2024,1
+CUST-2259,29.0,Male,34300.0,99.0,5.0,Home & Kitchen,17, Chicago ,10-07-2023,NO,Active_Batch_2024,0
+CUST-2260,43.0,Male,80300.0,22.0,0.5,ELECTRONICS ,17, Chicago ,Invalid Date,No,Active_Batch_2024,1
+CUST-2261,30.0,Male,43500.0,43.0,5.0,home & kitchen,12,houston,2023-11-13,Yes,Active_Batch_2024,1
+CUST-2262,57.0,Female,42100.0,27.0,5.0,Beauty,15,Phoenix,"Dec 14, 2023",No,Active_Batch_2024,0
+CUST-2263,35.0,Male,36500.0,37.0,5.0,Beauty,17, Chicago ,12-26-2023,NO,Active_Batch_2024,1
+CUST-2264,42.0,Female,62900.0,46.0,3.0,Electronics,21,new york,07/01/2023,yes,Active_Batch_2024,0
+CUST-2265,50.0,Female,95300.0,35.0,5.0,home & kitchen,18, New York ,2023-07-05,NO,Active_Batch_2024,1
+CUST-2266,64.0,Male,40900.0,4.0,7.0,ELECTRONICS ,13, New York ,"May 27, 2023",yes,Active_Batch_2024,0
+CUST-2267,57.0,Female,107000.0,80.0,1.0,electronics,15, Chicago ,02-15-2024,Yes,Active_Batch_2024,0
+CUST-2268,60.0,Male,87700.0,80.0,7.0,electronics,18,los angeles,13/03/2023,yes,Active_Batch_2024,0
+CUST-2269,29.0,Male,28400.0,85.0,7.0,Beauty,15,Los Angeles,2023-05-26,Yes,Active_Batch_2024,0
+CUST-2270,61.0,Male,55400.0,26.0,2.0,Books,21,los angeles,"Feb 01, 2023",No,Active_Batch_2024,0
+CUST-2271,53.0,Female,,100.0,3.0,ELECTRONICS ,22,Phoenix,04-04-2023,No,Active_Batch_2024,0
+CUST-2272,65.0,Male,81600.0,19.0,5.0,ELECTRONICS ,19,Phoenix,27/06/2024,NO,Active_Batch_2024,0
+CUST-2273,21.0,Female,40300.0,81.0,2.0,Home & Kitchen,22,Chicago,2023-08-09,Yes,Active_Batch_2024,0
+CUST-2274,22.0,Female,24500.0,45.0,0.5,Sports,17,Phoenix,"Jan 21, 2024",No,Active_Batch_2024,0
+CUST-2275,54.0,Male,56900.0,26.0,0.5,Electronics,18,Chicago,,Yes,Active_Batch_2024,0
+CUST-2276,25.0,Female,94200.0,22.0,2.0,Home & Kitchen,18, New York ,05/03/2024,No,Active_Batch_2024,0
+CUST-2277,59.0,Female,60200.0,58.0,1.0,ELECTRONICS ,20,new york,2024-04-09,No,Active_Batch_2024,0
+CUST-2278,66.0,Male,75000.0,63.0,2.0,Fashion,15,New York,"Dec 16, 2023",yes,Active_Batch_2024,0
+CUST-2279,45.0,Male,75900.0,28.0,2.0,Books,20,Los Angeles,06-11-2023,NO,Active_Batch_2024,1
+CUST-2280,48.0,Female,27200.0,65.0,3.0,ELECTRONICS ,14,Chicago,14/01/2024,yes,Active_Batch_2024,0
+CUST-2281,26.0,Male,42500.0,44.0,0.5,Electronics,19,houston,2023-11-16,Yes,Active_Batch_2024,0
+CUST-2282,68.0,Female,,100.0,0.5,ELECTRONICS ,19,new york,"Nov 29, 2023",No,Active_Batch_2024,0
+CUST-2283,46.0,Male,51100.0,43.0,5.0,home & kitchen,29,Houston,03-28-2023,NO,Active_Batch_2024,0
+CUST-2284,31.0,Male,107600.0,37.0,7.0,home & kitchen,15,houston,23/02/2023,No,Active_Batch_2024,0
+CUST-2285,57.0,Male,34300.0,66.0,2.0,fashion,19,new york,2023-06-09,No,Active_Batch_2024,0
+CUST-2286,58.0,Male,42300.0,17.0,2.0,Electronics,18,houston,"Jun 11, 2023",yes,Active_Batch_2024,0
+CUST-2287,39.0,Female,72300.0,40.0,1.0,Beauty,25, Chicago ,02-20-2023,Yes,Active_Batch_2024,0
+CUST-2288,28.0,Male,49300.0,38.0,10.0,Sports,23,houston,25/03/2023,NO,Active_Batch_2024,0
+CUST-2289,40.0,Female,-7300.0,85.0,10.0,Beauty,23,Chicago,2023-10-06,NO,Active_Batch_2024,0
+CUST-2290,18.0,Female,113400.0,61.0,0.5,Sports,19,new york,Invalid Date,NO,Active_Batch_2024,0
+CUST-2291,63.0,Female,38100.0,9.0,1.0,Sports,18,Houston,03-29-2024,Yes,Active_Batch_2024,1
+CUST-2292,54.0,Female,79000.0,77.0,3.0,Sports,22,Phoenix,10/03/2024,NO,Active_Batch_2024,1
+CUST-2293,38.0,Male,33700.0,75.0,5.0,electronics,26,houston,2024-05-12,Yes,Active_Batch_2024,1
+CUST-2294,43.0,Male,43400.0,61.0,1.0,Sports,13,Houston,"Mar 28, 2024",NO,Active_Batch_2024,0
+CUST-2295,63.0,Female,24400.0,80.0,0.5,ELECTRONICS ,14,new york,02-29-2024,No,Active_Batch_2024,0
+CUST-2296,53.0,Male,46500.0,16.0,3.0,Fashion,19,Houston,07/10/2023,Yes,Active_Batch_2024,0
+CUST-2297,40.0,Female,48900.0,2.0,2.0,Electronics,7,New York,2023-08-09,yes,Active_Batch_2024,0
+CUST-2298,18.0,Male,61700.0,72.0,3.0,Fashion,23,New York,"Jun 08, 2024",NO,Active_Batch_2024,0
+CUST-2299,68.0,Female,55700.0,43.0,7.0,fashion,16,houston,04-27-2023,yes,Active_Batch_2024,0
+CUST-2300,57.0,Female,,42.0,1.0,ELECTRONICS ,19,houston,,Yes,Active_Batch_2024,0
+CUST-2301,32.0,Female,51900.0,77.0,0.5,Sports,20,houston,2023-12-20,No,Active_Batch_2024,0
+CUST-2302,38.0,Female,101200.0,57.0,1.0,electronics,17,Los Angeles,"Mar 16, 2024",yes,Active_Batch_2024,0
+CUST-2303,64.0,Female,98200.0,81.0,2.0,Home & Kitchen,13, Chicago ,04-24-2023,yes,Active_Batch_2024,0
+CUST-2304,26.0,Female,76400.0,88.0,10.0,Beauty,11,Houston,18/10/2023,No,Active_Batch_2024,0
+CUST-2305,26.0,Female,81600.0,67.0,2.0,home & kitchen,11,los angeles,2024-05-13,No,Active_Batch_2024,0
+CUST-2306,27.0,Male,116500.0,30.0,0.5,Electronics,18, New York ,"Jun 23, 2024",Yes,Active_Batch_2024,0
+CUST-2307,69.0,Male,79300.0,13.0,7.0,Fashion,11,houston,11-12-2023,NO,Active_Batch_2024,1
+CUST-2308,43.0,Male,81100.0,19.0,5.0,ELECTRONICS ,20,Chicago,16/02/2023,yes,Active_Batch_2024,0
+CUST-2309,58.0,Other,25900.0,7.0,3.0,Home & Kitchen,15,New York,2023-08-14,yes,Active_Batch_2024,0
+CUST-2310,52.0,Male,37200.0,9.0,3.0,Books,26,New York,"Feb 09, 2024",Yes,Active_Batch_2024,1
+CUST-2311,69.0,Female,64200.0,83.0,2.0,Books,21,Phoenix,02-26-2023,NO,Active_Batch_2024,0
+CUST-2312,42.0,Female,44800.0,54.0,1.0,home & kitchen,14, New York ,08/01/2023,Yes,Active_Batch_2024,0
+CUST-2313,43.0,Female,40100.0,86.0,10.0,Books,22,Houston,2023-07-29,yes,Active_Batch_2024,0
+CUST-2314,28.0,Female,42900.0,82.0,1.0,Beauty,19,new york,"Nov 05, 2023",yes,Active_Batch_2024,0
+CUST-2315,55.0,Male,29400.0,61.0,7.0,fashion,12, New York ,08-05-2023,No,Active_Batch_2024,0
+CUST-2316,19.0,Female,45200.0,87.0,5.0,Books,15, Chicago ,21/05/2023,No,Active_Batch_2024,0
+CUST-2317,24.0,Female,73500.0,2.0,1.0,home & kitchen,29,houston,2023-09-19,NO,Active_Batch_2024,1
+CUST-2318,35.0,Male,,50.0,3.0,fashion,12,Chicago,"Oct 24, 2023",yes,Active_Batch_2024,0
+CUST-2319,44.0,Male,84900.0,75.0,10.0,Beauty,10,Houston,12-02-2023,yes,Active_Batch_2024,0
+CUST-2320,51.0,Female,80900.0,31.0,1.0,home & kitchen,14,Houston,Invalid Date,No,Active_Batch_2024,1
+CUST-2321,44.0,Female,24400.0,33.0,10.0,Books,23,houston,2023-05-03,Yes,Active_Batch_2024,1
+CUST-2322,34.0,Male,68000.0,78.0,5.0,Sports,25, Chicago ,"Jan 08, 2023",Yes,Active_Batch_2024,0
+CUST-2323,60.0,Female,63300.0,80.0,3.0,Electronics,17,houston,05-24-2024,yes,Active_Batch_2024,0
+CUST-2324,61.0,Female,72300.0,,10.0,Books,10,houston,16/03/2024,yes,Active_Batch_2024,0
+CUST-2325,,Male,56000.0,33.0,1.0,home & kitchen,20, New York ,,NO,Active_Batch_2024,1
+CUST-2326,41.0,,106600.0,7.0,3.0,Electronics,16,Chicago,"Jun 29, 2023",NO,Active_Batch_2024,1
+CUST-2327,42.0,Female,66300.0,31.0,2.0,Electronics,15,Houston,05-13-2023,No,Active_Batch_2024,0
+CUST-2328,24.0,Female,68800.0,48.0,2.0,fashion,15,Phoenix,25/01/2024,yes,Active_Batch_2024,0
+CUST-2329,69.0,Female,15900.0,47.0,7.0,Beauty,27,houston,2024-06-29,Yes,Active_Batch_2024,0
+CUST-2330,23.0,Male,62300.0,78.0,2.0,Books,30,Los Angeles,"Aug 24, 2023",NO,Active_Batch_2024,0
+CUST-2331,41.0,Male,93700.0,,1.0,Home & Kitchen,22,new york,05-27-2024,No,Active_Batch_2024,1
+CUST-2332,50.0,Male,78900.0,,5.0,Sports,16,houston,29/12/2023,No,Active_Batch_2024,0
+CUST-2333,66.0,Male,11100.0,80.0,3.0,Beauty,19,houston,2023-03-15,Yes,Active_Batch_2024,1
+CUST-2334,,Male,53800.0,19.0,10.0,Home & Kitchen,20,Houston,"Feb 11, 2024",NO,Active_Batch_2024,0
+CUST-2335,60.0,Female,108300.0,81.0,0.5,Home & Kitchen,10,New York,02-13-2023,Yes,Active_Batch_2024,0
+CUST-2336,39.0,Female,61200.0,90.0,2.0,Fashion,17,los angeles,22/03/2024,No,Active_Batch_2024,0
+CUST-2337,43.0,Female,73100.0,6.0,2.0,fashion,24,new york,2023-01-20,yes,Active_Batch_2024,0
+CUST-2338,45.0,Female,105500.0,49.0,0.5,electronics,19,New York,"Apr 15, 2024",Yes,Active_Batch_2024,0
+CUST-2339,67.0,Female,,73.0,10.0,ELECTRONICS ,15, New York ,03-21-2023,No,Active_Batch_2024,0
+CUST-2340,38.0,Male,84800.0,50.0,10.0,ELECTRONICS ,18,Los Angeles,17/11/2023,yes,Active_Batch_2024,0
+CUST-2341,66.0,Male,75300.0,81.0,0.5,fashion,20,los angeles,2024-03-15,yes,Active_Batch_2024,0
+CUST-2342,24.0,Female,80600.0,95.0,10.0,fashion,14,new york,"Feb 19, 2024",NO,Active_Batch_2024,0
+CUST-2343,34.0,Female,74500.0,12.0,1.0,Home & Kitchen,11,New York,03-03-2024,NO,Active_Batch_2024,0
+CUST-2344,37.0,Male,51300.0,23.0,10.0,fashion,25,Chicago,24/10/2023,No,Active_Batch_2024,1
+CUST-2345,58.0,Female,53800.0,54.0,3.0,Home & Kitchen,20,Chicago,2023-04-28,Yes,Active_Batch_2024,1
+CUST-2346,66.0,Male,43600.0,69.0,10.0,Beauty,20, Chicago ,"Feb 19, 2024",yes,Active_Batch_2024,0
+CUST-2347,37.0,Female,24000.0,100.0,2.0,electronics,18,houston,01-22-2023,NO,Active_Batch_2024,0
+CUST-2348,39.0,Female,96100.0,59.0,5.0,Fashion,18,Los Angeles,29/11/2023,NO,Active_Batch_2024,0
+CUST-2349,45.0,Female,65300.0,36.0,1.0,Home & Kitchen,29,los angeles,2023-06-25,Yes,Active_Batch_2024,0
+CUST-2350,57.0,Other,94900.0,3.0,1.0,fashion,22,new york,Invalid Date,NO,Active_Batch_2024,1
+CUST-2351,66.0,Female,104100.0,58.0,10.0,Electronics,19,Chicago,04-16-2024,No,Active_Batch_2024,0
+CUST-2352,24.0,Female,66300.0,88.0,5.0,Books,16,Los Angeles,06/01/2024,Yes,Active_Batch_2024,0
+CUST-2353,18.0,Female,32200.0,55.0,5.0,ELECTRONICS ,13,los angeles,2023-04-01,yes,Active_Batch_2024,0
+CUST-2354,49.0,Female,60100.0,57.0,7.0,electronics,19, Chicago ,"Mar 23, 2024",No,Active_Batch_2024,0
+CUST-2355,30.0,Female,48200.0,17.0,5.0,Books,16,Chicago,04-19-2023,yes,Active_Batch_2024,1
+CUST-2356,47.0,Male,15500.0,39.0,10.0,home & kitchen,14,Houston,07/09/2023,yes,Active_Batch_2024,0
+CUST-2357,,Male,52500.0,90.0,10.0,fashion,31,Chicago,2024-03-22,NO,Active_Batch_2024,0
+CUST-2358,68.0,Female,63200.0,68.0,0.5,Home & Kitchen,14,Phoenix,"Feb 15, 2024",No,Active_Batch_2024,0
+CUST-2359,36.0,Male,48900.0,55.0,2.0,Fashion,21,Houston,06-20-2024,No,Active_Batch_2024,0
+CUST-2360,49.0,Male,45700.0,45.0,7.0,Electronics,28,Los Angeles,22/03/2023,Yes,Active_Batch_2024,1
+CUST-2361,47.0,Other,33100.0,76.0,10.0,Fashion,20, Chicago ,2024-02-10,No,Active_Batch_2024,0
+CUST-2362,46.0,Female,,1.0,0.5,Books,21,New York,"Nov 14, 2023",Yes,Active_Batch_2024,0
+CUST-2363,66.0,Female,111700.0,21.0,7.0,Electronics,15, New York ,12-14-2023,No,Active_Batch_2024,0
+CUST-2364,62.0,Male,97000.0,83.0,2.0,Sports,22,houston,15/08/2023,yes,Active_Batch_2024,0
+CUST-2365,46.0,Male,81300.0,21.0,7.0,ELECTRONICS ,19,houston,2023-12-08,Yes,Active_Batch_2024,0
+CUST-2366,47.0,Male,81900.0,52.0,0.5,fashion,22,Chicago,"Jun 22, 2023",No,Active_Batch_2024,0
+CUST-2367,33.0,Male,61700.0,82.0,3.0,home & kitchen,23,new york,03-20-2023,Yes,Active_Batch_2024,0
+CUST-2368,57.0,Male,19900.0,43.0,10.0,Books,14,Houston,06/06/2024,NO,Active_Batch_2024,0
+CUST-2369,36.0,Male,55800.0,52.0,2.0,Home & Kitchen,15,Phoenix,2023-04-27,NO,Active_Batch_2024,0
+CUST-2370,35.0,Female,40800.0,67.0,1.0,ELECTRONICS ,16,Chicago,"Jun 27, 2024",Yes,Active_Batch_2024,0
+CUST-2371,18.0,Female,68900.0,44.0,2.0,home & kitchen,20, Chicago ,06-06-2024,Yes,Active_Batch_2024,0
+CUST-2372,31.0,Male,95800.0,32.0,2.0,Fashion,20, New York ,18/07/2023,yes,Active_Batch_2024,1
+CUST-2373,68.0,Male,114300.0,10.0,2.0,ELECTRONICS ,20,New York,2023-12-24,No,Active_Batch_2024,0
+CUST-2374,64.0,Female,66600.0,64.0,3.0,home & kitchen,20, New York ,"Dec 26, 2023",NO,Active_Batch_2024,0
+CUST-2375,67.0,Male,,,10.0,home & kitchen,20,Phoenix,,NO,Active_Batch_2024,0
+CUST-2376,19.0,Female,66600.0,69.0,0.5,Fashion,17, New York ,01/06/2023,No,Active_Batch_2024,0
+CUST-2377,45.0,Male,67200.0,68.0,10.0,home & kitchen,21, New York ,2023-08-30,NO,Active_Batch_2024,0
+CUST-2378,66.0,Male,82000.0,28.0,1.0,electronics,16,Los Angeles,"Apr 16, 2023",NO,Active_Batch_2024,1
+CUST-2379,67.0,Male,64500.0,53.0,0.5,Electronics,20, Chicago ,05-30-2023,Yes,Active_Batch_2024,0
+CUST-2380,47.0,Male,66700.0,51.0,7.0,electronics,16, Chicago ,Invalid Date,NO,Active_Batch_2024,0
+CUST-2381,55.0,Female,49200.0,53.0,7.0,Fashion,18,los angeles,2023-09-20,NO,Active_Batch_2024,0
+CUST-2382,68.0,Female,57200.0,4.0,7.0,Beauty,18,Chicago,"Jul 22, 2023",NO,Active_Batch_2024,0
+CUST-2383,21.0,Female,77800.0,79.0,0.5,ELECTRONICS ,20,new york,06-27-2023,No,Active_Batch_2024,0
+CUST-2384,18.0,Male,,17.0,5.0,Sports,13,los angeles,06/06/2023,yes,Active_Batch_2024,0
+CUST-2385,25.0,Female,57100.0,67.0,3.0,Home & Kitchen,17, Chicago ,2023-03-19,Yes,Active_Batch_2024,0
+CUST-2386,46.0,Female,82200.0,74.0,5.0,Home & Kitchen,21,houston,"Jul 01, 2023",yes,Active_Batch_2024,0
+CUST-2387,56.0,Female,106000.0,47.0,10.0,Books,24,Chicago,05-20-2024,NO,Active_Batch_2024,0
+CUST-2388,20.0,Male,55000.0,56.0,7.0,Books,23,Phoenix,20/04/2024,NO,Active_Batch_2024,0
+CUST-2389,49.0,Male,94600.0,23.0,3.0,Fashion,12,Los Angeles,2024-04-04,NO,Active_Batch_2024,1
+CUST-2390,27.0,Female,107300.0,18.0,0.5,Books,21,New York,"Nov 27, 2023",yes,Active_Batch_2024,1
+CUST-2391,27.0,Female,55400.0,1.0,7.0,Home & Kitchen,18,houston,11-20-2023,No,Active_Batch_2024,1
+CUST-2392,36.0,Male,,35.0,0.5,electronics,15, Chicago ,04/06/2023,No,Active_Batch_2024,0
+CUST-2393,63.0,Male,60400.0,64.0,3.0,Sports,13,Chicago,2024-03-26,Yes,Active_Batch_2024,0
+CUST-2394,51.0,Female,63000.0,58.0,0.5,Home & Kitchen,22, Chicago ,"Mar 11, 2023",yes,Active_Batch_2024,0
+CUST-2395,50.0,Female,92300.0,95.0,0.5,electronics,20,Houston,04-25-2024,No,Active_Batch_2024,0
+CUST-2396,40.0,Male,45700.0,59.0,1.0,Beauty,16,los angeles,28/03/2024,Yes,Active_Batch_2024,0
+CUST-2397,45.0,Female,103500.0,1.0,10.0,Fashion,10,New York,2023-11-07,NO,Active_Batch_2024,1
+CUST-2398,49.0,Female,45000.0,3.0,5.0,fashion,11,New York,"Oct 09, 2023",NO,Active_Batch_2024,0
+CUST-2399,67.0,Female,33400.0,67.0,5.0,Beauty,24,new york,02-27-2023,Yes,Active_Batch_2024,0
+CUST-2400,24.0,Female,78100.0,37.0,5.0,Beauty,19,Houston,,No,Active_Batch_2024,0
+CUST-2401,46.0,Male,95800.0,83.0,2.0,Home & Kitchen,15, New York ,2023-12-27,yes,Active_Batch_2024,0
+CUST-2402,25.0,Female,69500.0,29.0,1.0,Fashion,17,Houston,"Jun 03, 2024",Yes,Active_Batch_2024,1
+CUST-2403,18.0,Male,75900.0,89.0,7.0,Electronics,18,New York,03-17-2023,No,Active_Batch_2024,0
+CUST-2404,20.0,Female,113900.0,33.0,7.0,home & kitchen,11,houston,14/11/2023,Yes,Active_Batch_2024,1
+CUST-2405,41.0,Female,96100.0,100.0,7.0,Beauty,13,new york,2024-04-17,No,Active_Batch_2024,0
+CUST-2406,40.0,Male,65800.0,61.0,5.0,Books,21,Phoenix,"Apr 07, 2024",NO,Active_Batch_2024,0
+CUST-2407,25.0,Female,54200.0,,10.0,electronics,18,houston,02-08-2023,Yes,Active_Batch_2024,0
+CUST-2408,64.0,Other,92400.0,90.0,5.0,Electronics,22,Chicago,28/02/2023,yes,Active_Batch_2024,0
+CUST-2409,54.0,Male,85700.0,4.0,10.0,Fashion,17, New York ,2024-01-13,Yes,Active_Batch_2024,1
+CUST-2410,20.0,Female,75500.0,14.0,1.0,fashion,26,los angeles,Invalid Date,NO,Active_Batch_2024,0
+CUST-2411,68.0,Female,56800.0,91.0,10.0,Sports,15,Phoenix,10-21-2023,NO,Active_Batch_2024,0
+CUST-2412,50.0,Female,63100.0,33.0,0.5,Electronics,17,houston,20/03/2023,No,Active_Batch_2024,0
+CUST-2413,45.0,Male,61300.0,22.0,5.0,fashion,11,Chicago,2023-04-03,NO,Active_Batch_2024,0
+CUST-2414,64.0,Male,57200.0,48.0,7.0,Home & Kitchen,15, Chicago ,"Jun 03, 2024",No,Active_Batch_2024,0
+CUST-2415,25.0,Male,50000.0,3.0,0.5,ELECTRONICS ,17,Los Angeles,01-29-2024,NO,Active_Batch_2024,1
+CUST-2416,51.0,Female,,87.0,5.0,home & kitchen,18, New York ,18/04/2024,No,Active_Batch_2024,0
+CUST-2417,52.0,Male,48800.0,85.0,3.0,Home & Kitchen,18,los angeles,2023-02-12,yes,Active_Batch_2024,1
+CUST-2418,49.0,Female,69400.0,23.0,2.0,Fashion,26,new york,"Apr 05, 2024",No,Active_Batch_2024,0
+CUST-2419,41.0,Male,12500.0,68.0,5.0,ELECTRONICS ,18,Houston,07-12-2023,No,Active_Batch_2024,0
+CUST-2420,31.0,Female,50000.0,21.0,3.0,fashion,23,Los Angeles,26/11/2023,yes,Active_Batch_2024,0
+CUST-2421,49.0,Male,92500.0,43.0,1.0,ELECTRONICS ,21, New York ,2024-05-02,No,Active_Batch_2024,0
+CUST-2422,63.0,Male,42500.0,95.0,3.0,Sports,18,Phoenix,"May 28, 2024",No,Active_Batch_2024,0
+CUST-2423,60.0,Male,79800.0,85.0,1.0,Books,13, Chicago ,06-04-2023,yes,Active_Batch_2024,0
+CUST-2424,33.0,Male,44600.0,26.0,5.0,Books,17,new york,05/03/2023,NO,Active_Batch_2024,0
+CUST-2425,21.0,Female,84400.0,41.0,1.0,Home & Kitchen,18,New York,,Yes,Active_Batch_2024,0
+CUST-2426,69.0,Female,57600.0,99.0,3.0,Home & Kitchen,21,houston,"Apr 06, 2024",No,Active_Batch_2024,0
+CUST-2427,54.0,Female,56600.0,38.0,10.0,Fashion,27,houston,04-16-2023,NO,Active_Batch_2024,1
+CUST-2428,38.0,Other,66400.0,88.0,2.0,Fashion,24,new york,18/12/2023,Yes,Active_Batch_2024,0
+CUST-2429,31.0,Female,31400.0,11.0,0.5,electronics,18,New York,2023-03-28,yes,Active_Batch_2024,0
+CUST-2430,48.0,Female,89300.0,29.0,0.5,Sports,13,houston,"May 31, 2024",No,Active_Batch_2024,0
+CUST-2431,65.0,Female,97600.0,60.0,2.0,Fashion,14, New York ,06-26-2023,No,Active_Batch_2024,0
+CUST-2432,35.0,Female,56000.0,67.0,7.0,Beauty,14,new york,10/02/2023,yes,Active_Batch_2024,0
+CUST-2433,24.0,Male,78100.0,65.0,0.5,Sports,22,new york,2023-09-11,No,Active_Batch_2024,0
+CUST-2434,27.0,Female,,61.0,5.0,electronics,24,Phoenix,"Mar 24, 2024",Yes,Active_Batch_2024,1
+CUST-2435,24.0,Male,62700.0,19.0,7.0,Books,20,New York,03-25-2024,Yes,Active_Batch_2024,0
+CUST-2436,50.0,Female,37300.0,46.0,5.0,Electronics,17,Phoenix,20/06/2024,yes,Active_Batch_2024,0
+CUST-2437,40.0,Female,104900.0,49.0,3.0,electronics,22,New York,2024-06-19,No,Active_Batch_2024,0
+CUST-2438,38.0,Male,55200.0,22.0,3.0,electronics,22,Phoenix,"Jun 12, 2023",NO,Active_Batch_2024,0
+CUST-2439,36.0,Male,49800.0,78.0,7.0,Home & Kitchen,14,new york,01-08-2024,No,Active_Batch_2024,0
+CUST-2440,65.0,Female,106000.0,57.0,7.0,home & kitchen,22,Houston,Invalid Date,yes,Active_Batch_2024,0
+CUST-2441,36.0,Female,80300.0,14.0,7.0,ELECTRONICS ,18,Houston,2024-01-17,NO,Active_Batch_2024,0
+CUST-2442,53.0,Male,71400.0,44.0,7.0,Books,13,Houston,"Oct 17, 2023",Yes,Active_Batch_2024,0
+CUST-2443,46.0,Female,40700.0,16.0,1.0,fashion,11,new york,02-01-2024,Yes,Active_Batch_2024,0
+CUST-2444,35.0,Female,85100.0,97.0,10.0,fashion,18,houston,23/02/2024,NO,Active_Batch_2024,0
+CUST-2445,19.0,Female,137400.0,77.0,7.0,Fashion,13, Chicago ,2023-12-13,NO,Active_Batch_2024,0
+CUST-2446,18.0,Other,87000.0,12.0,10.0,Books,14,los angeles,"Feb 23, 2023",yes,Active_Batch_2024,1
+CUST-2447,64.0,Female,77400.0,55.0,7.0,Beauty,14, Chicago ,12-09-2023,No,Active_Batch_2024,1
+CUST-2448,22.0,Male,83000.0,51.0,3.0,Fashion,20,Houston,09/03/2023,Yes,Active_Batch_2024,0
+CUST-2449,37.0,Female,56800.0,39.0,5.0,Fashion,22,houston,2023-12-04,No,Active_Batch_2024,0
+CUST-2450,28.0,Female,56600.0,33.0,10.0,electronics,12,new york,,Yes,Active_Batch_2024,0
+CUST-2451,59.0,Male,56200.0,33.0,3.0,Books,24,Chicago,04-07-2023,No,Active_Batch_2024,0
+CUST-2452,19.0,Male,50600.0,29.0,0.5,ELECTRONICS ,13,houston,31/01/2024,Yes,Active_Batch_2024,1
+CUST-2453,20.0,Male,56200.0,69.0,1.0,Fashion,20,Chicago,2023-10-18,No,Active_Batch_2024,0
+CUST-2454,40.0,Female,56100.0,70.0,1.0,home & kitchen,17,new york,"Sep 16, 2023",yes,Active_Batch_2024,0
+CUST-2455,29.0,Female,58900.0,31.0,5.0,Sports,15, New York ,06-03-2023,Yes,Active_Batch_2024,0
+CUST-2456,37.0,Female,58200.0,80.0,7.0,Beauty,12,New York,08/12/2023,yes,Active_Batch_2024,0
+CUST-2457,22.0,Female,71100.0,31.0,3.0,Beauty,12,los angeles,2023-03-25,Yes,Active_Batch_2024,0
+CUST-2458,54.0,Female,67000.0,89.0,0.5,Fashion,16, Chicago ,"May 25, 2023",Yes,Active_Batch_2024,0
+CUST-2459,55.0,Male,69200.0,46.0,3.0,home & kitchen,16,Phoenix,12-25-2023,Yes,Active_Batch_2024,0
+CUST-2460,47.0,Male,103100.0,97.0,7.0,Sports,13,Phoenix,14/11/2023,No,Active_Batch_2024,0
+CUST-2461,26.0,Male,66900.0,77.0,7.0,Electronics,13,New York,2024-02-06,Yes,Active_Batch_2024,0
+CUST-2462,51.0,Male,120300.0,52.0,2.0,Home & Kitchen,12,houston,"May 13, 2023",yes,Active_Batch_2024,0
+CUST-2463,61.0,Female,73800.0,10.0,3.0,Home & Kitchen,15,Phoenix,03-28-2023,No,Active_Batch_2024,0
+CUST-2464,52.0,Female,53800.0,88.0,5.0,Home & Kitchen,11,Los Angeles,14/11/2023,No,Active_Batch_2024,0
+CUST-2465,69.0,Male,98700.0,74.0,3.0,electronics,20,Phoenix,2024-01-21,Yes,Active_Batch_2024,0
+CUST-2466,39.0,Female,63000.0,41.0,1.0,Beauty,10,new york,"Dec 03, 2023",NO,Active_Batch_2024,0
+CUST-2467,61.0,Female,5200.0,95.0,0.5,fashion,21,New York,05-11-2023,No,Active_Batch_2024,0
+CUST-2468,41.0,Male,64900.0,77.0,10.0,fashion,25,los angeles,23/06/2024,Yes,Active_Batch_2024,0
+CUST-2469,34.0,Male,58800.0,3.0,5.0,electronics,23,New York,2023-04-06,yes,Active_Batch_2024,0
+CUST-2470,27.0,Male,105200.0,59.0,2.0,Fashion,15,los angeles,Invalid Date,NO,Active_Batch_2024,0
+CUST-2471,47.0,Male,42600.0,52.0,0.5,Books,26,Los Angeles,03-09-2024,No,Active_Batch_2024,0
+CUST-2472,63.0,Female,56700.0,34.0,0.5,Books,15,Phoenix,04/06/2024,NO,Active_Batch_2024,0
+CUST-2473,40.0,Male,96700.0,49.0,10.0,Home & Kitchen,22,New York,2024-01-06,No,Active_Batch_2024,0
+CUST-2474,49.0,Male,74900.0,28.0,1.0,Books,16,Chicago,"Jan 19, 2023",NO,Active_Batch_2024,1
+CUST-2475,34.0,Female,60700.0,83.0,1.0,Fashion,11,Houston,,NO,Active_Batch_2024,1
+CUST-2476,67.0,,46100.0,87.0,1.0,Electronics,18,Los Angeles,07/01/2024,yes,Active_Batch_2024,1
+CUST-2477,68.0,Male,73800.0,96.0,5.0,electronics,26,houston,2023-11-13,NO,Active_Batch_2024,0
+CUST-2478,34.0,Male,64300.0,13.0,3.0,Electronics,22,Chicago,"Jul 04, 2023",yes,Active_Batch_2024,0
+CUST-2479,31.0,Male,45800.0,97.0,0.5,Beauty,10,los angeles,08-08-2023,Yes,Active_Batch_2024,1
+CUST-2480,26.0,Male,47100.0,98.0,3.0,Books,18,New York,16/12/2023,No,Active_Batch_2024,0
+CUST-2481,57.0,Male,,97.0,3.0,Sports,22,los angeles,2024-05-12,yes,Active_Batch_2024,0
+CUST-2482,19.0,Female,40200.0,69.0,1.0,Home & Kitchen,19,los angeles,"Jul 16, 2023",No,Active_Batch_2024,0
+CUST-2483,62.0,Male,88400.0,67.0,3.0,electronics,19,Los Angeles,08-20-2023,yes,Active_Batch_2024,0
+CUST-2484,42.0,Male,85000.0,61.0,0.5,Home & Kitchen,19,Chicago,21/05/2023,No,Active_Batch_2024,0
+CUST-2485,56.0,Female,88400.0,60.0,0.5,Books,21,New York,2023-06-08,yes,Active_Batch_2024,1
+CUST-2486,26.0,Male,65100.0,71.0,7.0,ELECTRONICS ,30,Phoenix,"Mar 21, 2023",No,Active_Batch_2024,0
+CUST-2487,39.0,Male,58900.0,24.0,2.0,Books,27, New York ,10-30-2023,Yes,Active_Batch_2024,0
+CUST-2488,60.0,Male,59400.0,63.0,5.0,electronics,20, Chicago ,14/04/2023,No,Active_Batch_2024,0
+CUST-2489,63.0,Other,90500.0,86.0,3.0,fashion,16, Chicago ,2024-06-03,Yes,Active_Batch_2024,0
+CUST-2490,21.0,Male,19500.0,61.0,5.0,electronics,21,Los Angeles,"Jun 23, 2024",Yes,Active_Batch_2024,0
+CUST-2491,43.0,Female,52100.0,23.0,5.0,home & kitchen,19,houston,02-08-2023,Yes,Active_Batch_2024,1
+CUST-2492,46.0,Female,42800.0,30.0,5.0,Sports,25,new york,11/12/2023,NO,Active_Batch_2024,0
+CUST-2493,62.0,Male,99000.0,60.0,10.0,Books,21, New York ,2023-05-15,No,Active_Batch_2024,0
+CUST-2494,51.0,,53100.0,18.0,7.0,home & kitchen,20,New York,"Jan 21, 2024",NO,Active_Batch_2024,0
+CUST-2495,40.0,Male,24100.0,96.0,5.0,fashion,16, Chicago ,06-07-2023,NO,Active_Batch_2024,0
+CUST-2496,54.0,Male,70600.0,56.0,7.0,Fashion,13,houston,16/06/2023,No,Active_Batch_2024,0
+CUST-2497,,Female,55700.0,53.0,0.5,Fashion,16,new york,2023-07-05,Yes,Active_Batch_2024,0
+CUST-2498,23.0,Female,51100.0,,10.0,Sports,24,Chicago,"Jun 19, 2023",NO,Active_Batch_2024,0
+CUST-2499,35.0,Female,48500.0,97.0,3.0,Beauty,24,New York,03-24-2024,NO,Active_Batch_2024,0
+CUST-1000,56.0,Female,63100.0,5.0,5.0,Home & Kitchen,17,Chicago,Invalid Date,Yes,Active_Batch_2024,1
+CUST-1001,69.0,Male,34600.0,4.0,10.0,fashion,18, Chicago ,2023-04-25,NO,Active_Batch_2024,1
+CUST-1002,46.0,Male,,36.0,1.0,home & kitchen,24,los angeles,"Jan 26, 2023",Yes,Active_Batch_2024,0
+CUST-1003,32.0,Female,,6.0,10.0,ELECTRONICS ,19,Los Angeles,10-09-2023,yes,Active_Batch_2024,1
+CUST-1004,60.0,Male,,21.0,7.0,Electronics,21,new york,08/09/2023,Yes,Active_Batch_2024,1
+CUST-1005,,Male,62500.0,77.0,1.0,Books,25,los angeles,2023-08-17,Yes,Active_Batch_2024,0
+CUST-1006,38.0,Female,72800.0,89.0,3.0,electronics,14,houston,"May 23, 2023",Yes,Active_Batch_2024,0
+CUST-1007,56.0,Male,64100.0,26.0,0.5,Sports,24,Los Angeles,04-15-2023,NO,Active_Batch_2024,0
+CUST-1008,36.0,Female,103600.0,55.0,7.0,ELECTRONICS ,14,new york,31/03/2023,yes,Active_Batch_2024,0
+CUST-1009,40.0,Male,46300.0,39.0,10.0,Beauty,15,Chicago,2024-03-08,yes,Active_Batch_2024,0
+CUST-1010,28.0,Female,43400.0,84.0,2.0,Sports,17,Houston,"Feb 02, 2023",yes,Active_Batch_2024,0
+CUST-1011,28.0,Male,30400.0,33.0,0.5,Books,17,new york,01-31-2023,No,Active_Batch_2024,1
+CUST-1012,41.0,Male,950000.0,14.0,0.5,ELECTRONICS ,22,houston,06/04/2023,No,Active_Batch_2024,1
+CUST-1013,53.0,Other,37700.0,56.0,1.0,Home & Kitchen,21, Chicago ,2023-08-12,yes,Active_Batch_2024,0
+CUST-1014,,Female,70500.0,100.0,3.0,home & kitchen,28,new york,"Aug 27, 2023",Yes,Active_Batch_2024,0
+CUST-1015,41.0,Female,65500.0,81.0,0.5,Electronics,30,los angeles,06-01-2024,Yes,Active_Batch_2024,0
+CUST-1016,20.0,Male,38000.0,21.0,10.0,home & kitchen,21,los angeles,28/01/2023,yes,Active_Batch_2024,0
+CUST-1017,39.0,Female,79700.0,46.0,10.0,Fashion,13, Chicago ,2023-07-23,NO,Active_Batch_2024,0
+CUST-1018,19.0,Female,102900.0,16.0,5.0,fashion,11,los angeles,"Mar 05, 2024",NO,Active_Batch_2024,0
+CUST-1019,41.0,Female,73900.0,16.0,5.0,Beauty,20,Chicago,08-14-2023,Yes,Active_Batch_2024,0
+CUST-1020,61.0,Female,1400.0,84.0,0.5,Fashion,20,houston,04/04/2024,Yes,Active_Batch_2024,0
+CUST-1021,47.0,Male,114700.0,29.0,1.0,Fashion,19,New York,2023-10-12,No,Active_Batch_2024,0
+CUST-1022,55.0,Male,83700.0,92.0,1.0,Beauty,26,New York,"Jan 07, 2023",NO,Active_Batch_2024,0
+CUST-1023,19.0,Female,113900.0,8.0,2.0,fashion,31,Houston,06-13-2023,Yes,Active_Batch_2024,0
+CUST-1024,38.0,Male,92300.0,88.0,7.0,Home & Kitchen,15,Phoenix,08/03/2024,Yes,Active_Batch_2024,0
+CUST-1025,50.0,Male,97300.0,3.0,7.0,fashion,20,Chicago,,yes,Active_Batch_2024,1
+CUST-1026,29.0,Female,70100.0,89.0,7.0,Electronics,18,Phoenix,"Dec 15, 2023",No,Active_Batch_2024,0
+CUST-1027,39.0,Female,,19.0,3.0,home & kitchen,20,New York,10-12-2023,NO,Active_Batch_2024,1
+CUST-1028,61.0,Female,74300.0,97.0,1.0,Home & Kitchen,16,new york,09/06/2023,NO,Active_Batch_2024,0
+CUST-1029,42.0,Female,,66.0,2.0,electronics,13,new york,2023-08-09,No,Active_Batch_2024,0
+CUST-1030,66.0,Female,75800.0,79.0,5.0,home & kitchen,16,new york,Invalid Date,Yes,Active_Batch_2024,0
+CUST-1031,44.0,Male,-700.0,86.0,10.0,Home & Kitchen,21,los angeles,12-11-2023,NO,Active_Batch_2024,0
+CUST-1032,59.0,Male,66100.0,74.0,7.0,fashion,16,los angeles,15/04/2023,NO,Active_Batch_2024,0
+CUST-1033,45.0,Male,98600.0,82.0,5.0,Beauty,22, New York ,2023-04-05,NO,Active_Batch_2024,0
+CUST-1034,33.0,Male,67400.0,22.0,5.0,fashion,14,new york,"Jan 25, 2024",yes,Active_Batch_2024,0
+CUST-1035,32.0,Female,108200.0,46.0,0.5,electronics,13,new york,04-10-2023,No,Active_Batch_2024,0
+CUST-1036,64.0,Male,58400.0,91.0,3.0,Home & Kitchen,14,Los Angeles,03/01/2024,NO,Active_Batch_2024,0
+CUST-1037,68.0,Male,90100.0,13.0,2.0,Electronics,17, Chicago ,2023-12-19,No,Active_Batch_2024,0
+CUST-1038,61.0,Male,43000.0,33.0,3.0,fashion,17,New York,"Sep 28, 2023",Yes,Active_Batch_2024,0
+CUST-1039,69.0,Male,89000.0,5.0,0.5,Home & Kitchen,17,los angeles,02-14-2023,No,Active_Batch_2024,0
+CUST-1040,20.0,Male,70800.0,90.0,2.0,home & kitchen,19,houston,15/04/2024,yes,Active_Batch_2024,0
+CUST-1041,54.0,Male,59500.0,77.0,2.0,electronics,13,los angeles,2023-05-08,yes,Active_Batch_2024,0
